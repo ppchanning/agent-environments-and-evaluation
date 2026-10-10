@@ -11,7 +11,7 @@
   <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/README-English_%2B_简体中文-334155" alt="README available in English and Simplified Chinese"></a>
 </p>
 
-<p align="center"><a href="#start-here">Start here</a> · <a href="#explore-the-landscape">Topic map</a> · <a href="#selected-reading">Selected reading</a> · <a href="resources/papers.md">Full bibliography</a> · <a href="digests/README.md">Archives</a> · <a href="CONTRIBUTING.md">Contribute</a></p>
+<p align="center"><a href="#updates">Updates</a> · <a href="#start-here">Start here</a> · <a href="#explore-the-landscape">Topic map</a> · <a href="#selected-reading">Selected reading</a> · <a href="resources/papers.md">Full bibliography</a> · <a href="digests/README.md">Archives</a> · <a href="CONTRIBUTING.md">Contribute</a></p>
 
 **Find interactive, scalable, and verifiable simulation environments for agents.**
 
@@ -20,6 +20,24 @@ This repository focuses on **Agent Simulation Environments**: organizing states,
 The collection brings together papers and technical reading on stateful software simulators, API and tool-service simulation, browser and terminal task environments, trace-driven simulation, language world models, and verifiable environment generation. Tool protocols help explain simulation interfaces; state verification, counterfactual trajectories, and execution evaluation help assess whether simulated worlds and their feedback are trustworthy.
 
 Use the collection to choose environment designs, compare the conditions suited to programmatic and model-driven simulation, find state and behavioral validation methods, and build your own simulation research bibliography. Reading notes retain the problem, method, author-reported evidence, limitations, and original source, helping you judge which research claims a simulator can support.
+
+## Updates
+
+<!-- updates-daily:start -->
+- **2026-10-10** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-10.md) — API testing & task validation.
+- **2026-10-09** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-09.md) — Simulator traces & fault testing.
+- **2026-10-08** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-08.md) — Generated tool environments.
+- **2026-10-07** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-07.md) — Worlds built from interaction traces.
+- **2026-10-06** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-06.md) — API mirrors & world-model fidelity.
+- **2026-10-05** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-05.md) — Stateful simulation & API tasks.
+- **2026-10-04** — [3 simulation & validation resources](digests/agent-environments/2026/2026-10-04.md) — Checking state & simulation error.
+<!-- updates-daily:end -->
+
+Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
+
+<!-- updates-milestones:start -->
+- 🚀 **2026-10-10** — [Launched](https://github.com/ppchanning/agent-environments-and-evaluation/commit/af1062e) with [43 resources](resources/papers.md) and [4 simulation reading paths](topics/README.md); added [English / Chinese homepages](README.zh-CN.md) and [update history](CHANGELOG.md).
+<!-- updates-milestones:end -->
 
 ## Start here
 

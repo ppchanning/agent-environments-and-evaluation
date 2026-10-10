@@ -11,7 +11,7 @@
   <a href="README.md"><img src="https://img.shields.io/badge/README-English_%2B_简体中文-334155" alt="README available in English and Simplified Chinese"></a>
 </p>
 
-<p align="center"><a href="#start-here">快速开始</a> · <a href="#explore-the-landscape">主题地图</a> · <a href="#selected-reading">代表资料</a> · <a href="resources/papers.md">完整书目</a> · <a href="digests/README.md">晨读归档</a> · <a href="CONTRIBUTING.md">参与贡献</a></p>
+<p align="center"><a href="#updates">更新记录</a> · <a href="#start-here">快速开始</a> · <a href="#explore-the-landscape">主题地图</a> · <a href="#selected-reading">代表资料</a> · <a href="resources/papers.md">完整书目</a> · <a href="digests/README.md">晨读归档</a> · <a href="CONTRIBUTING.md">参与贡献</a></p>
 
 **为 Agent 寻找可交互、可扩展、可验证的仿真环境。**
 
@@ -20,6 +20,24 @@
 这里汇集有状态软件模拟器、API / 工具服务仿真、浏览器与终端任务环境、轨迹驱动仿真、语言世界模型及可验证环境生成等方向的论文与技术阅读材料。工具协议用于理解仿真的交互接口；状态验证、反事实轨迹和执行评测用于判断模拟世界及其反馈是否可信。
 
 读者可以据此选择环境设计方案、比较程序化与模型驱动仿真的适用条件、寻找状态和行为验证方法，并建立自己的仿真研究文献表。论文笔记保留问题、方法、作者证据、限制和原始出处，帮助判断一个模拟器能支持哪些研究结论。
+
+## Updates
+
+<!-- updates-daily:start -->
+- **2026-10-10** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-10.md) — API 测试与任务验证。
+- **2026-10-09** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-09.md) — 仿真轨迹与故障测试。
+- **2026-10-08** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-08.md) — 自动生成工具环境。
+- **2026-10-07** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-07.md) — 从交互轨迹生成世界。
+- **2026-10-06** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-06.md) — API 仿真与世界模型保真。
+- **2026-10-05** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-05.md) — 有状态仿真与 API 任务。
+- **2026-10-04** — [3 篇仿真与验证资料](digests/agent-environments/2026/2026-10-04.md) — 状态核查与仿真误差。
+<!-- updates-daily:end -->
+
+首页保留最近 7 天；[查看完整记录](CHANGELOG.zh-CN.md)。 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入，非历史发布记录。
+
+<!-- updates-milestones:start -->
+- 🚀 **2026-10-10** — [仓库上线](https://github.com/ppchanning/agent-environments-and-evaluation/commit/af1062e)：整理 [43 项资料](resources/papers.md)、[4 条仿真阅读路径](topics/README.md)，提供[中英文首页](README.md)与[更新记录](CHANGELOG.zh-CN.md)。
+<!-- updates-milestones:end -->
 
 ## Start here
 
