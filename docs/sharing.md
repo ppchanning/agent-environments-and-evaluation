@@ -1,6 +1,6 @@
 # Sharing Guide
 
-永久入口：https://github.com/ppchanning/agent-environment-reading
+永久入口：https://github.com/ppchanning/agent-environments-and-evaluation
 
 分享单条资料时链接其归档页；科研结论引用原论文，集合结构可使用 [CITATION.cff](../CITATION.cff)。封面源文件：[banner.svg](../assets/banner.svg)。
 

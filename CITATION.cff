@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "Cite this collection for organization; cite original papers for scientific claims."
-title: "Agent Environment Reading"
+title: "Agent Environments & Evaluation"
 type: dataset
 authors:
   - name: "ppchanning"
-repository-code: "https://github.com/ppchanning/agent-environment-reading"
-url: "https://github.com/ppchanning/agent-environment-reading"
+repository-code: "https://github.com/ppchanning/agent-environments-and-evaluation"
+url: "https://github.com/ppchanning/agent-environments-and-evaluation"
 license: CC-BY-4.0
