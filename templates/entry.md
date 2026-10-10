@@ -9,6 +9,10 @@
 
 ## Question
 
+## Simulation relevance
+
+Identify the simulated system, state/actions/observations, environment generation, behavioral fidelity, or verification mechanism. If this is supporting interface/testing/evaluation research, explain the connection rather than labeling it a simulator.
+
 ## Method
 
 ## Evidence

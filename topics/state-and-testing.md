@@ -1,4 +1,7 @@
-# State & behavioral testing
+# State & behavioral fidelity · 状态与行为保真
+
+关注仿真动作序列、持久状态与隐藏动态是否一致，以及模拟行为能否通过状态检查、差分测试和反事实轨迹验证。相关软件测试资料作为设计仿真验证机制的参考。
+
 
 - [Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms](https://arxiv.org/abs/2609.27321) · [阅读笔记](../digests/agent-environments/2026/2026-09-28.md)
 - [Breaking the Environment Wall: A Unified Framework for Preparing and Evolving Agent-Native Environments](https://arxiv.org/abs/2609.29773) · [阅读笔记](../digests/agent-environments/2026/2026-09-30.md)

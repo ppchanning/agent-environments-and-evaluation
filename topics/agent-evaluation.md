@@ -1,4 +1,7 @@
-# Agent evaluation
+# Simulation validity & execution evaluation · 仿真可信度与执行评测
+
+将评测用于理解仿真的保真度、可信反馈和 Agent 执行证据。结合真实系统对照、轨迹与任务结果，检查环境偏差和迁移条件；相关通用基准资料提供方法参考，不等同于仿真质量结论。
+
 
 - [Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms](https://arxiv.org/abs/2609.27321) · [阅读笔记](../digests/agent-environments/2026/2026-09-28.md)
 - [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://arxiv.org/abs/2609.04148) · [阅读笔记](../digests/agent-environments/2026/2026-09-28.md)

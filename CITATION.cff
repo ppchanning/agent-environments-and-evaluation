@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Cite this collection for organization; cite original papers for scientific claims."
-title: "Agent Environments & Evaluation"
+title: "Agent Simulation Environments"
 type: dataset
 authors:
   - name: "ppchanning"

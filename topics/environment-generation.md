@@ -1,4 +1,7 @@
-# Environment generation
+# Simulation design & environment generation · 仿真环境构建与生成
+
+关注有状态软件模拟器、程序化环境合成、轨迹驱动仿真与语言世界模型。阅读时比较状态表示、初始化与重置、动作和观察接口、反馈机制、生成规模及真实系统参照。
+
 
 - [Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms](https://arxiv.org/abs/2609.27321) · [阅读笔记](../digests/agent-environments/2026/2026-09-28.md)
 - [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://arxiv.org/abs/2609.04148) · [阅读笔记](../digests/agent-environments/2026/2026-09-28.md)

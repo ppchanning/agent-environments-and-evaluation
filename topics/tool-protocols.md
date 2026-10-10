@@ -1,4 +1,7 @@
-# Tool protocols & APIs
+# Tool interfaces & service simulation · 工具接口与服务仿真
+
+从仿真交互层理解 MCP / API 协议、工具反馈、有状态服务模拟和接口测试。区分接口描述、返回结果和真实状态变化，关注如何保留被模拟服务的行为。
+
 
 - [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](https://arxiv.org/abs/2609.24890) · [阅读笔记](../digests/agent-environments/2026/2026-09-29.md)
 - [How to Evaluate AI Agents From Tool Calls to Task Completion](https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/) · [阅读笔记](../digests/agent-environments/2026/2026-09-29.md)

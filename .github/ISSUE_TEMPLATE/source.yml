@@ -1,5 +1,5 @@
 name: Add a source
-description: Suggest a paper or resource
+description: Suggest simulation research or a supporting resource
 title: "[source] "
 body:
   - type: input
@@ -12,6 +12,6 @@ body:
     id: evidence
     attributes:
       label: Relevance and evidence
-      description: Include date, material type, and limitations.
+      description: Explain relevance to agent simulation, environment generation, or fidelity verification; include date, type, and limitations.
     validations:
       required: true

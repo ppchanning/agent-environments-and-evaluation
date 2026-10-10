@@ -1,64 +1,66 @@
-<p align="center"><img src="assets/banner.svg" alt="Agent Environments &amp; Evaluation" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Agent Simulation Environments" width="100%"></p>
 
-<h1 align="center">Agent Environments &amp; Evaluation</h1>
-<p align="center"><strong>Agent 环境、仿真与评测的论文及技术阅读地图</strong><br>Explore the tools, executable worlds, and evidence behind reliable AI agents.</p>
+<h1 align="center">Agent Simulation Environments</h1>
+<p align="center"><strong>Agent 仿真环境：构建、生成与可信验证的研究地图</strong><br>Explore how interactive worlds are simulated, generated, and validated for AI agents.</p>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/content-CC_BY_4.0-6366f1" alt="Content license: CC BY 4.0"></a>
-  <a href="topics/README.md"><img src="https://img.shields.io/badge/focus-tools_%7C_simulation_%7C_evaluation-0284c7" alt="Tools, simulation and evaluation"></a>
+  <a href="topics/README.md"><img src="https://img.shields.io/badge/focus-simulation_%7C_generation_%7C_fidelity-0284c7" alt="Simulation, environment generation and fidelity"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/notes-中文_%2B_English-334155" alt="Chinese notes and English paper titles"></a>
 </p>
 
 <p align="center"><a href="#start-here">快速开始</a> · <a href="#explore-the-landscape">主题地图</a> · <a href="#selected-reading">代表资料</a> · <a href="resources/papers.md">完整书目</a> · <a href="digests/README.md">晨读归档</a> · <a href="CONTRIBUTING.md">参与贡献</a></p>
 
-**理解 Agent 如何与外部世界交互，以及怎样判断它真正完成了任务。**
+**为 Agent 寻找可交互、可扩展、可验证的仿真环境。**
 
-一个 Agent 的表现与它可用的工具、能够观察的状态、执行动作的环境以及成功标准密切相关。本仓库围绕这些系统环节整理论文与技术案例：从 MCP / API 工具接口，到有状态的软件模拟器、自动生成的训练环境、长任务轨迹与行为评测。
+本仓库聚焦 **Agent 仿真环境（Agent Simulation Environments）**：把软件系统、工具服务和任务世界中的状态、动作、观察、反馈与状态转移机制，组织为 Agent 可以反复交互的模拟世界。研究主线是这些世界如何构建、如何自动生成、如何保持行为一致性，以及训练和测试结果在什么条件下能迁移到真实系统。
 
-你可以在这里发现值得读的工作，比较环境与评测设计，寻找构建测试环境的思路，并追溯“任务完成”这一结论由什么证据支持。阅读笔记将论文的问题、方法、证据、限制和建议阅读章节放在一起，便于从标题走向原文。
+这里汇集有状态软件模拟器、API / 工具服务仿真、浏览器与终端任务环境、轨迹驱动仿真、语言世界模型及可验证环境生成等方向的论文与技术阅读材料。工具协议用于理解仿真的交互接口；状态验证、反事实轨迹和执行评测用于判断模拟世界及其反馈是否可信。
+
+读者可以据此选择环境设计方案、比较程序化与模型驱动仿真的适用条件、寻找状态和行为验证方法，并建立自己的仿真研究文献表。论文笔记保留问题、方法、作者证据、限制和原始出处，帮助判断一个模拟器能支持哪些研究结论。
 
 ## Start here
 
 | 你想解决什么问题 | 阅读入口 | 可以获得什么 |
 | --- | --- | --- |
-| 最近有哪些值得关注的论文？ | [最新晨读](digests/agent-environments/2026/2026-10-10.md) · [历史归档](digests/README.md) | 每期推荐、方法解读、证据限制和原始来源 |
-| Agent 的工具接口应该怎样理解和测试？ | [工具协议与 API](topics/tool-protocols.md) | 接口描述、工具调用与实际行为之间的研究线索 |
-| 如何为 Agent 构建可交互、可校验的环境？ | [环境生成与仿真](topics/environment-generation.md) | 自动生成环境、轨迹驱动模拟与世界模型相关方法 |
-| 怎样检查动作是否真的改变了系统？ | [状态与行为测试](topics/state-and-testing.md) | 状态转移、隐藏状态、行为一致性与验证问题 |
-| 怎样衡量长任务和真实完成情况？ | [Agent 评测](topics/agent-evaluation.md) | 过程评测、执行轨迹、任务结果与环境偏差的阅读路径 |
+| 如何构建或自动生成 Agent 仿真环境？ | [仿真环境构建与生成](topics/environment-generation.md) | 有状态模拟器、程序化生成、轨迹驱动仿真与语言世界模型的研究线索 |
+| 仿真是否保持了真实系统的状态和行为？ | [状态与行为验证](topics/state-and-testing.md) | 状态转移、隐藏动态、行为一致性与验证方法 |
+| 如何模拟 Agent 使用的工具和服务？ | [工具接口与服务仿真](topics/tool-protocols.md) | MCP / API 接口、工具反馈与有状态服务行为的阅读路径 |
+| 如何评价仿真质量及其中的 Agent 执行？ | [仿真可信度与执行评测](topics/agent-evaluation.md) | 仿真保真度、轨迹检查、结果验证和迁移限制的比较思路 |
+| 最近有哪些值得关注的仿真研究？ | [最新晨读](digests/agent-environments/2026/2026-10-10.md) · [历史归档](digests/README.md) | 每期推荐、方法解读、证据限制和原始来源 |
 | 如何整理自己的相关工作表？ | [完整书目](resources/papers.md) · [JSON 数据](data/README.md) | 去重标识、来源、版本与出现记录，便于筛选和继续阅读 |
 
-适合 Agent 系统开发者、工具与 MCP 服务开发者、环境及评测研究者，也适合希望从通用 Agent 论文进入具体系统问题的学生。中文笔记保留英文题名与原始出处。
+适合构建 Agent 训练与测试环境的研究者、软件及工具服务模拟器开发者、世界模型与合成环境研究者，以及需要验证仿真状态和行为的系统开发者。中文笔记保留英文题名与原始出处。
 
 ## Explore the landscape
 
-### Tools, protocols & APIs · 工具接口与协议
+### Simulation design & environment generation · 仿真环境构建与生成
 
-工具 schema 描述输入输出，执行系统决定真实行为。该主题关注工具使用、MCP / API 交互及接口与行为之间的关系，帮助读者为调用成功、参数有效和任务完成建立不同层面的判断。
+研究如何把软件、工具服务和任务流程变成可交互的模拟世界。覆盖有状态模拟器、自动生成环境、轨迹驱动仿真和语言世界模型，比较环境初始化、状态转移、任务生成与反馈机制，以及规模扩展与行为保真度之间的取舍。
 
-**阅读入口：** [Tool protocols & APIs](topics/tool-protocols.md)
+**阅读入口：** [Simulation design & environment generation](topics/environment-generation.md)
 
-### Environment generation & simulation · 环境生成与仿真
+### State & behavioral fidelity · 状态与行为保真
 
-Agent 的训练与测试需要可交互的任务世界。该主题连接自动生成环境、轨迹驱动模拟、语言世界模型和可验证机制，关注环境从哪里来、能保持哪些行为、怎样提供反馈，以及模拟与真实系统有哪些差距。
+仿真质量需要检查动作序列是否产生合理的状态变化、隐藏动态是否一致、错误条件是否被保留，以及长交互中是否出现行为漂移。该主题整理状态检查、差分测试、反事实轨迹与行为验证的研究线索。
 
-**阅读入口：** [Environment generation](topics/environment-generation.md)
+**阅读入口：** [State & behavioral verification](topics/state-and-testing.md)
 
-### State & behavioral verification · 状态与行为验证
+### Tool interfaces & service simulation · 工具接口与服务仿真
 
-返回成功、数据库发生变化和用户目标达成，是不同的证据。该主题关注持久状态、动作序列、隐藏动态和行为一致性，提供理解有状态模拟器及检查任务结果的阅读线索。
+MCP / API 协议定义 Agent 与环境交互的接口，模拟器还需要实现接口背后的状态与服务行为。该主题关注工具调用、服务反馈、接口测试和真实 API 的模拟，支持理解和验证仿真环境的交互层。
 
-**阅读入口：** [State & behavioral testing](topics/state-and-testing.md)
+**阅读入口：** [Tool interfaces & service simulation](topics/tool-protocols.md)
 
-### Agent evaluation & execution evidence · 评测与执行证据
+### Simulation validity & execution evaluation · 仿真可信度与执行评测
 
-面对长任务，最终分数往往需要结合执行过程理解。该主题关注轨迹、过程指标、结果验证、可观测性与环境变化，帮助读者比较论文各自测量了什么，避免脱离任务和环境解释成绩。
+结合执行轨迹、任务结果、过程指标和真实系统对照，判断仿真反馈是否可靠、其中测得的 Agent 能力适用于什么范围。关注保真度、可复现性、环境偏差与迁移条件，并保留支持这些判断的原始证据。
 
-**阅读入口：** [Agent evaluation](topics/agent-evaluation.md)
+**阅读入口：** [Simulation validity & execution evaluation](topics/agent-evaluation.md)
 
 ## Selected reading
 
-下面按阅读问题展示代表资料。题目链接指向原始来源，中文问题是本集合的阅读切入点；完整元数据与关联晨读见 [Paper Catalog](resources/papers.md)。
+下面围绕仿真环境的构建、生成和验证展示代表资料。题目链接指向原始来源，中文问题是本集合的阅读切入点；完整元数据与关联晨读见 [Paper Catalog](resources/papers.md)。
 
 | 阅读问题 | 代表资料 | 关联主题 |
 | --- | --- | --- |
@@ -66,15 +68,15 @@ Agent 的训练与测试需要可交互的任务世界。该主题连接自动�
 | 如何自动生成带验证机制的技能训练环境？ | [SkillGym](https://arxiv.org/abs/2609.37539) | 环境生成、工具使用 |
 | 有状态的软件模拟器怎样接受行为检查？ | [CTE-Bench](https://arxiv.org/abs/2609.36647) | 仿真、状态、评测 |
 | Agent 宣称完成后，应该检查什么系统证据？ | [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) | 任务验证、真实状态 |
-| Computer-use 任务的执行过程如何评价？ | [OSWorld-Pro](https://arxiv.org/abs/2609.24890) | 执行轨迹、过程评测 |
+| 如何模拟真实 API 的交互行为？ | [StableToolBench-MirrorAPI](https://aclanthology.org/2025.findings-acl.273/) | 工具服务仿真、API 环境 |
 
 ## What a reading note gives you
 
 每期围绕以下问题组织内容，具体深度取决于可访问的原始证据：
 
-- **问题与场景：** 研究针对哪类 Agent、工具或任务，为什么需要这个环境或评测。
-- **方法与系统：** 环境如何运行，Agent 能观察和执行什么，关键机制在哪里。
-- **作者证据：** 使用哪些数据、任务和对照，结果支持什么范围的结论。
+- **问题与场景：** 研究模拟哪类系统、工具或任务，为什么需要仿真，真实参照是什么。
+- **方法与系统：** 仿真如何表示状态、动作、观察与反馈，环境如何生成和更新，关键机制在哪里。
+- **作者证据：** 使用哪些轨迹、任务、真实系统对照或验证机制，结果支持什么范围的仿真质量与 Agent 能力结论。
 - **限制与迁移条件：** 模拟与真实执行的差距、未覆盖的行为，以及理解结果需要保留的条件。
 - **继续阅读：** 原论文链接、版本信息及适合优先阅读的章节。
 
@@ -92,7 +94,7 @@ Agent 的训练与测试需要可交互的任务世界。该主题连接自动�
 
 1. **首次进入：** 选一个实际问题，从对应主题页挑选论文，再结合晨读找到阅读重点。
 2. **持续跟踪：** 阅读最新一期，通过历史归档回看同一方向的方法变化。
-3. **设计系统或评测：** 比较不同工作中的状态、动作、反馈和验证机制；回到原文确认适用条件。
+3. **设计仿真环境：** 比较不同工作中的状态、动作、反馈、环境生成和保真度验证机制；回到原文确认适用条件。
 4. **整理相关工作：** 下载 [papers.json](data/papers.json)，按标识、版本和出现记录去重，建立自己的文献表。可选字段可能缺失，详见 [Data Guide](data/README.md)。
 5. **贡献资料：** 推荐有来源的论文或技术案例，改进主题归类和元数据，或提交证据纠错。见 [贡献指南](CONTRIBUTING.md) 与 [Issues](https://github.com/ppchanning/agent-environments-and-evaluation/issues)。
 
@@ -100,7 +102,7 @@ Agent 的训练与测试需要可交互的任务世界。该主题连接自动�
 
 ```text
 digests/       # 论文晨读：频道 / 年份 / 日期
-topics/        # 工具、环境生成、状态行为与评测
+topics/        # 仿真构建与生成、状态保真、服务仿真与执行验证
 resources/     # 完整书目与原始来源入口
 data/          # 去重 JSON 书目与字段说明
 docs/          # 编辑标准、分享说明与设计参考

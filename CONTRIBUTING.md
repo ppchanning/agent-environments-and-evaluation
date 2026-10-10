@@ -1,6 +1,6 @@
 # Contributing
 
-欢迎补充有原始来源的资料或纠正事实。先读 [编辑规范](docs/editorial-policy.md)，使用 [资料模板](templates/entry.md)。
+欢迎补充 Agent 仿真环境构建、生成与验证方向的原始资料，或纠正事实。推荐工具协议、软件测试或执行评测材料时，请说明其对仿真的具体作用。先读 [编辑规范](docs/editorial-policy.md)，使用 [资料模板](templates/entry.md)。
 
 1. 检查 DOI / arXiv / URL，避免重复；版本更新修订已有条目。
 2. 提供原始链接、首发日期、类型、核验日期。
