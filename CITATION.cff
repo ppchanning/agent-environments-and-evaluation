@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite this collection for organization; cite original papers for scientific claims."
+title: "Agent Environment Reading"
+type: dataset
+authors:
+  - name: "ppchanning"
+repository-code: "https://github.com/ppchanning/agent-environment-reading"
+url: "https://github.com/ppchanning/agent-environment-reading"
+license: CC-BY-4.0
