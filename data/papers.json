@@ -967,5 +967,113 @@
       "digests/agent-environments/2026/2026-10-10.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "FDRRestTest: Feedback-Driven Logical Testing for REST APIs",
+    "authors": "Yutong Huo; Dongcheng Li",
+    "team": "China University of Geosciences, Wuhan; Cal Poly Humboldt",
+    "doi": "10.4230/lipics.esem.2026.20",
+    "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.20",
+    "fulltext_url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol394-esem2026/LIPIcs.ESEM.2026.20/LIPIcs.ESEM.2026.20.pdf",
+    "first_published": "2026-10-05",
+    "verified_version": "publisher proceedings",
+    "version_date": "2026-10-05",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-11T07:08:40.340298+08:00",
+    "evidence": "12 services, 600 seconds, 10 repetitions; FRE .9878 vs .9294 upper estimate; manual 96/120 true defects from 236 findings; lower throughput",
+    "read_first": "§3.4–3.7; Table 2; §4.3.3",
+    "id": "doi:10.4230/lipics.esem.2026.20",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "FRE counts multiple signals per response; baseline logical signals reconstructed post hoc; confirmed 96/120 applies only to the reviewed sample, not all findings."
+  },
+  {
+    "title": "Automated CRUD Semantics Inference for REST APIs",
+    "authors": "Michele Pasqua; Davide Corradini; Michele Perlotto; Mariano Ceccato",
+    "team": "University of Verona; University of Luxembourg; University of Naples Federico II",
+    "doi": "10.1145/3744916.3787826",
+    "url": "https://iris.univr.it/handle/11562/1193047",
+    "fulltext_url": "https://michelepasqua.github.io/publications/pdfs/ICSE26.pdf",
+    "verified_version": "ICSE 2026 author manuscript",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-11T07:08:40.340298+08:00",
+    "evidence": "13 APIs, 395 operations, 10 repetitions; ground truth independent source-code annotations and arbiter; precision .95 recall .65; LLM baseline recall .99",
+    "read_first": "§3.2; Table 3; §4 discussion",
+    "id": "doi:10.1145/3744916.3787826",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "CRUD patterns do not cover non-CRUD operations; confirmation may reject legitimate service behavior such as repeat-delete semantics."
+  },
+  {
+    "title": "Checking Security Properties of Cloud Service REST APIs",
+    "authors": "Vaggelis Atlidakis; Patrice Godefroid; Marina Polishchuk",
+    "team": "Columbia University; Microsoft Research",
+    "doi": "10.1109/icst46399.2020.00046",
+    "url": "https://www.microsoft.com/en-us/research/publication/checking-security-properties-of-cloud-services-rest-apis/",
+    "fulltext_url": "https://patricegodefroid.github.io/public_psfiles/icst2020.pdf",
+    "first_published": "2019-02",
+    "verified_version": "ICST 2020 author paper",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-11T07:08:40.340298+08:00",
+    "evidence": "3 production services,13/19/18 request types,1-hour experiments; optimized preserves exhaustive-mode buckets in these services;7 unique reported bugs across experiments",
+    "read_first": "§III-B; §V resource-leak example",
+    "id": "doi:10.1109/icst46399.2020.00046",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Three services only; optimized mode preserving observed defect classes is not a universal completeness guarantee."
+  },
+  {
+    "title": "RESTler: Stateful REST API Fuzzing",
+    "authors": "Vaggelis Atlidakis; Patrice Godefroid; Marina Polishchuk",
+    "team": "Columbia University; Microsoft Research",
+    "doi": "10.1109/icse.2019.00083",
+    "arxiv": "1806.09739",
+    "url": "https://www.microsoft.com/en-us/research/publication/restler-stateful-rest-api-fuzzing/",
+    "fulltext_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2021/03/RESTler.pdf",
+    "first_published": "2018-06-26",
+    "verified_version": "ICSE 2019 full paper",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-11T07:08:40.340298+08:00",
+    "evidence": "controlled blog service dependency/feedback ablations at length3;GitLab strategy experiments TableIII22 bugs vs abstract overall28 distinct scope",
+    "read_first": "Figure 3; Figure 4",
+    "id": "arxiv:1806.09739",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Invalid-prefix pruning can miss failed-call side effects; greater sequence depth need not improve code coverage."
+  },
+  {
+    "title": "RESTCov: A Tool for Structural Coverage Analysis of REST APIs",
+    "authors": "Tolgahan Bardakci; Serge Demeyer",
+    "team": "University of Antwerp; Flanders Make",
+    "doi": "10.48550/arxiv.2608.28114",
+    "arxiv": "2608.28114",
+    "url": "https://arxiv.org/abs/2608.28114",
+    "fulltext_url": "https://arxiv.org/html/2608.28114v1",
+    "first_published": "2026-08-28",
+    "verified_version": "v1",
+    "version_date": "2026-08-28",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-11T07:08:40.340298+08:00",
+    "evidence": "Petstore demonstration:14paths20operations25parameters100%,14/36 response statuses38.9%;no comprehensive cross-API evaluation in this paper",
+    "read_first": "Petstore coverage table; unmatched request example",
+    "id": "arxiv:2608.28114",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Petstore demonstration; structural coverage does not establish transition coverage or behavioral correctness."
   }
 ]

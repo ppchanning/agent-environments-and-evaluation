@@ -47,3 +47,8 @@
 | [ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities](https://arxiv.org/abs/2408.04682) | Jiarui Lu et al. | 2024-08-08 | preprint |
 | [You Can REST Now: Automated REST API Documentation and Testing via LLM-Assisted Request Mutations](https://arxiv.org/abs/2402.05102) | Alix Decrop et al. | 2024-02-07 | preprint |
 | [Differential Regression Testing for REST APIs](https://www.microsoft.com/en-us/research/publication/differential-regression-testing-for-rest-apis/) | Patrice Godefroid, Daniel Lehmann, Marina Polishchuk | 2019-08 | conference_paper |
+| [FDRRestTest: Feedback-Driven Logical Testing for REST APIs](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.20) | Yutong Huo; Dongcheng Li | 2026-10-05 | conference_paper |
+| [Automated CRUD Semantics Inference for REST APIs](https://iris.univr.it/handle/11562/1193047) | Michele Pasqua; Davide Corradini; Michele Perlotto; Mariano Ceccato | — | conference_paper |
+| [Checking Security Properties of Cloud Service REST APIs](https://www.microsoft.com/en-us/research/publication/checking-security-properties-of-cloud-services-rest-apis/) | Vaggelis Atlidakis; Patrice Godefroid; Marina Polishchuk | 2019-02 | conference_paper |
+| [RESTler: Stateful REST API Fuzzing](https://www.microsoft.com/en-us/research/publication/restler-stateful-rest-api-fuzzing/) | Vaggelis Atlidakis; Patrice Godefroid; Marina Polishchuk | 2018-06-26 | conference_paper |
+| [RESTCov: A Tool for Structural Coverage Analysis of REST APIs](https://arxiv.org/abs/2608.28114) | Tolgahan Bardakci; Serge Demeyer | 2026-08-28 | preprint |

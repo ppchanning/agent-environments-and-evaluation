@@ -24,13 +24,13 @@ Use the collection to choose environment designs, compare the conditions suited 
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-10-11** — Added [5 papers in 1 new issue](digests/agent-environments/2026/2026-10-11.md) — Stateful API exploration, hidden side effects & structural coverage. Real-service testing informs simulation validation.
 - **2026-10-10** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-10.md) — API testing & task validation.
 - **2026-10-09** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-09.md) — Simulator traces & fault testing.
 - **2026-10-08** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-08.md) — Generated tool environments.
 - **2026-10-07** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-07.md) — Worlds built from interaction traces.
 - **2026-10-06** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-06.md) — API mirrors & world-model fidelity.
 - **2026-10-05** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-05.md) — Stateful simulation & API tasks.
-- **2026-10-04** — [3 simulation & validation resources](digests/agent-environments/2026/2026-10-04.md) — Checking state & simulation error.
 <!-- updates-daily:end -->
 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
@@ -47,7 +47,7 @@ Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow ma
 | Does a simulation preserve a real system's state and behavior? | [State and behavioral verification](topics/state-and-testing.md) | State transitions, hidden dynamics, behavioral consistency, and validation methods |
 | How can an agent's tools and services be simulated? | [Tool interfaces and service simulation](topics/tool-protocols.md) | Reading paths through MCP / API interfaces, tool feedback, and stateful service behavior |
 | How should simulation quality and agent execution be evaluated? | [Simulation validity and execution evaluation](topics/agent-evaluation.md) | Ways to compare simulation fidelity, trace checks, result verification, and transfer limitations |
-| Which simulation studies are worth following now? | [Latest reading notes](digests/agent-environments/2026/2026-10-10.md) · [Archives](digests/README.md) | Recommendations, method explanations, evidence limitations, and original sources |
+| Which simulation studies are worth following now? | [Latest reading notes](digests/agent-environments/2026/2026-10-11.md) · [Archives](digests/README.md) | Recommendations, method explanations, evidence limitations, and original sources |
 | How can I organize my own related-work table? | [Full bibliography](resources/papers.md) · [JSON data](data/README.md) | Deduplicated identifiers, sources, versions, and appearance records for filtering and further reading |
 
 For researchers building agent training and testing environments, developers of software and tool-service simulators, world-model and synthetic-environment researchers, and systems developers who need to verify simulation state and behavior. **The homepage is available in English and [Simplified Chinese](README.zh-CN.md). Most research notes and supporting guides are currently in Chinese, retaining original English titles and source links.**
@@ -105,9 +105,9 @@ Topic indexes support comparison across methods, dated archives support continue
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-10-10**: **11 reading issues · 43 deduplicated resources · 4 topical reading paths**.
+As of **2026-10-11**: **12 reading issues · 48 deduplicated resources · 4 topical reading paths**.
 
-The reading archive covers 2026-09-28 through 2026-10-10, with possible gaps within that date range. New and revised material is archived by date, with current entry points, topic indexes, and the deduplicated bibliography maintained together.
+The reading archive covers 2026-09-28 through 2026-10-11, with possible gaps within that date range. New and revised material is archived by date, with current entry points, topic indexes, and the deduplicated bibliography maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

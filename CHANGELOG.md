@@ -12,6 +12,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-11** — Added [5 papers in 1 new issue](digests/agent-environments/2026/2026-10-11.md) — Stateful API exploration, hidden side effects & structural coverage. Real-service testing informs simulation validation. No paper revisions or backfilled issues.
+
 - **2026-10-10** — Added [2-language update history](CHANGELOG.zh-CN.md), covering 11 material dates; the [homepage](README.md#updates) shows 7 days.
 
 ## Backfilled reading timeline

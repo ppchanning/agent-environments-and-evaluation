@@ -37,4 +37,9 @@
 - [ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities](https://arxiv.org/abs/2408.04682) · [阅读笔记](../digests/agent-environments/2026/2026-10-09.md)
 - [Weblica: Scalable and Reproducible Training Environments for Visual Web Agents](https://arxiv.org/abs/2605.06761) · [阅读笔记](../digests/agent-environments/2026/2026-10-09.md)
 
+- [FDRRestTest: Feedback-Driven Logical Testing for REST APIs](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.20) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [Checking Security Properties of Cloud Service REST APIs](https://www.microsoft.com/en-us/research/publication/checking-security-properties-of-cloud-services-rest-apis/) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [RESTler: Stateful REST API Fuzzing](https://www.microsoft.com/en-us/research/publication/restler-stateful-rest-api-fuzzing/) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [RESTCov: A Tool for Structural Coverage Analysis of REST APIs](https://arxiv.org/abs/2608.28114) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+
 [完整书目](../resources/papers.md) · [全部主题](README.md)

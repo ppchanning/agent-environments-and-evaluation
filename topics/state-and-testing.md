@@ -34,4 +34,10 @@
 - [You Can REST Now: Automated REST API Documentation and Testing via LLM-Assisted Request Mutations](https://arxiv.org/abs/2402.05102) · [阅读笔记](../digests/agent-environments/2026/2026-10-10.md)
 - [RESTOR: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning](https://arxiv.org/abs/2607.23963) · [阅读笔记](../digests/agent-environments/2026/2026-10-10.md)
 
+- [FDRRestTest: Feedback-Driven Logical Testing for REST APIs](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.20) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [Automated CRUD Semantics Inference for REST APIs](https://iris.univr.it/handle/11562/1193047) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [Checking Security Properties of Cloud Service REST APIs](https://www.microsoft.com/en-us/research/publication/checking-security-properties-of-cloud-services-rest-apis/) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [RESTler: Stateful REST API Fuzzing](https://www.microsoft.com/en-us/research/publication/restler-stateful-rest-api-fuzzing/) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [RESTCov: A Tool for Structural Coverage Analysis of REST APIs](https://arxiv.org/abs/2608.28114) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+
 [完整书目](../resources/papers.md) · [全部主题](README.md)
