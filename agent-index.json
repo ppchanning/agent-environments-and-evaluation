@@ -118,5 +118,18 @@
     "original_compilation": "CC-BY-4.0",
     "url": "https://ppchanning.github.io/agent-environments-and-evaluation/LICENSE",
     "third_party_rights": "Retained by their respective owners"
-  }
+  },
+  "skills": [
+    {
+      "name": "agent-simulation-selection",
+      "source": "https://raw.githubusercontent.com/ppchanning/agent-environments-and-evaluation/main/skills/agent-simulation-selection/SKILL.md",
+      "repository_path": "skills/agent-simulation-selection/SKILL.md",
+      "install_command": "npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simulation-selection",
+      "capability": "Read-only evidence-guided research workflow",
+      "languages": [
+        "en",
+        "zh-CN"
+      ]
+    }
+  ]
 }

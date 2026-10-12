@@ -14,7 +14,7 @@
 
 ## 发布更新
 
-- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；提供来源与 JSON 入口。
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/agent-simulation-selection/SKILL.md)与 Context7 索引配置。
 
 - **2026-10-11** — 新增[5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-11.md)——有状态 API 探索、隐藏副作用与结构覆盖；从真实服务测试理解仿真验证。 论文修订 0 篇，补录 0 期。
 

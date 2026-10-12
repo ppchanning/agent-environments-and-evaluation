@@ -52,3 +52,13 @@ curl -fL https://ppchanning.github.io/agent-environments-and-evaluation/data/gui
 
 - [llms.txt](llms.txt) · [JSON manifest](agent-index.json) · [Sitemap](sitemap.xml) · [GitHub](https://github.com/ppchanning/agent-environments-and-evaluation)
 原始评论与整理采用 [CC BY 4.0](LICENSE)，第三方论文、软件和数据保留各自权利。本页与指南无需 JavaScript 或登录；不承诺任何搜索引擎或 Agent 一定收录、引用。
+
+## 6. 可安装的研究流程
+
+[Skill 原文](https://raw.githubusercontent.com/ppchanning/agent-environments-and-evaluation/main/skills/agent-simulation-selection/SKILL.md)将本索引整理成任务选择、证据关联和条件推荐流程。
+
+```sh
+npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simulation-selection
+```
+
+安装能力不代表平台已收录，也不建立独立复现或当前可用性。

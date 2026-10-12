@@ -52,3 +52,13 @@ Suggested citation: `project/method — source URL — specific supported claim 
 
 - [llms.txt](llms.txt) · [JSON manifest](agent-index.json) · [Sitemap](sitemap.xml) · [GitHub](https://github.com/ppchanning/agent-environments-and-evaluation)
 Original commentary and compilation use [CC BY 4.0](LICENSE); third-party papers, software and data retain their own rights. Pages need no JavaScript or login. Discovery files do not guarantee indexing or citation by any search engine or agent.
+
+## 6. Installable research workflow
+
+[Skill source](https://raw.githubusercontent.com/ppchanning/agent-environments-and-evaluation/main/skills/agent-simulation-selection/SKILL.md) packages this index into task routing, evidence joins and conditional recommendations.
+
+```sh
+npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simulation-selection
+```
+
+Installation does not establish directory indexing, independent reproduction or current availability.

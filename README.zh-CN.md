@@ -26,7 +26,7 @@
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；提供来源与 JSON 入口。
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/agent-simulation-selection/SKILL.md)与 Context7 索引配置。
 - **2026-10-11** — 新增[5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-11.md)——有状态 API 探索、隐藏副作用与结构覆盖；从真实服务测试理解仿真验证。
 - **2026-10-10** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-10.md) — API 测试与任务验证。
 - **2026-10-09** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-09.md) — 仿真轨迹与故障测试。
@@ -53,6 +53,16 @@
 | [如何验证 Agent 模拟器的状态与行为保真度](guides/simulation-fidelity.zh-CN.md) | 检查转移、副作用、反事实轨迹、任务成功与迁移结论的实用验证矩阵。 |
 
 [阅读网站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html) · [Agent 索引](agent-index.zh-CN.md) · [JSON manifest](agent-index.json) · [llms.txt](llms.txt)
+
+## 可安装的 Agent Skill
+
+[查看 Skill](skills/agent-simulation-selection/SKILL.md)：把指南、JSON 证据和原始来源串成可执行的研究流程。示例：选择有状态仿真环境，并设计隐藏副作用与重置检查。
+
+```sh
+npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simulation-selection
+```
+
+通过 Skills CLI 安装到支持的 Agent；首次运行会获取 CLI。Skill 本身是只读研究流程，输出包含依据、未知项和下一步核验。平台目录的收录状态与安装能力分别核实。
 
 ## Start here
 

@@ -26,7 +26,7 @@ Use the collection to choose environment designs, compare the conditions suited 
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); source records and JSON entry points included.
+- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); plus [1 installable Skill](skills/agent-simulation-selection/SKILL.md) and Context7 indexing configuration.
 - **2026-10-11** — Added [5 papers in 1 new issue](digests/agent-environments/2026/2026-10-11.md) — Stateful API exploration, hidden side effects & structural coverage. Real-service testing informs simulation validation.
 - **2026-10-10** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-10.md) — API testing & task validation.
 - **2026-10-09** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-09.md) — Simulator traces & fault testing.
@@ -53,6 +53,16 @@ Three core guides, each available in English and Chinese, with primary sources, 
 | [How to validate state and behavioral fidelity in agent simulators](guides/simulation-fidelity.md) | A practical test matrix for transitions, side effects, counterfactual traces, task success and transfer claims. |
 
 [Read on Pages](https://ppchanning.github.io/agent-environments-and-evaluation/) · [Agent index](agent-index.md) · [JSON manifest](agent-index.json) · [llms.txt](llms.txt)
+
+## Installable agent skill
+
+[Read the skill](skills/agent-simulation-selection/SKILL.md): a research workflow connecting guides, JSON evidence and primary sources. Example: Choose a stateful simulator and propose tests for hidden side effects and reset.
+
+```sh
+npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simulation-selection
+```
+
+Install with the Skills CLI into a supported agent; the first run downloads the CLI. The skill itself is a read-only research workflow, returning evidence, unknowns and next checks. Directory indexing is verified separately from installability.
 
 ## Start here
 
@@ -141,6 +151,7 @@ topics/        # Simulation design, generation, fidelity, services, and executio
 resources/     # Full bibliography and original-source entry points
 data/          # Deduplicated JSON bibliography and field definitions
 docs/          # Editorial policy, sharing guidance, and design references
+skills/        # Installable evidence-guided agent workflow
 templates/     # Consistent templates for new material
 .github/       # Resource suggestions, corrections, and pull request templates
 ```

@@ -30,3 +30,7 @@ English default; complete Chinese core guides and index. Most older reading note
 - [Editorial policy](https://ppchanning.github.io/agent-environments-and-evaluation/docs/editorial-policy.md): AI-assisted curation, primary sources, limitations and no independent replication
 - [License](https://ppchanning.github.io/agent-environments-and-evaluation/LICENSE): CC BY 4.0 for original commentary and compilation; third-party rights retained
 - [Repository](https://github.com/ppchanning/agent-environments-and-evaluation): dated archive and contribution process
+
+## Installable skill
+
+- [agent-simulation-selection](https://raw.githubusercontent.com/ppchanning/agent-environments-and-evaluation/main/skills/agent-simulation-selection/SKILL.md): task routing, primary-source checks and conditional recommendations; install with `npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simulation-selection`
