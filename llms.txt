@@ -34,3 +34,9 @@ English default; complete Chinese core guides and index. Most older reading note
 ## Installable skill
 
 - [agent-simulation-selection](https://raw.githubusercontent.com/ppchanning/agent-environments-and-evaluation/main/skills/agent-simulation-selection/SKILL.md): task routing, primary-source checks and conditional recommendations; install with `npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simulation-selection`
+
+## SelfRef Library
+
+- [Library](https://www.selfref.org/agents/): unified search across the two public collections
+- [Agent protocol](https://www.selfref.org/agents/agent-index.md)
+- [Catalog](https://www.selfref.org/agents/catalog.json): entries[], typed resources and skill downloads

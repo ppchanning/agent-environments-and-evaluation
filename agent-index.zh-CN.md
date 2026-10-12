@@ -62,3 +62,7 @@ npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simula
 ```
 
 安装能力不代表平台已收录，也不建立独立复现或当前可用性。
+
+## SelfRef 资源库
+
+[统一检索、指南与 Skill 下载](https://www.selfref.org/agents/index.zh-CN.html) · [JSON catalog](https://www.selfref.org/agents/catalog.json)

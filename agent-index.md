@@ -62,3 +62,7 @@ npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simula
 ```
 
 Installation does not establish directory indexing, independent reproduction or current availability.
+
+## SelfRef Library
+
+[Unified search, guides and Skill downloads](https://www.selfref.org/agents/) · [JSON catalog](https://www.selfref.org/agents/catalog.json)

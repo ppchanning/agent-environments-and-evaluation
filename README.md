@@ -1,6 +1,6 @@
 <p align="center"><strong>English</strong> | <a href="README.zh-CN.md">简体中文</a></p>
 
-<p align="center"><a href="https://ppchanning.github.io/agent-environments-and-evaluation/">Documentation site</a> · <a href="agent-index.md">Agent index</a> · <a href="llms.txt">llms.txt</a></p>
+<p align="center"><a href="https://ppchanning.github.io/agent-environments-and-evaluation/">Documentation site</a> · <a href="agent-index.md">Agent index</a> · <a href="llms.txt">llms.txt</a> · <a href="https://www.selfref.org/agents/">SelfRef Library</a></p>
 
 <p align="center"><img src="assets/banner.svg" alt="Agent Simulation Environments" width="100%"></p>
 
@@ -26,7 +26,7 @@ Use the collection to choose environment designs, compare the conditions suited 
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); plus [1 installable Skill](skills/agent-simulation-selection/SKILL.md) and Context7 indexing configuration; listed in [2 skill directories](#installable-agent-skill).
+- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); plus [1 installable Skill](skills/agent-simulation-selection/SKILL.md) and Context7 indexing configuration; listed in [2 skill directories](#installable-agent-skill); connected to the [SelfRef Library](https://www.selfref.org/agents/) for search and Skill downloads.
 - **2026-10-11** — Added [5 papers in 1 new issue](digests/agent-environments/2026/2026-10-11.md) — Stateful API exploration, hidden side effects & structural coverage. Real-service testing informs simulation validation.
 - **2026-10-10** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-10.md) — API testing & task validation.
 - **2026-10-09** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-09.md) — Simulator traces & fault testing.
@@ -38,6 +38,7 @@ Use the collection to choose environment designs, compare the conditions suited 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
 
 <!-- updates-milestones:start -->
+- 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.
 - 🧭 **2026-10-12** — [Three core guides and Agent reading entry points](agent-index.md), with complete English / Chinese versions and a [public reading site](https://ppchanning.github.io/agent-environments-and-evaluation/).
 - 🚀 **2026-10-10** — [Launched](https://github.com/ppchanning/agent-environments-and-evaluation/commit/af1062e) with [43 resources](resources/papers.md) and [4 simulation reading paths](topics/README.md); added [English / Chinese homepages](README.zh-CN.md) and [update history](CHANGELOG.md).
 <!-- updates-milestones:end -->
