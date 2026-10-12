@@ -8,9 +8,13 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Milestones
 
+- 🧭 **2026-10-12** — [Three core guides and Agent reading entry points](agent-index.md), with complete English / Chinese versions and a [public reading site](https://ppchanning.github.io/agent-environments-and-evaluation/).
+
 - 🚀 **2026-10-10** — [Launched](https://github.com/ppchanning/agent-environments-and-evaluation/commit/af1062e) with [43 resources](resources/papers.md) and [4 simulation reading paths](topics/README.md); added [English / Chinese homepages](README.zh-CN.md) and [update history](CHANGELOG.md).
 
 ## Publication updates
+
+- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); source records and JSON entry points included.
 
 - **2026-10-11** — Added [5 papers in 1 new issue](digests/agent-environments/2026/2026-10-11.md) — Stateful API exploration, hidden side effects & structural coverage. Real-service testing informs simulation validation. No paper revisions or backfilled issues.
 

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "checked_at": "2026-10-12",
+  "verification_scope": "Primary documentation supports the scoped descriptions; no independent installation, execution or experimental reproduction.",
+  "sources": [
+    {
+      "id": "appworld",
+      "title": "AppWorld",
+      "url": "https://github.com/StonyBrookNLP/appworld",
+      "type": "official-project-documentation",
+      "locator": "Initial state; state checkpointing; Evaluating the Agent; development restrictions",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "toolsandbox",
+      "title": "ToolSandbox",
+      "url": "https://github.com/apple-aiml-research/ToolSandbox",
+      "type": "official-project-documentation",
+      "locator": "Scenario definition; milestones; evaluation",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "envscaler",
+      "title": "EnvScaler",
+      "url": "https://github.com/RUC-NLPIR/EnvScaler",
+      "type": "official-project-documentation",
+      "locator": "Overview; environment synthesis and agent interaction modules",
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "mirrorapi",
+      "title": "StableToolBench-MirrorAPI: Modeling Tool Environments as Mirrors of 7,000+ Real-World APIs",
+      "url": "https://aclanthology.org/2025.findings-acl.273/",
+      "type": "published-conference-paper",
+      "locator": "ACL Anthology abstract and linked paper",
+      "checked_at": "2026-10-12"
+    }
+  ]
+}

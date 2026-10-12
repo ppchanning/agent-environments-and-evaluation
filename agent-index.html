@@ -1,0 +1,13 @@
+---
+layout: "default"
+title: "Agent reading index"
+description: "Practical guides to selecting, generating and validating stateful simulation environments for AI agents."
+lang: "en"
+markdown: "/agent-index.md"
+alternate: "/agent-index.zh-CN.html"
+alternate_lang: "zh-CN"
+schema_type: "CollectionPage"
+updated: "2026-10-12"
+---
+{% capture document %}{% include_relative agent-index.md %}{% endcapture %}
+{{ document | replace: 'simulation-environment-selection.zh-CN.md)', 'simulation-environment-selection.zh-CN.html)' | replace: 'simulation-environment-selection.md)', 'simulation-environment-selection.html)' | replace: 'environment-generation.zh-CN.md)', 'environment-generation.zh-CN.html)' | replace: 'environment-generation.md)', 'environment-generation.html)' | replace: 'simulation-fidelity.zh-CN.md)', 'simulation-fidelity.zh-CN.html)' | replace: 'simulation-fidelity.md)', 'simulation-fidelity.html)' | replace: 'index.zh-CN.md)', 'index.zh-CN.html)' | replace: 'index.md)', 'index.html)' | replace: 'agent-index.zh-CN.md)', 'agent-index.zh-CN.html)' | replace: 'agent-index.md)', 'agent-index.html)' | markdownify }}

@@ -1,0 +1,32 @@
+# Agent Simulation Environments
+
+> Practical guides to selecting, generating and validating stateful simulation environments for AI agents. Public read-only collection; no independent reproduction.
+
+English default; complete Chinese core guides and index. Most older reading notes are Chinese. Fetch the JSON manifest, route the task, and verify primary evidence before citing. Missing or null values remain unknown.
+
+## Start here
+
+- [Agent reading index](https://ppchanning.github.io/agent-environments-and-evaluation/agent-index.md): retrieval procedure, data shapes and evidence policy
+- [Agent 索引（中文）](https://ppchanning.github.io/agent-environments-and-evaluation/agent-index.zh-CN.md): 完整中文阅读和引用流程
+- [JSON manifest](https://ppchanning.github.io/agent-environments-and-evaluation/agent-index.json): stable endpoints, languages and task aliases
+
+## Core guides
+
+- [How to choose an agent simulation environment](https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-environment-selection.md): Compare stateful simulators, mirrored tools, generated environments and learned worlds by the behavior a task needs.
+- [如何选择 Agent 仿真环境](https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-environment-selection.zh-CN.md): 中文全文
+- [How to generate verifiable agent simulation environments](https://ppchanning.github.io/agent-environments-and-evaluation/guides/environment-generation.md): A design workflow from task specification to executable state, reset, verifiers and held-out validation.
+- [如何生成可验证的 Agent 仿真环境](https://ppchanning.github.io/agent-environments-and-evaluation/guides/environment-generation.zh-CN.md): 中文全文
+- [How to validate state and behavioral fidelity in agent simulators](https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-fidelity.md): A practical test matrix for transitions, side effects, counterfactual traces, task success and transfer claims.
+- [如何验证 Agent 模拟器的状态与行为保真度](https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-fidelity.zh-CN.md): 中文全文
+
+## Structured evidence
+
+- [data/guide-resources.json](https://ppchanning.github.io/agent-environments-and-evaluation/data/guide-resources.json): Source-backed guide examples; not a benchmark; JSON root object, records in items[]
+- [data/guide-sources.json](https://ppchanning.github.io/agent-environments-and-evaluation/data/guide-sources.json): Source metadata and scoped checks; JSON root object, records in sources[]
+- [data/papers.json](https://ppchanning.github.io/agent-environments-and-evaluation/data/papers.json): Deduplicated bibliography and reading-note appearances; JSON root array
+
+## Boundaries and citation
+
+- [Editorial policy](https://ppchanning.github.io/agent-environments-and-evaluation/docs/editorial-policy.md): AI-assisted curation, primary sources, limitations and no independent replication
+- [License](https://ppchanning.github.io/agent-environments-and-evaluation/LICENSE): CC BY 4.0 for original commentary and compilation; third-party rights retained
+- [Repository](https://github.com/ppchanning/agent-environments-and-evaluation): dated archive and contribution process

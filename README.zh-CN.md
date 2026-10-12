@@ -1,5 +1,7 @@
 <p align="center"><a href="README.md">English</a> | <strong>简体中文</strong></p>
 
+<p align="center"><a href="https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html">阅读网站</a> · <a href="agent-index.zh-CN.md">Agent index</a> · <a href="llms.txt">llms.txt</a></p>
+
 <p align="center"><img src="assets/banner.svg" alt="Agent Simulation Environments" width="100%"></p>
 
 <h1 align="center">Agent Simulation Environments</h1>
@@ -24,20 +26,33 @@
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；提供来源与 JSON 入口。
 - **2026-10-11** — 新增[5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-11.md)——有状态 API 探索、隐藏副作用与结构覆盖；从真实服务测试理解仿真验证。
 - **2026-10-10** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-10.md) — API 测试与任务验证。
 - **2026-10-09** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-09.md) — 仿真轨迹与故障测试。
 - **2026-10-08** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-08.md) — 自动生成工具环境。
 - **2026-10-07** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-07.md) — 从交互轨迹生成世界。
 - **2026-10-06** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-06.md) — API 仿真与世界模型保真。
-- **2026-10-05** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-05.md) — 有状态仿真与 API 任务。
 <!-- updates-daily:end -->
 
 首页保留最近 7 天；[查看完整记录](CHANGELOG.zh-CN.md)。 过往记录按资料日期回溯，于 **2026-10-10** 仓库上线时补入，非历史发布记录。
 
 <!-- updates-milestones:start -->
+- 🧭 **2026-10-12** — [3 篇核心指南与 Agent 阅读入口](agent-index.zh-CN.md)，完整中英文版本和 [公开阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)。
 - 🚀 **2026-10-10** — [仓库上线](https://github.com/ppchanning/agent-environments-and-evaluation/commit/af1062e)：整理 [43 项资料](resources/papers.md)、[4 条仿真阅读路径](topics/README.md)，提供[中英文首页](README.md)与[更新记录](CHANGELOG.zh-CN.md)。
 <!-- updates-milestones:end -->
+
+## 核心指南与 Agent 入口
+
+3 篇核心指南均有完整中英文版本，提供原始来源、适用边界和可复用模板。
+
+| 指南 | 内容 |
+| --- | --- |
+| [如何选择 Agent 仿真环境](guides/simulation-environment-selection.zh-CN.md) | 按任务所需行为，比较有状态模拟器、工具镜像、生成环境与学习型世界。 |
+| [如何生成可验证的 Agent 仿真环境](guides/environment-generation.zh-CN.md) | 从任务规范走到可执行状态、重置、验证器和留出验证的设计流程。 |
+| [如何验证 Agent 模拟器的状态与行为保真度](guides/simulation-fidelity.zh-CN.md) | 检查转移、副作用、反事实轨迹、任务成功与迁移结论的实用验证矩阵。 |
+
+[阅读网站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html) · [Agent 索引](agent-index.zh-CN.md) · [JSON manifest](agent-index.json) · [llms.txt](llms.txt)
 
 ## Start here
 

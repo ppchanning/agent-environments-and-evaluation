@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-10-12",
+  "scope": "Small curated guide examples, separate from the full bibliography. No ranking or measured results.",
+  "unknown_policy": "Missing or null values mean unknown, never zero, free, permitted, or unavailable.",
+  "items": [
+    {
+      "id": "appworld",
+      "name": "AppWorld",
+      "execution_setting": "stateful-software-simulation",
+      "tags": [
+        "simulation",
+        "state-verification",
+        "app-workflows"
+      ],
+      "source_ids": [
+        "appworld"
+      ],
+      "summary": "Stateful application task environments with state-based evaluation.",
+      "summary_zh": "带状态评测的有状态应用任务环境。",
+      "limitations": [
+        "Application tasks and verification do not establish fidelity to arbitrary real services."
+      ],
+      "source_urls": [
+        "https://github.com/StonyBrookNLP/appworld"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "toolsandbox",
+      "name": "ToolSandbox",
+      "execution_setting": "stateful-tool-simulation",
+      "tags": [
+        "simulation",
+        "state-verification",
+        "milestones"
+      ],
+      "source_ids": [
+        "toolsandbox"
+      ],
+      "summary": "Stateful tool scenarios evaluated using ordered milestones.",
+      "summary_zh": "使用有序里程碑评测的有状态工具场景。",
+      "limitations": [
+        "Scenario and milestone coverage bound the conclusions."
+      ],
+      "source_urls": [
+        "https://github.com/apple-aiml-research/ToolSandbox"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "envscaler",
+      "name": "EnvScaler",
+      "execution_setting": "generated-executable-simulation",
+      "tags": [
+        "simulation",
+        "environment-generation",
+        "programmatic"
+      ],
+      "source_ids": [
+        "envscaler"
+      ],
+      "summary": "Generation of executable stateful agent environments.",
+      "summary_zh": "生成可执行的有状态 Agent 环境。",
+      "limitations": [
+        "Generation requires separate behavioral and verifier validation."
+      ],
+      "source_urls": [
+        "https://github.com/RUC-NLPIR/EnvScaler"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    },
+    {
+      "id": "mirrorapi",
+      "name": "StableToolBench-MirrorAPI",
+      "execution_setting": "api-behavior-simulation",
+      "tags": [
+        "simulation",
+        "api-mirrors",
+        "fidelity"
+      ],
+      "source_ids": [
+        "mirrorapi"
+      ],
+      "summary": "A published approach to modeling real API environments.",
+      "summary_zh": "对真实 API 环境建模的已发表方案。",
+      "limitations": [
+        "Reported API coverage is not evidence of complete real-service state fidelity."
+      ],
+      "source_urls": [
+        "https://aclanthology.org/2025.findings-acl.273/"
+      ],
+      "evidence": "primary-source-description",
+      "independently_reproduced": false,
+      "checked_at": "2026-10-12"
+    }
+  ]
+}

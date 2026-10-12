@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0",
+  "name": "Agent Simulation Environments",
+  "description": "Practical guides to selecting, generating and validating stateful simulation environments for AI agents.",
+  "site_url": "https://ppchanning.github.io/agent-environments-and-evaluation/",
+  "repository_url": "https://github.com/ppchanning/agent-environments-and-evaluation",
+  "languages": [
+    "en",
+    "zh-CN"
+  ],
+  "updated_at": "2026-10-12",
+  "scope": "Public read-only guides and evidence catalogs, not executable tools.",
+  "index": {
+    "html": "https://ppchanning.github.io/agent-environments-and-evaluation/agent-index.html",
+    "markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/agent-index.md",
+    "chinese_html": "https://ppchanning.github.io/agent-environments-and-evaluation/agent-index.zh-CN.html",
+    "chinese_markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/agent-index.zh-CN.md"
+  },
+  "guides": [
+    {
+      "id": "simulation-environment-selection",
+      "title": "How to choose an agent simulation environment",
+      "title_zh": "如何选择 Agent 仿真环境",
+      "description": "Compare stateful simulators, mirrored tools, generated environments and learned worlds by the behavior a task needs.",
+      "query_aliases": [
+        "how to choose agent simulation environments",
+        "stateful simulator vs LLM world model",
+        "Agent 仿真环境 选型"
+      ],
+      "html": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-environment-selection.html",
+      "markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-environment-selection.md",
+      "chinese_html": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-environment-selection.zh-CN.html",
+      "chinese_markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-environment-selection.zh-CN.md",
+      "updated_at": "2026-10-12",
+      "source_ids": [
+        "appworld",
+        "toolsandbox",
+        "envscaler",
+        "mirrorapi"
+      ]
+    },
+    {
+      "id": "environment-generation",
+      "title": "How to generate verifiable agent simulation environments",
+      "title_zh": "如何生成可验证的 Agent 仿真环境",
+      "description": "A design workflow from task specification to executable state, reset, verifiers and held-out validation.",
+      "query_aliases": [
+        "generate verifiable agent environments",
+        "synthetic tool environments reset verifier",
+        "生成 可验证 仿真环境"
+      ],
+      "html": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/environment-generation.html",
+      "markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/environment-generation.md",
+      "chinese_html": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/environment-generation.zh-CN.html",
+      "chinese_markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/environment-generation.zh-CN.md",
+      "updated_at": "2026-10-12",
+      "source_ids": [
+        "envscaler",
+        "appworld",
+        "toolsandbox"
+      ]
+    },
+    {
+      "id": "simulation-fidelity",
+      "title": "How to validate state and behavioral fidelity in agent simulators",
+      "title_zh": "如何验证 Agent 模拟器的状态与行为保真度",
+      "description": "A practical test matrix for transitions, side effects, counterfactual traces, task success and transfer claims.",
+      "query_aliases": [
+        "validate agent simulator fidelity",
+        "state transitions counterfactual traces evaluation",
+        "仿真 保真度 状态验证"
+      ],
+      "html": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-fidelity.html",
+      "markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-fidelity.md",
+      "chinese_html": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-fidelity.zh-CN.html",
+      "chinese_markdown": "https://ppchanning.github.io/agent-environments-and-evaluation/guides/simulation-fidelity.zh-CN.md",
+      "updated_at": "2026-10-12",
+      "source_ids": [
+        "appworld",
+        "toolsandbox",
+        "mirrorapi"
+      ]
+    }
+  ],
+  "endpoints": [
+    {
+      "path": "data/guide-resources.json",
+      "url": "https://ppchanning.github.io/agent-environments-and-evaluation/data/guide-resources.json",
+      "format": "json",
+      "root": "object",
+      "records": "items",
+      "purpose": "Source-backed guide examples; not a benchmark"
+    },
+    {
+      "path": "data/guide-sources.json",
+      "url": "https://ppchanning.github.io/agent-environments-and-evaluation/data/guide-sources.json",
+      "format": "json",
+      "root": "object",
+      "records": "sources",
+      "purpose": "Source metadata and scoped checks"
+    },
+    {
+      "path": "data/papers.json",
+      "url": "https://ppchanning.github.io/agent-environments-and-evaluation/data/papers.json",
+      "format": "json",
+      "root": "array",
+      "records": null,
+      "purpose": "Deduplicated bibliography and reading-note appearances"
+    }
+  ],
+  "evidence_policy": {
+    "url": "https://ppchanning.github.io/agent-environments-and-evaluation/docs/editorial-policy.md",
+    "independently_reproduced": false,
+    "unknowns": "Missing or null means unknown, not zero, free, permitted or unavailable.",
+    "citation": "Cite primary sources for scientific claims; cite guides for selection and curation advice."
+  },
+  "license": {
+    "original_compilation": "CC-BY-4.0",
+    "url": "https://ppchanning.github.io/agent-environments-and-evaluation/LICENSE",
+    "third_party_rights": "Retained by their respective owners"
+  }
+}

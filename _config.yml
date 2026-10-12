@@ -1,0 +1,11 @@
+title: "Agent Simulation Environments"
+description: "Practical guides to selecting, generating and validating stateful simulation environments for AI agents."
+url: "https://ppchanning.github.io"
+baseurl: "/agent-environments-and-evaluation"
+repository: "ppchanning/agent-environments-and-evaluation"
+repository_url: "https://github.com/ppchanning/agent-environments-and-evaluation"
+lang: "en"
+markdown: "kramdown"
+kramdown: {"input": "GFM"}
+exclude: ["AGENTS.md", "templates", ".github", "CITATION.cff"]
+plugins: []

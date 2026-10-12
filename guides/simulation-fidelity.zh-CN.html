@@ -1,0 +1,13 @@
+---
+layout: "default"
+title: "如何验证 Agent 模拟器的状态与行为保真度"
+description: "检查转移、副作用、反事实轨迹、任务成功与迁移结论的实用验证矩阵。"
+lang: "zh-CN"
+markdown: "/guides/simulation-fidelity.zh-CN.md"
+alternate: "/guides/simulation-fidelity.html"
+alternate_lang: "en"
+schema_type: "Article"
+updated: "2026-10-12"
+---
+{% capture document %}{% include_relative simulation-fidelity.zh-CN.md %}{% endcapture %}
+{{ document | replace: 'simulation-environment-selection.zh-CN.md)', 'simulation-environment-selection.zh-CN.html)' | replace: 'simulation-environment-selection.md)', 'simulation-environment-selection.html)' | replace: 'environment-generation.zh-CN.md)', 'environment-generation.zh-CN.html)' | replace: 'environment-generation.md)', 'environment-generation.html)' | replace: 'simulation-fidelity.zh-CN.md)', 'simulation-fidelity.zh-CN.html)' | replace: 'simulation-fidelity.md)', 'simulation-fidelity.html)' | replace: 'index.zh-CN.md)', 'index.zh-CN.html)' | replace: 'index.md)', 'index.html)' | replace: 'agent-index.zh-CN.md)', 'agent-index.zh-CN.html)' | replace: 'agent-index.md)', 'agent-index.html)' | markdownify }}
