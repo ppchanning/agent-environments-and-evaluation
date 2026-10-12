@@ -1,6 +1,6 @@
 <p align="center"><strong>English</strong> | <a href="README.zh-CN.md">简体中文</a></p>
 
-<p align="center"><a href="https://ppchanning.github.io/agent-environments-and-evaluation/">Documentation site</a> · <a href="agent-index.md">Agent index</a> · <a href="llms.txt">llms.txt</a> · <a href="https://www.selfref.org/agents/">SelfRef Library</a></p>
+<p align="center"><a href="https://ppchanning.github.io/agent-environments-and-evaluation/">Documentation site</a> · <a href="agent-index.md">Agent index</a> · <a href="llms.txt">llms.txt</a> · <a href="https://www.selfref.org/agents/curated.html">SelfRef Library</a></p>
 
 <p align="center"><img src="assets/banner.svg" alt="Agent Simulation Environments" width="100%"></p>
 
@@ -26,7 +26,7 @@ Use the collection to choose environment designs, compare the conditions suited 
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); plus [1 installable Skill](skills/agent-simulation-selection/SKILL.md) and Context7 indexing configuration; listed in [2 skill directories](#installable-agent-skill); connected to the [SelfRef Library](https://www.selfref.org/agents/) for search and Skill downloads.
+- **2026-10-12** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-12.md): simulation feedback, API dependencies and flaky tests. Also launched [3 bilingual guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md), [1 Skill](skills/agent-simulation-selection/SKILL.md) and a Pages reading site; listed in 2 Skill directories and connected to the [SelfRef Library](https://www.selfref.org/agents/curated.html).
 - **2026-10-11** — Added [5 papers in 1 new issue](digests/agent-environments/2026/2026-10-11.md) — Stateful API exploration, hidden side effects & structural coverage. Real-service testing informs simulation validation.
 - **2026-10-10** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-10.md) — API testing & task validation.
 - **2026-10-09** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-09.md) — Simulator traces & fault testing.
@@ -38,7 +38,7 @@ Use the collection to choose environment designs, compare the conditions suited 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
 
 <!-- updates-milestones:start -->
-- 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.
+- 📚 **2026-10-12** — [SelfRef Library](https://www.selfref.org/agents/curated.html) launched: search across 2 collections, with 6 bilingual guides and 2 Skill downloads.
 - 🧭 **2026-10-12** — [Three core guides and Agent reading entry points](agent-index.md), with complete English / Chinese versions and a [public reading site](https://ppchanning.github.io/agent-environments-and-evaluation/).
 - 🚀 **2026-10-10** — [Launched](https://github.com/ppchanning/agent-environments-and-evaluation/commit/af1062e) with [43 resources](resources/papers.md) and [4 simulation reading paths](topics/README.md); added [English / Chinese homepages](README.zh-CN.md) and [update history](CHANGELOG.md).
 <!-- updates-milestones:end -->
@@ -75,7 +75,7 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 | Does a simulation preserve a real system's state and behavior? | [State and behavioral verification](topics/state-and-testing.md) | State transitions, hidden dynamics, behavioral consistency, and validation methods |
 | How can an agent's tools and services be simulated? | [Tool interfaces and service simulation](topics/tool-protocols.md) | Reading paths through MCP / API interfaces, tool feedback, and stateful service behavior |
 | How should simulation quality and agent execution be evaluated? | [Simulation validity and execution evaluation](topics/agent-evaluation.md) | Ways to compare simulation fidelity, trace checks, result verification, and transfer limitations |
-| Which simulation studies are worth following now? | [Latest reading notes](digests/agent-environments/2026/2026-10-11.md) · [Archives](digests/README.md) | Recommendations, method explanations, evidence limitations, and original sources |
+| Which simulation studies are worth following now? | [Latest reading notes](digests/agent-environments/2026/2026-10-12.md) · [Archives](digests/README.md) | Recommendations, method explanations, evidence limitations, and original sources |
 | How can I organize my own related-work table? | [Full bibliography](resources/papers.md) · [JSON data](data/README.md) | Deduplicated identifiers, sources, versions, and appearance records for filtering and further reading |
 
 For researchers building agent training and testing environments, developers of software and tool-service simulators, world-model and synthetic-environment researchers, and systems developers who need to verify simulation state and behavior. **The homepage is available in English and [Simplified Chinese](README.zh-CN.md). Most existing research notes and supporting archives are in Chinese; the three core guides and Agent index are fully bilingual, retaining original English titles and source links.**
@@ -133,9 +133,9 @@ Topic indexes support comparison across methods, dated archives support continue
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-10-11**: **12 reading issues · 48 deduplicated resources · 4 topical reading paths**.
+As of **2026-10-12**: **13 reading issues · 53 deduplicated resources · 4 topical reading paths**.
 
-The reading archive covers 2026-09-28 through 2026-10-11, with possible gaps within that date range. New and revised material is archived by date, with current entry points, topic indexes, and the deduplicated bibliography maintained together.
+The reading archive covers 2026-09-28 through 2026-10-12, with possible gaps within that date range. New and revised material is archived by date, with current entry points, topic indexes, and the deduplicated bibliography maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

@@ -8,13 +8,15 @@
 
 ## 重要更新
 
+- 📚 **2026-10-12** — [SelfRef 资料库](https://www.selfref.org/agents/curated-zh.html)上线：统一检索 2 个集合，提供 6 篇双语指南与 2 个 Skill 下载。
+
 - 🧭 **2026-10-12** — [3 篇核心指南与 Agent 阅读入口](agent-index.zh-CN.md)，完整中英文版本和 [公开阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)。
 
 - 🚀 **2026-10-10** — [仓库上线](https://github.com/ppchanning/agent-environments-and-evaluation/commit/af1062e)：整理 [43 项资料](resources/papers.md)、[4 条仿真阅读路径](topics/README.md)，提供[中英文首页](README.md)与[更新记录](CHANGELOG.zh-CN.md)。
 
 ## 发布更新
 
-- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/agent-simulation-selection/SKILL.md)与 Context7 索引配置；已收录到 [2 个 Skill 目录](README.zh-CN.md#可安装的-agent-skill)；接入 [SelfRef 资源库](https://www.selfref.org/agents/index.zh-CN.html)，支持搜索与 Skill 下载。
+- **2026-10-12** — 新增 [5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-12.md)：仿真反馈、API 依赖与不稳定测试。 同日上线 [3 篇双语指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)、[1 个 Skill](skills/agent-simulation-selection/SKILL.md)与 Pages 阅读站；收录到 2 个 Skill 目录，接入 [SelfRef 资料库](https://www.selfref.org/agents/curated-zh.html)。
 
 - **2026-10-11** — 新增[5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-11.md)——有状态 API 探索、隐藏副作用与结构覆盖；从真实服务测试理解仿真验证。 论文修订 0 篇，补录 0 期。
 

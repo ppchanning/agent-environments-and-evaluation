@@ -1075,5 +1075,115 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "Petstore demonstration; structural coverage does not establish transition coverage or behavioral correctness."
+  },
+  {
+    "title": "REST API Testing with Verified LLM-Inferred Dependencies and Response-Driven Refinement",
+    "authors": "Tu Nguyen; Thanh Nguyen; Huy Nguyen; Viet Nguyen; Tien N. Nguyen; Vu Nguyen",
+    "doi": "10.48550/arxiv.2608.17546",
+    "arxiv": "2608.17546",
+    "url": "https://arxiv.org/abs/2608.17546",
+    "fulltext_url": "https://arxiv.org/html/2608.17546v2",
+    "first_published": "2026-08-18",
+    "verified_version": "v2",
+    "version_date": "2026-08-20",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-12T07:10:01.054798+08:00",
+    "evidence": "16 services; GPT-4.1-mini temperature0 five runs; operation coverage92.3%;771/875generated workflows;not matched workflow sets;197 unique5xx not rootbugs",
+    "read_first": "依赖验证与响应修订、操作覆盖表",
+    "limitations": "验证调用也消耗预算；不同工具生成流程集合不同，独特5xx不等于确认根因。",
+    "id": "arxiv:2608.17546",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Detecting and Mitigating Flakiness in REST API Fuzzing",
+    "authors": "Man Zhang; Chongyang Shen; Andrea Arcuri; Tao Yue",
+    "doi": "10.48550/arxiv.2603.28452",
+    "arxiv": "2603.28452",
+    "url": "https://arxiv.org/abs/2603.28452",
+    "fulltext_url": "https://arxiv.org/html/2603.28452v1",
+    "first_published": "2026-03-30",
+    "verified_version": "v1",
+    "version_date": "2026-03-30",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-12T07:10:01.054798+08:00",
+    "evidence": "36 APIs;31 exhibit flakiness;near3000 failing tests analyzed;handling one-hour10runs per mode,100test replays;not all services improve",
+    "read_first": "5.1—5.3节与表5",
+    "limitations": "同环境重跑可能遗漏跨环境波动；屏蔽断言减少检查，部分服务失败率仍未改善。",
+    "id": "arxiv:2603.28452",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls",
+    "authors": "Zeyu Zhang; Guohao Li; Zhenchang Xing; Alexandros Apostolopoulos; Yu Lin Lee; Liang Zheng",
+    "team": "ANU; CSIRO Data61 and coauthors",
+    "doi": "10.48550/arxiv.2602.19218",
+    "arxiv": "2602.19218",
+    "url": "https://arxiv.org/abs/2602.19218",
+    "fulltext_url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26cv/zhang26cv.pdf",
+    "first_published": "2026-02-22",
+    "verified_version": "arxiv v2; formal ICML2026 PDF",
+    "version_date": "2026-06-09",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-12T07:10:01.054798+08:00",
+    "evidence": "formal PDF verified;GPT4o BFCL overall76.93 to84.62;hybrid tau2 realread simulatedwrite;not service fidelity",
+    "read_first": "第3节、GATS流程及附录H/I",
+    "limitations": "下游任务表现不等于服务行为保真；τ²只读查询使用真实数据库，额外模型和重试成本需计入。",
+    "id": "arxiv:2602.19218",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Intelligent REST API Data Fuzzing",
+    "authors": "Patrice Godefroid; Bo-Yuan Huang; Marina Polishchuk",
+    "team": "Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research/publication/intelligent-rest-api-data-fuzzing/",
+    "fulltext_url": "https://patricegodefroid.github.io/public_psfiles/fse2020.pdf",
+    "first_published": "2019-11",
+    "verified_version": "ESEC/FSE2020",
+    "version_date": "2020-11",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-12T07:10:01.054798+08:00",
+    "evidence": "AzureDNS13request types4withbody;max1000variants/request/rulepair;hundreds500triaged17confirmedbugs across Azure services",
+    "read_first": "3节与3.3错误类型、5节值来源",
+    "limitations": "真实云服务探测；归一化错误类型不等于根因数，需经人工确认。",
+    "id": "url:https://www.microsoft.com/en-us/research/publication/intelligent-rest-api-data-fuzzing/",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Log-based, Business-aware REST API Testing",
+    "authors": "Ding Yang; Ruixiang Qian; Zhao Wei; Zhenyu Chen; Chunrong Fang",
+    "doi": "10.48550/arxiv.2604.08007",
+    "arxiv": "2604.08007",
+    "url": "https://arxiv.org/abs/2604.08007",
+    "fulltext_url": "https://arxiv.org/html/2604.08007v1",
+    "first_published": "2026-04-09",
+    "verified_version": "v1",
+    "version_date": "2026-04-09",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-12T07:10:01.054798+08:00",
+    "evidence": "17 services8comparators20runs;smaller1h fullGitLab24h;352.7/1099operations80/109modules;participant simulatedusage logs",
+    "read_first": "日志切片、补全、完整GitLab实验",
+    "limitations": "日志由参与者模拟使用收集，非随机生产样本；完整GitLab操作覆盖约32.1%，非完整行为覆盖。",
+    "id": "arxiv:2604.08007",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

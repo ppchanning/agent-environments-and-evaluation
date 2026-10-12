@@ -52,3 +52,8 @@
 | [Checking Security Properties of Cloud Service REST APIs](https://www.microsoft.com/en-us/research/publication/checking-security-properties-of-cloud-services-rest-apis/) | Vaggelis Atlidakis; Patrice Godefroid; Marina Polishchuk | 2019-02 | conference_paper |
 | [RESTler: Stateful REST API Fuzzing](https://www.microsoft.com/en-us/research/publication/restler-stateful-rest-api-fuzzing/) | Vaggelis Atlidakis; Patrice Godefroid; Marina Polishchuk | 2018-06-26 | conference_paper |
 | [RESTCov: A Tool for Structural Coverage Analysis of REST APIs](https://arxiv.org/abs/2608.28114) | Tolgahan Bardakci; Serge Demeyer | 2026-08-28 | preprint |
+| [REST API Testing with Verified LLM-Inferred Dependencies and Response-Driven Refinement](https://arxiv.org/abs/2608.17546) | Tu Nguyen; Thanh Nguyen; Huy Nguyen; Viet Nguyen; Tien N. Nguyen; Vu Nguyen | 2026-08-18 | preprint |
+| [Detecting and Mitigating Flakiness in REST API Fuzzing](https://arxiv.org/abs/2603.28452) | Man Zhang; Chongyang Shen; Andrea Arcuri; Tao Yue | 2026-03-30 | preprint |
+| [Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls](https://arxiv.org/abs/2602.19218) | Zeyu Zhang; Guohao Li; Zhenchang Xing; Alexandros Apostolopoulos; Yu Lin Lee; Liang Zheng | 2026-02-22 | conference_paper |
+| [Intelligent REST API Data Fuzzing](https://www.microsoft.com/en-us/research/publication/intelligent-rest-api-data-fuzzing/) | Patrice Godefroid; Bo-Yuan Huang; Marina Polishchuk | 2019-11 | conference_paper |
+| [Log-based, Business-aware REST API Testing](https://arxiv.org/abs/2604.08007) | Ding Yang; Ruixiang Qian; Zhao Wei; Zhenyu Chen; Chunrong Fang | 2026-04-09 | preprint |

@@ -35,5 +35,10 @@
 - [Checking Security Properties of Cloud Service REST APIs](https://www.microsoft.com/en-us/research/publication/checking-security-properties-of-cloud-services-rest-apis/) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
 - [RESTler: Stateful REST API Fuzzing](https://www.microsoft.com/en-us/research/publication/restler-stateful-rest-api-fuzzing/) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
 - [RESTCov: A Tool for Structural Coverage Analysis of REST APIs](https://arxiv.org/abs/2608.28114) · [阅读笔记](../digests/agent-environments/2026/2026-10-11.md)
+- [REST API Testing with Verified LLM-Inferred Dependencies and Response-Driven Refinement](https://arxiv.org/abs/2608.17546) · [阅读笔记](../digests/agent-environments/2026/2026-10-12.md)
+- [Detecting and Mitigating Flakiness in REST API Fuzzing](https://arxiv.org/abs/2603.28452) · [阅读笔记](../digests/agent-environments/2026/2026-10-12.md)
+- [Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls](https://arxiv.org/abs/2602.19218) · [阅读笔记](../digests/agent-environments/2026/2026-10-12.md)
+- [Intelligent REST API Data Fuzzing](https://www.microsoft.com/en-us/research/publication/intelligent-rest-api-data-fuzzing/) · [阅读笔记](../digests/agent-environments/2026/2026-10-12.md)
+- [Log-based, Business-aware REST API Testing](https://arxiv.org/abs/2604.08007) · [阅读笔记](../digests/agent-environments/2026/2026-10-12.md)
 
 [完整书目](../resources/papers.md) · [全部主题](README.md)

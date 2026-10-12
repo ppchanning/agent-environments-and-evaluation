@@ -31,5 +31,6 @@
 - [GTM: Simulating the World of Tools for AI Agents](https://arxiv.org/abs/2512.04535) · [阅读笔记](../digests/agent-environments/2026/2026-10-08.md)
 - [CTE-Bench: Counterfactual Trace Evaluation for Stateful Software Simulators](https://arxiv.org/abs/2609.36647) · [阅读笔记](../digests/agent-environments/2026/2026-10-09.md)
 - [Weblica: Scalable and Reproducible Training Environments for Visual Web Agents](https://arxiv.org/abs/2605.06761) · [阅读笔记](../digests/agent-environments/2026/2026-10-09.md)
+- [Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls](https://arxiv.org/abs/2602.19218) · [阅读笔记](../digests/agent-environments/2026/2026-10-12.md)
 
 [完整书目](../resources/papers.md) · [全部主题](README.md)
