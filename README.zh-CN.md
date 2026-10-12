@@ -26,7 +26,7 @@
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/agent-simulation-selection/SKILL.md)与 Context7 索引配置。
+- **2026-10-12** — 新增 [3 篇中英双语核心指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)与 [Pages 阅读站](https://ppchanning.github.io/agent-environments-and-evaluation/index.zh-CN.html)；增加 [1 个可安装 Skill](skills/agent-simulation-selection/SKILL.md)与 Context7 索引配置；已收录到 [2 个 Skill 目录](#可安装的-agent-skill)。
 - **2026-10-11** — 新增[5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-11.md)——有状态 API 探索、隐藏副作用与结构覆盖；从真实服务测试理解仿真验证。
 - **2026-10-10** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-10.md) — API 测试与任务验证。
 - **2026-10-09** — [5 篇仿真与验证资料](digests/agent-environments/2026/2026-10-09.md) — 仿真轨迹与故障测试。
@@ -63,6 +63,8 @@ npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simula
 ```
 
 通过 Skills CLI 安装到支持的 Agent；首次运行会获取 CLI。Skill 本身是只读研究流程，输出包含依据、未知项和下一步核验。平台目录的收录状态与安装能力分别核实。
+
+在 [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/agent-simulation-selection) 和 [askill](https://askill.sh/skills/gh/ppchanning/agent-environments-and-evaluation/@agent-simulation-selection) 查找这个 Skill。[DeepWiki](https://deepwiki.com/ppchanning/agent-environments-and-evaluation) 提供仓库导览和问答；其生成说明仍需对照引用的源文件核查。
 
 ## Start here
 

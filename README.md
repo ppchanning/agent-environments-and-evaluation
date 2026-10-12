@@ -26,7 +26,7 @@ Use the collection to choose environment designs, compare the conditions suited 
 ## Updates
 
 <!-- updates-daily:start -->
-- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); plus [1 installable Skill](skills/agent-simulation-selection/SKILL.md) and Context7 indexing configuration.
+- **2026-10-12** — Added [3 bilingual core guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md) and a [Pages reading site](https://ppchanning.github.io/agent-environments-and-evaluation/); plus [1 installable Skill](skills/agent-simulation-selection/SKILL.md) and Context7 indexing configuration; listed in [2 skill directories](#installable-agent-skill).
 - **2026-10-11** — Added [5 papers in 1 new issue](digests/agent-environments/2026/2026-10-11.md) — Stateful API exploration, hidden side effects & structural coverage. Real-service testing informs simulation validation.
 - **2026-10-10** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-10.md) — API testing & task validation.
 - **2026-10-09** — [5 simulation & validation resources](digests/agent-environments/2026/2026-10-09.md) — Simulator traces & fault testing.
@@ -63,6 +63,8 @@ npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simula
 ```
 
 Install with the Skills CLI into a supported agent; the first run downloads the CLI. The skill itself is a read-only research workflow, returning evidence, unknowns and next checks. Directory indexing is verified separately from installability.
+
+Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/agent-simulation-selection) and [askill](https://askill.sh/skills/gh/ppchanning/agent-environments-and-evaluation/@agent-simulation-selection). For repository navigation and Q&A, use [DeepWiki](https://deepwiki.com/ppchanning/agent-environments-and-evaluation); its generated explanations should be checked against the cited source files.
 
 ## Start here
 
