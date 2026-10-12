@@ -1,4 +1,4 @@
-[English](simulation-fidelity.md) | **简体中文**
+[English](simulation-fidelity.md) \| **简体中文**
 
 # 如何验证 Agent 模拟器的状态与行为保真度
 

@@ -1,4 +1,4 @@
-[English](index.md) | **简体中文**
+[English](index.md) \| **简体中文**
 
 # Agent 仿真环境
 

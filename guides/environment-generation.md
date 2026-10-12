@@ -1,4 +1,4 @@
-**English** | [简体中文](environment-generation.zh-CN.md)
+**English** \| [简体中文](environment-generation.zh-CN.md)
 
 # How to generate verifiable agent simulation environments
 

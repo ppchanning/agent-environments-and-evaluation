@@ -1,4 +1,4 @@
-**English** | [简体中文](simulation-environment-selection.zh-CN.md)
+**English** \| [简体中文](simulation-environment-selection.zh-CN.md)
 
 # How to choose an agent simulation environment
 

@@ -1,4 +1,4 @@
-**English** | [简体中文](simulation-fidelity.zh-CN.md)
+**English** \| [简体中文](simulation-fidelity.zh-CN.md)
 
 # How to validate state and behavioral fidelity in agent simulators
 

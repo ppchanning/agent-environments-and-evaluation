@@ -1,4 +1,4 @@
-[English](simulation-environment-selection.md) | **简体中文**
+[English](simulation-environment-selection.md) \| **简体中文**
 
 # 如何选择 Agent 仿真环境
 

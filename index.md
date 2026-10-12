@@ -1,4 +1,4 @@
-**English** | [简体中文](index.zh-CN.md)
+**English** \| [简体中文](index.zh-CN.md)
 
 # Agent Simulation Environments
 

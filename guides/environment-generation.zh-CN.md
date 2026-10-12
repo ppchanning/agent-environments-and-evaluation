@@ -1,4 +1,4 @@
-[English](environment-generation.md) | **简体中文**
+[English](environment-generation.md) \| **简体中文**
 
 # 如何生成可验证的 Agent 仿真环境
 
