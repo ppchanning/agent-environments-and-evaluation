@@ -1185,5 +1185,108 @@
       "digests/agent-environments/2026/2026-10-12.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Automated Synthesis of Cloud Emulators",
+    "authors": "Archit Bhatnagar; Zhenning Yang; Sarah McClure; Yiming Qiu; Sylvia Ratnasamy; Ang Chen",
+    "team": "UMich / UC Berkeley / HKU",
+    "arxiv": "2608.23842",
+    "url": "https://arxiv.org/abs/2608.23842",
+    "fulltext_url": "https://arxiv.org/html/2608.23842v1",
+    "first_published": "2026-08-24",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-13T09:36:49.872899+08:00",
+    "read_first": "第3.3、4.1—4.3节",
+    "evidence": "AWS参考端上50 CLI及50 Terraform用例；逐级比较错误码、字段及中间状态。另330用例LocalStack消融属于不同参照。",
+    "limitations": "抽样用例不覆盖全部EC2输入；约1.24万行专用框架带有人工作业成本。真实AWS保真证据与LocalStack拟合消融应分开。",
+    "id": "arxiv:2608.23842",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software",
+    "authors": "Anna Mazhar; Saad Sher Alam; William X. Zheng; Yinfang Chen; Suman Nath; Tianyin Xu",
+    "team": "Cornell / UIUC / Microsoft Research",
+    "doi": "10.1109/ICSE55347.2025.00077",
+    "url": "https://doi.org/10.1109/ICSE55347.2025.00077",
+    "fulltext_url": "https://tianyin.github.io/pub/cloudtest.pdf",
+    "first_published": "2025-04",
+    "verified_version": "ICSE 2025",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-13T09:36:49.872899+08:00",
+    "read_first": "第III、IV、VII节",
+    "evidence": "五项云服务255个API中94个存在可触发差异，约37%；另用十个开源项目测试检查应用后果。",
+    "limitations": "比例分母为接口，非每次请求的错误概率；研究版本及工作负载有限。已验证调用序列的复用不证明新组合安全。",
+    "id": "doi:10.1109/icse55347.2025.00077",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Toward Interactive Understanding of Code APIs",
+    "authors": "Dhananjay Ashok; Jesse Thomason; Jonathan May",
+    "team": "USC / ISI",
+    "arxiv": "2609.32081",
+    "url": "https://arxiv.org/abs/2609.32081",
+    "fulltext_url": "https://arxiv.org/html/2609.32081v1",
+    "first_published": "2026-09-25",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-13T09:36:49.872899+08:00",
+    "read_first": "第2节、图2—3、附录C",
+    "evidence": "741个无状态函数测试，至多25次查询；描述评分及重写代码一致率分别评估。正确描述交给重写模型仍约72.96%一致率。",
+    "limitations": "重写指标包含代码生成误差；结构覆盖不等于语义穷尽。正文模型名和显著性图注有不一致，不能推导完整排名；无跨调用状态。",
+    "id": "arxiv:2609.32081",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker",
+    "authors": "Yinfang Chen; Xudong Sun; Suman Nath; Ze Yang; Tianyin Xu",
+    "team": "UIUC / Microsoft Research",
+    "url": "https://www.usenix.org/conference/nsdi23/presentation/chen-yinfang",
+    "fulltext_url": "https://www.usenix.org/system/files/nsdi23-chen-yinfang.pdf",
+    "first_published": "2023-04",
+    "verified_version": "NSDI 2023",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-13T09:36:49.872899+08:00",
+    "read_first": "图3、第4.2.1节",
+    "evidence": "11个.NET云应用73个新发现；USENIX正式论文报告55确认、51修复。HTTP代理区分请求未执行及已执行但响应丢失。",
+    "limitations": "未证明覆盖全部故障及语言客户端；旧微软页面44/40与正式论文不同。研究真实应用故障注入，非生成模拟器。",
+    "id": "url:https://www.usenix.org/conference/nsdi23/presentation/chen-yinfang",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Benchmarking Combinations of Learning and Testing Algorithms for Automata Learning",
+    "authors": "Bernhard K. Aichernig; Martin Tappler; Felix Wallner",
+    "team": "TU Graz / Silicon Austria Labs",
+    "doi": "10.1145/3605360",
+    "url": "https://doi.org/10.1145/3605360",
+    "fulltext_url": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/77962395/3605360.pdf",
+    "verified_version": "Formal Aspects of Computing 36(1), article 3",
+    "type": "journal_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-13T09:36:49.872899+08:00",
+    "read_first": "第4.1.4节、图6—7",
+    "evidence": "六种学习与七种测试方法；153个已有模型，十次重复正确学习的最低预算；共同完成116个对象单独比较。",
+    "limitations": "随机Wp抽样没有完整一致性测试的形式保证；模型集合、失败惩罚、12GB内存及实现限制影响比较。无限数据参数及异步行为需要额外抽象。 2024-03为所核期刊卷期，在线首发日期未单独核实。",
+    "id": "doi:10.1145/3605360",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

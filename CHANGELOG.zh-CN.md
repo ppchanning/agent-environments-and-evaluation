@@ -16,6 +16,8 @@
 
 ## 发布更新
 
+- **2026-10-13** — 新增 [5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-13.md)：云模拟器生成、保真与黑盒行为核查；真实服务测试提供验证参照。 独立条目修订 0，补录 0 期。
+
 - **2026-10-12** — 新增 [5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-12.md)：仿真反馈、API 依赖与不稳定测试。 同日上线 [3 篇双语指南](guides/simulation-environment-selection.zh-CN.md)、[1 个 Agent 索引](agent-index.zh-CN.md)、[1 个 Skill](skills/agent-simulation-selection/SKILL.md)与 Pages 阅读站；收录到 2 个 Skill 目录，接入 [SelfRef 资料库](https://www.selfref.org/agents/curated-zh.html)。
 
 - **2026-10-11** — 新增[5 篇论文、1 期晨读](digests/agent-environments/2026/2026-10-11.md)——有状态 API 探索、隐藏副作用与结构覆盖；从真实服务测试理解仿真验证。 论文修订 0 篇，补录 0 期。

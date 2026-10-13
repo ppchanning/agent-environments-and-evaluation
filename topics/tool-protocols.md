@@ -42,3 +42,7 @@
 - [Log-based, Business-aware REST API Testing](https://arxiv.org/abs/2604.08007) · [阅读笔记](../digests/agent-environments/2026/2026-10-12.md)
 
 [完整书目](../resources/papers.md) · [全部主题](README.md)
+- [Automated Synthesis of Cloud Emulators](https://arxiv.org/abs/2608.23842) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
+- [Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software](https://doi.org/10.1109/ICSE55347.2025.00077) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
+- [Toward Interactive Understanding of Code APIs](https://arxiv.org/abs/2609.32081) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
+- [Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker](https://www.usenix.org/conference/nsdi23/presentation/chen-yinfang) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)

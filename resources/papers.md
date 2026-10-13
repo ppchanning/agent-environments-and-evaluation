@@ -57,3 +57,8 @@
 | [Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls](https://arxiv.org/abs/2602.19218) | Zeyu Zhang; Guohao Li; Zhenchang Xing; Alexandros Apostolopoulos; Yu Lin Lee; Liang Zheng | 2026-02-22 | conference_paper |
 | [Intelligent REST API Data Fuzzing](https://www.microsoft.com/en-us/research/publication/intelligent-rest-api-data-fuzzing/) | Patrice Godefroid; Bo-Yuan Huang; Marina Polishchuk | 2019-11 | conference_paper |
 | [Log-based, Business-aware REST API Testing](https://arxiv.org/abs/2604.08007) | Ding Yang; Ruixiang Qian; Zhao Wei; Zhenyu Chen; Chunrong Fang | 2026-04-09 | preprint |
+| [Automated Synthesis of Cloud Emulators](https://arxiv.org/abs/2608.23842) | Archit Bhatnagar; Zhenning Yang; Sarah McClure; Yiming Qiu; Sylvia Ratnasamy; Ang Chen | 2026-08-24 | preprint |
+| [Fidelity of Cloud Emulators: The Imitation Game of Testing Cloud-based Software](https://doi.org/10.1109/ICSE55347.2025.00077) | Anna Mazhar; Saad Sher Alam; William X. Zheng; Yinfang Chen; Suman Nath; Tianyin Xu | 2025-04 | conference_paper |
+| [Toward Interactive Understanding of Code APIs](https://arxiv.org/abs/2609.32081) | Dhananjay Ashok; Jesse Thomason; Jonathan May | 2026-09-25 | preprint |
+| [Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker](https://www.usenix.org/conference/nsdi23/presentation/chen-yinfang) | Yinfang Chen; Xudong Sun; Suman Nath; Ze Yang; Tianyin Xu | 2023-04 | conference_paper |
+| [Benchmarking Combinations of Learning and Testing Algorithms for Automata Learning](https://doi.org/10.1145/3605360) | Bernhard K. Aichernig; Martin Tappler; Felix Wallner | — | journal_paper |
