@@ -1288,5 +1288,111 @@
       "digests/agent-environments/2026/2026-10-13.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Morest: Model-based RESTful API Testing with Execution Feedback",
+    "authors": "Yi Liu; Yuekang Li; Gelei Deng; Yang Liu; Ruiyuan Wan; Runchao Wu; Dandan Ji; Shiheng Xu; Minli Bao",
+    "team": "Nanyang Technological University / Huawei Cloud et al.",
+    "doi": "10.1145/3510003.3510133",
+    "arxiv": "2204.12148",
+    "url": "https://arxiv.org/abs/2204.12148",
+    "fulltext_url": "https://arxiv.org/html/2204.12148v1",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-14T07:07:08.897218+08:00",
+    "read_first": "第3节、表2、CRUD序列过滤规则",
+    "evidence": "6 services; 8h per run, 5 repeats; 5/6 significantly better; 44 detected issues, 13 unique to tool; not all developer-confirmed",
+    "first_published": "2022-04-26",
+    "verified_version": "v1",
+    "limitations": "真实REST服务测试，未生成模拟器；CRUD过滤与服务集合限制覆盖范围。44项发现并非全部获开发者确认。可作为服务仿真的调用依赖验证参照。",
+    "id": "arxiv:2204.12148",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning",
+    "authors": "Davide Corradini; Zeno Montolli; Michele Pasqua; Mariano Ceccato",
+    "team": "University of Verona",
+    "arxiv": "2408.08594",
+    "url": "https://arxiv.org/abs/2408.08594",
+    "fulltext_url": "https://arxiv.org/html/2408.08594v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-14T07:07:08.897218+08:00",
+    "read_first": "第4.1节、第5.2节、图5",
+    "evidence": "11 APIs, 5 comparison tools; identical per-API request budget, 10 repeats and fresh filesystems; aggregate metrics highest; fault difference versus RESTler not significant",
+    "first_published": "2024-08-16",
+    "verified_version": "v1",
+    "limitations": "成功计数向量不是内部状态真值；5XX不等于已确认根因。相对RESTler的故障差异不显著；提供真实API探索方法，不能视为模拟器保真证明。",
+    "id": "arxiv:2408.08594",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "AgentRx: Diagnosing AI Agent Failures from Execution Trajectories",
+    "authors": "Shraddha Barke; Arnav Goyal; Alind Khare; Avaljot Singh; Suman Nath; Chetan Bansal",
+    "team": "Microsoft Research / Microsoft / UIUC",
+    "arxiv": "2602.02475",
+    "url": "https://arxiv.org/abs/2602.02475",
+    "fulltext_url": "https://arxiv.org/html/2602.02475v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-14T07:07:08.897218+08:00",
+    "read_first": "第3节、表5、附录B",
+    "evidence": "115 failed trajectories: 29 tau,42 Flash,44 Magentic; GPT-5 default, human labels; tau best one-shot step 32.2 to54.0 and category25.3 to40.2, 3 runs",
+    "first_published": "2026-02-02",
+    "verified_version": "v1",
+    "limitations": "约束含模型语义判断，不等于机械证明。115条失败轨迹中的子集结果不可概括全部场景；关键未恢复失败与首次状态分歧是不同标签。",
+    "id": "arxiv:2602.02475",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+    "authors": "Shun Zou; Ziyu Ma; Yi Zou; Yong Wang; Lin Chen; Zehui Chen; Guanhua Chen; Xiangxiang Chu; Feng Zhao",
+    "team": "Author team as listed in original preprint",
+    "arxiv": "2610.13166",
+    "url": "https://arxiv.org/abs/2610.13166",
+    "fulltext_url": "https://arxiv.org/html/2610.13166v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-14T07:07:08.897218+08:00",
+    "read_first": "第2.1—2.3节、图2",
+    "evidence": "1535 environments,2852 trajectories,52.8 mean turns; TB2.1 89 tasks x3,3h/task, mean pass@1 46.82 to60.67; task verifiers",
+    "first_published": "2026-10-09",
+    "verified_version": "v1",
+    "limitations": "整套数据训练的效果未完全拆分环境修整与渐进扩展；长轨迹不等于保真。终端执行与任务验证器证据不能改写为真实外部服务模拟器已通过差分验证。",
+    "id": "arxiv:2610.13166",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "authors": "Tong Zheng; Xidong Wu; Zheng Zhang; Zhankui He; Chaoyi Zhang; Benjamin Coleman; Ruoqiao Wei; Di Bai; Haolin Liu; Rui Liu; Xue Wang; Yue Zhuan; Wang-Cheng Kang; Renkai Xiang; Heng Huang; Xinwu Cheng; Yunsong Guo",
+    "team": "Google DeepMind / University of Maryland et al.",
+    "arxiv": "2609.14858",
+    "url": "https://arxiv.org/abs/2609.14858",
+    "fulltext_url": "https://arxiv.org/html/2609.14858v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-14T07:07:08.897218+08:00",
+    "read_first": "第3节Online rollout与Offline evaluation、图4",
+    "evidence": "8 tasks; controlled Recursive Fixed Exploration same agent/init/protocol; Gemini3.1Pro on4 KernelBench tasks; comparable VGG16/LayerNorm performance with2.43x/1.79x fewer generations",
+    "first_published": "2026-09-14",
+    "verified_version": "v1",
+    "limitations": "重放只支持已记录分支；缺失延续返回空集合，不能泛化到任意新候选。生成次数节省未包含所有离线策略改写、存储与重放成本。",
+    "id": "arxiv:2609.14858",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-14.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

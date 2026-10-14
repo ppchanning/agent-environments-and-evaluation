@@ -36,3 +36,5 @@
 [完整书目](../resources/papers.md) · [全部主题](README.md)
 - [Automated Synthesis of Cloud Emulators](https://arxiv.org/abs/2608.23842) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
 - [Benchmarking Combinations of Learning and Testing Algorithms for Automata Learning](https://doi.org/10.1145/3605360) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
+- [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://arxiv.org/abs/2610.13166) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)

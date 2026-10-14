@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-14** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-14.md): terminal environment generation, recorded-world replay and failure diagnosis. Real API tests inform simulation validation. No resource revisions, returning appearances or backfilled issues.
+
 - **2026-10-13** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-13.md): cloud emulator synthesis, fidelity and black-box behavior checks. Real-service tests provide validation references. No resource revisions or backfilled issues.
 
 - **2026-10-12** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-12.md): simulation feedback, API dependencies and flaky tests. Also launched [3 bilingual guides](guides/simulation-environment-selection.md), [1 Agent index](agent-index.md), [1 Skill](skills/agent-simulation-selection/SKILL.md) and a Pages reading site; listed in 2 Skill directories and connected to the [SelfRef Library](https://www.selfref.org/agents/curated.html).

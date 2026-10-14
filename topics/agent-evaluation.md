@@ -53,3 +53,8 @@
 - [Toward Interactive Understanding of Code APIs](https://arxiv.org/abs/2609.32081) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
 - [Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker](https://www.usenix.org/conference/nsdi23/presentation/chen-yinfang) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
 - [Benchmarking Combinations of Learning and Testing Algorithms for Automata Learning](https://doi.org/10.1145/3605360) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
+- [Morest: Model-based RESTful API Testing with Execution Feedback](https://arxiv.org/abs/2204.12148) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning](https://arxiv.org/abs/2408.08594) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [AgentRx: Diagnosing AI Agent Failures from Execution Trajectories](https://arxiv.org/abs/2602.02475) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://arxiv.org/abs/2610.13166) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
