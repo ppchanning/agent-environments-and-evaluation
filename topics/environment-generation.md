@@ -38,3 +38,6 @@
 - [Benchmarking Combinations of Learning and Testing Algorithms for Automata Learning](https://doi.org/10.1145/3605360) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
 - [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://arxiv.org/abs/2610.13166) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
 - [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [Memento3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation](https://arxiv.org/abs/2602.01709) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)

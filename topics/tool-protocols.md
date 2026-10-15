@@ -48,3 +48,6 @@
 - [Push-Button Reliability Testing for Cloud-Backed Applications with Rainmaker](https://www.usenix.org/conference/nsdi23/presentation/chen-yinfang) · [阅读笔记](../digests/agent-environments/2026/2026-10-13.md)
 - [Morest: Model-based RESTful API Testing with Execution Feedback](https://arxiv.org/abs/2204.12148) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
 - [DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning](https://arxiv.org/abs/2408.08594) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents](https://arxiv.org/abs/2605.11928) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation](https://arxiv.org/abs/2602.01709) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)

@@ -1394,5 +1394,110 @@
       "digests/agent-environments/2026/2026-10-14.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "TestPrism: Rethinking Test Evaluation Beyond a Single Reference",
+    "authors": "Han Li; Lingxiang Hu; Jiacheng Huang; Ziqian Jiang; Jingkai Luo; Wei Gao; Yunfan Tan; Zun Wang; Jiaheng Liu",
+    "team": "Nanjing University / Hong Kong Polytechnic University / Tencent",
+    "arxiv": "2610.12289",
+    "url": "https://arxiv.org/abs/2610.12289",
+    "fulltext_url": "https://arxiv.org/html/2610.12289v1",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-15T07:04:16.614471+08:00",
+    "evidence": "300 tasks, 3000 implementations; best of 14 configurations: single-reference 59.67%, joint success 28.00%",
+    "read_first": "第2.3—2.6节、表2",
+    "id": "arxiv:2610.12289",
+    "limitations": "14种配置中最佳单参考成功率59.67%，联合条件成功率28.00%，分母均为300任务。合法性标签依赖源验证器与专家审阅，不能视为形式正确性证明；本研究提供验证方法，而不是提出一个模拟器。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Memento3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "authors": "Haoyu Zhao; Zhengxu Yu; Zhiyuan He; Meng Fang; Rasul Tutunov; Haitham Bou Ammar; Weilin Luo; Jun Wang",
+    "team": "UCL / Huawei Noah UK / University of Liverpool",
+    "arxiv": "2610.11794",
+    "url": "https://arxiv.org/abs/2610.11794",
+    "fulltext_url": "https://arxiv.org/html/2610.11794v1",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-15T07:04:16.614471+08:00",
+    "evidence": "25 games, 183/183 levels, 7518 actions vs human reference 17135; rulebook ablation only 3 games: 617 vs 677 actions",
+    "read_first": "规则本更新、历史重放、图2及消融",
+    "id": "arxiv:2610.11794",
+    "limitations": "作者报告25个游戏、183/183关完成、7518次真实动作，对照人类参考17135次。动作数不包含全部计算；规则本消融只有3个游戏，617对677次动作。历史重放一致不保证未见分支保真，公开排行榜比较也不全是同条件重跑。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments",
+    "authors": "Xiaoyang Yuan; Ji Zhao; Xingyu Hu; Wenhan Wang; Yutao Hu; Qiaosheng Zhang; Pengfei Liu; Yu Qiao; Yi Bin; Wenqi Shao",
+    "team": "Tongji University / Shanghai Innovation Institute / USTC / Southeast University",
+    "arxiv": "2610.16867",
+    "url": "https://arxiv.org/abs/2610.16867",
+    "fulltext_url": "https://arxiv.org/html/2610.16867v1",
+    "first_published": "2026-10-12",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-15T07:04:16.614471+08:00",
+    "evidence": "30395 verified trajectories, 2260 invoked tool names; MCP-Atlas no-key subset 89 tasks: base16.9, SFT52.8, DPO56.2",
+    "read_first": "第3节、附录A与B.1.4",
+    "id": "arxiv:2610.16867",
+    "limitations": "30,395条已验证轨迹和2260个被调用工具名称不等于环境数。Qwen3-Coder-30B-A3B 在89题免密 MCP-Atlas 子集上为16.9、SFT52.8、DPO56.2；消融同时改变来源配比和语料规模。自建契约一致不等于独立真实系统保真，EGTS 截断失败尾部也不能证明失败覆盖。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents",
+    "authors": "Xiaolin Zhou; Aojie Yuan; Zheng Luo; Zipeng Ling; Xixiao Pan; Yicheng Gao; Haiyue Zhang; Jiate Li; Shuli Jiang; Prince Zizhuang Wang; Zixuan Zhu; Jinbo Liu; Ryan A. Rossi; Hua Wei; Xiyang Hu",
+    "team": "Arizona State University / USC / Adobe Research et al.",
+    "arxiv": "2605.11928",
+    "url": "https://arxiv.org/abs/2605.11928",
+    "fulltext_url": "https://arxiv.org/html/2605.11928v2",
+    "first_published": "2026-05-12",
+    "verified_version": "v2",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-15T07:04:16.614471+08:00",
+    "evidence": "199 clean +3522 perturbed=3721 instances;21 models;3B ToolRL clean .638 perturbed .404; transition gap .315 to .231 under static domain randomization",
+    "read_first": "第4.3节、表2、第7节",
+    "id": "arxiv:2605.11928",
+    "limitations": "3B ToolRL 干净与扰动成绩为63.8%与40.4%；执行扰动的性能差距在静态域随机化后从31.5降至23.1个百分点。固定首次错误不是自然故障频率，未测试失败后状态副作用或长序列保真。本次补入较早论文及v2，不宣称核实了实质版本增量。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation",
+    "authors": "Xingshan Zeng; Lingzhi Wang; Weiwen Liu; Liangyou Li; Yasheng Wang; Lifeng Shang; Xin Jiang; Qun Liu",
+    "team": "Huawei / Harbin Institute of Technology Shenzhen / Shanghai Jiao Tong University",
+    "arxiv": "2602.01709",
+    "url": "https://arxiv.org/abs/2602.01709",
+    "fulltext_url": "https://arxiv.org/html/2602.01709v3",
+    "first_published": "2026-02-02",
+    "verified_version": "v3",
+    "type": "preprint",
+    "verification": "original_abstract_and_key_method_results_discussion",
+    "verified_at": "2026-10-15T07:04:16.614471+08:00",
+    "evidence": "Simulator accuracy98.57→99.14 and failure macro-F1 81.39→93.42; strict unseen-tool task accuracy 17.00±1.90 vs16.23±1.65 over3 runs",
+    "read_first": "第4.3节、失败分类结果、附录H—I",
+    "id": "arxiv:2602.01709",
+    "limitations": "整体模拟准确率98.57%至99.14%，失败宏平均F1为81.39%至93.42%，反映指标关注点不同。严格8组未见工具、3次运行的成绩17±1.90对16.23±1.65，差距有限；主要评测存在工具重叠，相同试次K不代表相同总计算预算。较早论文v3的补入不表示核实了版本增量。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

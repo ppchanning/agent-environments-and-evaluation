@@ -55,3 +55,8 @@
 - [DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning](https://arxiv.org/abs/2408.08594) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
 - [AgentRx: Diagnosing AI Agent Failures from Execution Trajectories](https://arxiv.org/abs/2602.02475) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
 - [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://arxiv.org/abs/2610.13166) · [阅读笔记](../digests/agent-environments/2026/2026-10-14.md)
+- [TestPrism: Rethinking Test Evaluation Beyond a Single Reference](https://arxiv.org/abs/2610.12289) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [Memento3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents](https://arxiv.org/abs/2605.11928) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation](https://arxiv.org/abs/2602.01709) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)

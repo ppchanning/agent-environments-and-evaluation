@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-15** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-15.md): rulebook world models, executable tool environments and failure-aware simulation. Testing evidence retains its limits. No resource revisions, returning appearances or backfilled issues.
+
 - **2026-10-14** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-14.md): terminal environment generation, recorded-world replay and failure diagnosis. Real API tests inform simulation validation. No resource revisions, returning appearances or backfilled issues.
 
 - **2026-10-13** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-13.md): cloud emulator synthesis, fidelity and black-box behavior checks. Real-service tests provide validation references. No resource revisions or backfilled issues.
