@@ -63,3 +63,7 @@
 - [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
 - [When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents](https://arxiv.org/abs/2605.11928) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
 - [ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation](https://arxiv.org/abs/2602.01709) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [SABER: Small Actions, Big Errors — Safeguarding Mutating Steps in LLM Agents](https://arxiv.org/abs/2512.07850) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)

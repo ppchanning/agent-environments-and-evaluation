@@ -41,3 +41,7 @@
 - [Memento3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
 - [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](https://arxiv.org/abs/2610.16867) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
 - [ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation](https://arxiv.org/abs/2602.01709) · [阅读笔记](../digests/agent-environments/2026/2026-10-15.md)
+- [τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [Handling Web Service Interactions in Fuzzing with Search-Based Mock-Generation](https://doi.org/10.1145/3731558) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)

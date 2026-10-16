@@ -1499,5 +1499,110 @@
       "digests/agent-environments/2026/2026-10-15.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "SABER: Small Actions, Big Errors — Safeguarding Mutating Steps in LLM Agents",
+    "authors": "Alejandro Cuadron; Pengfei Yu; Yang Liu; Arpit Gupta",
+    "team": "Amazon AGI Foundations",
+    "arxiv": "2512.07850",
+    "url": "https://arxiv.org/abs/2512.07850",
+    "fulltext_url": "https://arxiv.org/html/2512.07850",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-16T07:14:29.229284+08:00",
+    "evidence": "Qwen3-Thinking airline success 49.3→63.3 over three runs; manual annotation issues31/50 airline,53/115 retail; gains not universal",
+    "read_first": "任务修订部分、表2与动作偏差定义",
+    "id": "arxiv:2512.07850",
+    "first_published": "2025-11-26",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者手工标注的任务问题不是任何判据下都必然错误。动作数量差回归不能定位首次因果错误，收益并非全部模型和领域一致；本研究改善代理行为，并未重建黑盒服务。"
+  },
+  {
+    "title": "τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+    "authors": "Victor Barres; Honghua Dong; Soham Ray; Xujie Si; Karthik Narasimhan",
+    "team": "Sierra / University of Toronto / Vector Institute",
+    "arxiv": "2506.07982",
+    "url": "https://arxiv.org/abs/2506.07982",
+    "fulltext_url": "https://arxiv.org/html/2506.07982",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-16T07:14:29.229284+08:00",
+    "evidence": "Telecom114 sampled from2285; four runs per task; three critical user errors in50 manually inspected telecom traces",
+    "read_first": "电信任务构造、共享状态示例及人工质量表",
+    "id": "arxiv:2506.07982",
+    "first_published": "2025-06-09",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "NoUser对照同时改变通信、信息与工具权限。50条电信轨迹的表格和正文有3条严重模拟错误，与表注冲突；当前代码不一定对应论文版本。生成环境的自建断言不等于独立真实服务保真。"
+  },
+  {
+    "title": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox",
+    "authors": "Yangjun Ruan; Honghua Dong; Andrew Wang; Silviu Pitis; Yongchao Zhou; Jimmy Ba; Yann Dubois; Chris J. Maddison; Tatsunori Hashimoto",
+    "team": "Stanford University / University of Toronto",
+    "arxiv": "2309.15817",
+    "url": "https://arxiv.org/abs/2309.15817",
+    "fulltext_url": "https://arxiv.org/html/2309.15817v2",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-16T07:14:29.229284+08:00",
+    "evidence": "100cases yield200trajectories; four human raters; failure precision72.5±7.1% standard,68.8±6.7% adversarial; six of seven terminal failures reproduced",
+    "read_first": "模拟器输入、隐含状态与人工失败验证规则",
+    "id": "arxiv:2309.15817",
+    "first_published": "2023-09-25",
+    "verified_version": "v2",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "72.5%与68.8%是人工支持的失败告警精度，非API保真率；7套工具无现成公共API。终端7例中6例重现仅支持该窄样本，隐含状态仍需独立验证。"
+  },
+  {
+    "title": "Handling Web Service Interactions in Fuzzing with Search-Based Mock-Generation",
+    "authors": "Susruthan Seran; Man Zhang; Onur Duman; Andrea Arcuri",
+    "team": "Kristiania / software testing research",
+    "doi": "10.1145/3731558",
+    "url": "https://doi.org/10.1145/3731558",
+    "fulltext_url": "https://www.kristiania.no/contentassets/0459de09219c48b8ba3d064d66239d10/susruthan-seran-nett.pdf",
+    "type": "journal_paper",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-16T07:14:29.229284+08:00",
+    "evidence": "Five real REST APIs;30 repeats per configuration,1h each; online pay-publicapi line coverage11.1→31.8%; gains nonuniform",
+    "read_first": "作者学位论文第2章mock生成过程、表2.4—2.5",
+    "id": "doi:10.1145/3731558",
+    "first_published": "2025",
+    "verified_version": "author-thesis-chapter-2",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "出版社正文受限，证据来自作者学位论文第2章同篇全文。卷期元数据为2026-01-21，学位论文列2025，首次在线日期未解决。白盒插桩帮助生成mock；覆盖提升不等于外部服务保真，HTTP500计数不等于确认的独立缺陷。"
+  },
+  {
+    "title": "WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation",
+    "authors": "Peterson Co; Sicheng Hu; Chunxuan Jiao; Hongyang Cheng; Yulin Luo; Yijie Xu; Sixiang Chen; Zhongxia Zhao; Zihao Wang; DaFeng Chi; Peidong Liu; YuTong Chen; Henghua Liu; Zhihao Yuan; Huizhu Jia; Yuzheng Zhuang; Tianle Zhang; Liang Lin; Huajie Tan; Shanghang Zhang",
+    "team": "Peking University / EvoPhysAI and collaborators",
+    "arxiv": "2608.09298",
+    "url": "https://arxiv.org/abs/2608.09298",
+    "fulltext_url": "https://arxiv.org/html/2608.09298",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-16T07:14:29.229284+08:00",
+    "evidence": "Six models over18000 instances;500OOD videos VLM action-following91.7% vs human42.2%",
+    "read_first": "第4节局部扰动与无接触测试、第5.5节评判器验证",
+    "id": "arxiv:2608.09298",
+    "first_published": "2026-08-10",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "物理运动检查不能直接换算成API状态指标。视觉评判在500个分布外视频上的91.7%与人类42.2%差异，仅适用于此动作跟随判断；不能推广为所有模型裁判失效。"
   }
 ]
