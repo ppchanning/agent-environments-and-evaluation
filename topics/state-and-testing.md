@@ -65,3 +65,6 @@
 - [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [Handling Web Service Interactions in Fuzzing with Search-Based Mock-Generation](https://doi.org/10.1145/3731558) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [Inferring data model from service interactions for response generation in service virtualization](https://doi.org/10.1016/j.infsof.2021.106803) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [GTDD: Generative Test-Driven Development for AI Coding Agents with Adversarial Testing](https://arxiv.org/abs/2610.02952) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?](https://arxiv.org/abs/1912.06321) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)

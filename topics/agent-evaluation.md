@@ -67,3 +67,7 @@
 - [τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [GTDD: Generative Test-Driven Development for AI Coding Agents with Adversarial Testing](https://arxiv.org/abs/2610.02952) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers](https://arxiv.org/abs/2508.14704) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions](https://arxiv.org/abs/2610.14334) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?](https://arxiv.org/abs/1912.06321) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)

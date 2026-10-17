@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-17** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-17.md): stateful service models, trajectory tests and simulation-to-reality prediction. Earlier publications newly cataloged. No resource revisions, returning appearances or backfilled issues.
+
 - **2026-10-16** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-16.md): shared-state environments, tool emulation and simulator fidelity. Newly cataloged work includes earlier publications. No resource revisions, returning appearances or backfilled issues.
 
 - **2026-10-15** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-15.md): rulebook world models, executable tool environments and failure-aware simulation. Testing evidence retains its limits. No resource revisions, returning appearances or backfilled issues.

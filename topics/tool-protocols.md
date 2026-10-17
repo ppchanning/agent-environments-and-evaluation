@@ -55,3 +55,6 @@
 - [τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [Handling Web Service Interactions in Fuzzing with Search-Based Mock-Generation](https://doi.org/10.1145/3731558) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
+- [Inferring data model from service interactions for response generation in service virtualization](https://doi.org/10.1016/j.infsof.2021.106803) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers](https://arxiv.org/abs/2508.14704) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions](https://arxiv.org/abs/2610.14334) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)

@@ -1604,5 +1604,111 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "物理运动检查不能直接换算成API状态指标。视觉评判在500个分布外视频上的91.7%与人类42.2%差异，仅适用于此动作跟随判断；不能推广为所有模型裁判失效。"
+  },
+  {
+    "title": "Inferring data model from service interactions for response generation in service virtualization",
+    "authors": "Md. Arafat Hossain; Jiaojiao Jiang; Jun Han; Muhammad Ashad Kabir; Jean-Guy Schneider; Chengfei Liu",
+    "team": "Swinburne / UNSW / Charles Sturt / Deakin",
+    "doi": "10.1016/j.infsof.2021.106803",
+    "url": "https://doi.org/10.1016/j.infsof.2021.106803",
+    "fulltext_url": "https://www.sciencedirect.com/science/article/pii/S0950584921002391",
+    "type": "journal_article",
+    "verification": "original_abstract_intro_section_excerpts_only",
+    "verified_at": "2026-10-17T07:11:27.787841+08:00",
+    "evidence": "Original introduction describes entity/attribute and key inference, live data model plus control model; full empirical tables not verified; no numeric accuracy claim",
+    "read_first": "第2节人员信息例子、第3节模型构造；第4节原实验表待核",
+    "id": "doi:10.1016/j.infsof.2021.106803",
+    "first_published": null,
+    "verified_version": null,
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Issue date 2022-05; first online date unresolved；Accepted manuscript HTTP403; publisher direct open intermittent; abstract, introduction and section excerpts only"
+  },
+  {
+    "title": "GTDD: Generative Test-Driven Development for AI Coding Agents with Adversarial Testing",
+    "authors": "Masahiro Kato",
+    "team": "Mizuho-DL Financial Technology",
+    "arxiv": "2610.02952",
+    "url": "https://arxiv.org/abs/2610.02952",
+    "fulltext_url": "https://arxiv.org/html/2610.02952v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-17T07:11:27.787841+08:00",
+    "evidence": "30 paired blocks; 2000 held-out traces of10–40 actions; dynamic informed27.4% vs static40.5% trajectory failure; property29.8%, no significant dynamic advantage; budget attribution unresolved",
+    "read_first": "第6.1–6.3节、表5/6、独立审计抽样条件",
+    "id": "arxiv:2610.02952",
+    "first_published": "2026-10-02",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Development did not use audit as an actual acceptance gate；Finite-population fresh-sample guarantee is conditional, not all-sequence correctness"
+  },
+  {
+    "title": "MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers",
+    "authors": "Ziyang Luo; Zhiqi Shen; Wenzhuo Yang; Zirui Zhao; Prathyusha Jwalapuram; Amrita Saha; Doyen Sahoo; Silvio Savarese; Caiming Xiong; Junnan Li",
+    "team": "Salesforce AI Research",
+    "arxiv": "2508.14704",
+    "url": "https://arxiv.org/abs/2508.14704",
+    "fulltext_url": "https://arxiv.org/html/2508.14704v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-17T07:11:27.787841+08:00",
+    "evidence": "231 tasks;6 domains;11 servers;133 tools;84 distinct evaluators; GPT-5 historical task success101/231=43.72%, average evaluator satisfaction60.23%; intentionally hard task selection",
+    "read_first": "第3.4节和表2/3",
+    "id": "arxiv:2508.14704",
+    "first_published": "2025-08-20",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Paper-version results only, not current leaderboard；Official blog and paper merged; evolving repository not claimed as verified substantive update"
+  },
+  {
+    "title": "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions",
+    "authors": "Xiaofan Li; Fengchun Qiao; Xing Gao",
+    "team": "University of Delaware / University of South Florida",
+    "arxiv": "2610.14334",
+    "url": "https://arxiv.org/abs/2610.14334",
+    "fulltext_url": "https://arxiv.org/html/2610.14334v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-17T07:11:27.787841+08:00",
+    "evidence": "367174 tool metadata inventory; controlled5tasks5models; PlaceOrder 2-tool GPT5.4mini flat selection97% with first-position51%; no tool execution measured",
+    "read_first": "第4节、第5.2节位置效应、第5.4节明确请求条件",
+    "id": "arxiv:2610.14334",
+    "first_published": "2026-10-09",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "First tool selection only; no task execution or backend state fidelity measured."
+  },
+  {
+    "title": "Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?",
+    "authors": "Abhishek Kadian; Joanne Truong; Aaron Gokaslan; Alexander Clegg; Erik Wijmans; Stefan Lee; Manolis Savva; Sonia Chernova; Dhruv Batra",
+    "team": "Facebook AI Research / Georgia Tech / Oregon State / Simon Fraser",
+    "doi": "10.1109/LRA.2020.3013848",
+    "arxiv": "1912.06321",
+    "url": "https://arxiv.org/abs/1912.06321",
+    "fulltext_url": "https://arxiv.org/pdf/1912.06321",
+    "type": "journal_article",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-17T07:11:27.787841+08:00",
+    "evidence": "9models ×3configs ×5start-goal pairs ×3repeats=405 runs per side; SRCCsuccess.18→.844, SPL.603→.875 after simulator adjustment; same lab/model set used for tuning",
+    "read_first": "第IV-E节及第V-A/V-B节图5–7",
+    "id": "arxiv:1912.06321",
+    "first_published": "2019-12-13",
+    "verified_version": "v2, 2020-08-17; RA-L2020",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-17.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "HTML affiliation corruption resolved with original PDF page1；Tuning result on same lab and model suite, not unseen-environment validation"
   }
 ]
