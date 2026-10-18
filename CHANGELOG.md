@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-18** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-18.md): service emulation, website replicas and persistent laboratory state. Execution rollback and judge agreement retain distinct limits. No resource revisions, returning appearances or backfilled issues; earlier publications are newly cataloged.
+
 - **2026-10-17** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-17.md): stateful service models, trajectory tests and simulation-to-reality prediction. Earlier publications newly cataloged. No resource revisions, returning appearances or backfilled issues.
 
 - **2026-10-16** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-16.md): shared-state environments, tool emulation and simulator fidelity. Newly cataloged work includes earlier publications. No resource revisions, returning appearances or backfilled issues.

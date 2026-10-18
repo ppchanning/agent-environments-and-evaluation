@@ -46,3 +46,7 @@
 - [Handling Web Service Interactions in Fuzzing with Search-Based Mock-Generation](https://doi.org/10.1145/3731558) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation](https://arxiv.org/abs/2608.09298) · [阅读笔记](../digests/agent-environments/2026/2026-10-16.md)
 - [Inferring data model from service interactions for response generation in service virtualization](https://doi.org/10.1016/j.infsof.2021.106803) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [Mining Service Behavior for Stateful Service Emulation](https://arxiv.org/abs/2510.18519) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Fara1.5 – A family of frontier computer use agent models](https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Semantic Representation for Agentic Self-Play in Automated Laboratories](https://www.gstatic.com/science-ai/verid_semantic_lab.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Evaluating LLMs as Agentic Workflow Executors in Real-World Customer Support Skills](https://arxiv.org/abs/2610.14346) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)

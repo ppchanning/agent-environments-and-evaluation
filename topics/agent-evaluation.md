@@ -71,3 +71,8 @@
 - [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers](https://arxiv.org/abs/2508.14704) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
 - [Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions](https://arxiv.org/abs/2610.14334) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
 - [Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?](https://arxiv.org/abs/1912.06321) · [阅读笔记](../digests/agent-environments/2026/2026-10-17.md)
+- [Mining Service Behavior for Stateful Service Emulation](https://arxiv.org/abs/2510.18519) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Fara1.5 – A family of frontier computer use agent models](https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents](https://arxiv.org/abs/2610.21463) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Semantic Representation for Agentic Self-Play in Automated Laboratories](https://www.gstatic.com/science-ai/verid_semantic_lab.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Evaluating LLMs as Agentic Workflow Executors in Real-World Customer Support Skills](https://arxiv.org/abs/2610.14346) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)

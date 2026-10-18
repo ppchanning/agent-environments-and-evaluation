@@ -1710,5 +1710,108 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "HTML affiliation corruption resolved with original PDF page1；Tuning result on same lab and model suite, not unseen-environment validation"
+  },
+  {
+    "title": "Mining Service Behavior for Stateful Service Emulation",
+    "authors": "Md Arafat Hossain; Jun Han; Muhammad Ashad Kabir; Steve Versteeg; Jean-Guy Schneider; Jiaojiao Jiang",
+    "team": "Swinburne / Charles Sturt / Monash / UNSW",
+    "arxiv": "2510.18519",
+    "url": "https://arxiv.org/abs/2510.18519",
+    "fulltext_url": "https://arxiv.org/html/2510.18519v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-18T07:05:04.711409+08:00",
+    "evidence": "十折按记录划分；LDAP完全相同87.98%对Whole-Cluster OSV33%；SOAP43.67%，不能正确演化余额。",
+    "read_first": "第2节、第4.2—4.3节、第6.4节银行结果",
+    "id": "arxiv:2510.18519",
+    "first_published": "2025-10-21",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "先读状态构造及银行实验，检查记录间依赖和未见交互。该2025年arXiv版本源于更早博士研究，不能以预印本日期宣称思想首次提出；它也不同于后续关系数据模型论文，本次分别去重保留。"
+  },
+  {
+    "title": "Fara1.5 – A family of frontier computer use agent models",
+    "authors": "Ahmed Awadallah et al.",
+    "team": "Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/",
+    "fulltext_url": "https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/",
+    "type": "official_technical_article",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-18T07:05:04.711409+08:00",
+    "evidence": "表5同Qwen3.5-9B基础模型四域迁移73.4%→83.4%；比较训练数据不同，不能单独归因副本保真。",
+    "read_first": "Creating Synthetic Environments及表5",
+    "id": "url:https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/",
+    "first_published": "2026-05-21",
+    "verified_version": "official article; May21; July release note not classified as material update",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "这里收录的是5月21日官方文章，七月发布说明没有被认定为本次实质版本更新。文章属于公司技术披露，未独立复现；可先读Creating Synthetic Environments与表5，追问副本状态、验收规则与迁移条件如何对应。"
+  },
+  {
+    "title": "Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents",
+    "authors": "Zilin Wang; Yinhong Liu; Chao Chen; Qun Liu; Zhijiang Guo",
+    "team": "LARK/HKUST(GZ), Yinwang, Cambridge, HKUST",
+    "arxiv": "2610.21463",
+    "url": "https://arxiv.org/abs/2610.21463",
+    "fulltext_url": "https://arxiv.org/html/2610.21463v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-18T07:05:04.711409+08:00",
+    "evidence": "τ²每题3轨迹，航空50题零售114题；真实MCP101题中Qwen组72.3%→59.4%，105s→120s，非普遍同质提速。",
+    "read_first": "第3.2节、算法1及表3",
+    "id": "arxiv:2610.21463",
+    "first_published": "2026-10-15",
+    "verified_version": "v1, 2026-10-15T08:06:32Z",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "这项工作提供执行验证方法，未提出已经证明保真的通用模拟器。阅读第3.2节、算法1及表3时，应确认检查失败后究竟撤销什么、环境是否支持回滚，以及成功率与时间是否来自相同任务和配置。"
+  },
+  {
+    "title": "Semantic Representation for Agentic Self-Play in Automated Laboratories",
+    "authors": "Yves Delley; John Coller et al.",
+    "team": "Google Research / Google Cloud / Google DeepMind",
+    "url": "https://www.gstatic.com/science-ai/verid_semantic_lab.pdf",
+    "fulltext_url": "https://www.gstatic.com/science-ai/verid_semantic_lab.pdf",
+    "type": "technical_paper",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-18T07:05:04.711409+08:00",
+    "evidence": "三个染料案例；案例1人工参与根因诊断，修正后逐步稀释1.92–1.99倍；读板失败后未重做已完成移液。",
+    "read_first": "第2.2—2.4节、案例1及图2",
+    "id": "url:https://www.gstatic.com/science-ai/verid_semantic_lab.pdf",
+    "first_published": "2026-10-16",
+    "verified_version": "original PDF dated 2026-10-16",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "案例数量有限，人工诊断不能从自主性描述中省略，局部稀释结果也不是总体任务成功率。先读第2.2–2.4节、案例1与图2，分别检查状态表示、模拟检查和实际设备反馈。本文为原始技术论文，未独立复现。"
+  },
+  {
+    "title": "Evaluating LLMs as Agentic Workflow Executors in Real-World Customer Support Skills",
+    "authors": "Md Tahmid Rahman Laskar; Gundeep Singh; Xue-Yong Fu et al.",
+    "team": "Dialpad",
+    "arxiv": "2610.14346",
+    "url": "https://arxiv.org/abs/2610.14346",
+    "fulltext_url": "https://arxiv.org/html/2610.14346v2",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-18T07:05:04.711409+08:00",
+    "evidence": "最终80技能，500场景，281工具，17模型5裁判；10对裁判κ均值.524，无独立人类参考不能视一致率为准确率。",
+    "read_first": "第3.1.4节、第4.2节、表1及表3",
+    "id": "arxiv:2610.14346",
+    "first_published": "2026-10-09",
+    "verified_version": "v2, 2026-10-14T16:00:21Z",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "该工作可为工具服务仿真的场景构造和评测提供参照，但并未据此证明生产保真。此次首次入库的是v2（10月14日），首发10月9日；没有对v1至v2进行实质差异认定。先读第3.1.4节、第4.2节与表1/3。"
   }
 ]
