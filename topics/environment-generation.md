@@ -50,3 +50,5 @@
 - [Fara1.5 – A family of frontier computer use agent models](https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
 - [Semantic Representation for Agentic Self-Play in Automated Laboratories](https://www.gstatic.com/science-ai/verid_semantic_lab.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
 - [Evaluating LLMs as Agentic Workflow Executors in Real-World Customer Support Skills](https://arxiv.org/abs/2610.14346) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Cowork-Gym: Synthesizing Interactive Work Environments at Scale](https://arxiv.org/abs/2610.17670) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
+- [AutoEnvScaling: Automating the Data Flywheel with Terminal Agents](https://arxiv.org/abs/2610.14163) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)

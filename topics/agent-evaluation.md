@@ -76,3 +76,8 @@
 - [Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents](https://arxiv.org/abs/2610.21463) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
 - [Semantic Representation for Agentic Self-Play in Automated Laboratories](https://www.gstatic.com/science-ai/verid_semantic_lab.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
 - [Evaluating LLMs as Agentic Workflow Executors in Real-World Customer Support Skills](https://arxiv.org/abs/2610.14346) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
+- [Systematic API Testing Through Model Checking and Executable Contracts](https://arxiv.org/abs/2604.08633) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
+- [Multi-Agent LLM-based Metamorphic Testing for REST APIs](https://arxiv.org/abs/2605.28321) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
+- [Cowork-Gym: Synthesizing Interactive Work Environments at Scale](https://arxiv.org/abs/2610.17670) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
+- [AutoEnvScaling: Automating the Data Flywheel with Terminal Agents](https://arxiv.org/abs/2610.14163) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
+- [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)

@@ -1813,5 +1813,109 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "该工作可为工具服务仿真的场景构造和评测提供参照，但并未据此证明生产保真。此次首次入库的是v2（10月14日），首发10月9日；没有对v1至v2进行实质差异认定。先读第3.1.4节、第4.2节与表1/3。"
+  },
+  {
+    "title": "Systematic API Testing Through Model Checking and Executable Contracts",
+    "authors": "Ana Ribeiro; Margarida Mamede; Carla Ferreira",
+    "team": "NOVA University Lisbon",
+    "arxiv": "2604.08633",
+    "url": "https://arxiv.org/abs/2604.08633",
+    "fulltext_url": "https://arxiv.org/html/2604.08633v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-19T07:08:36.899104+08:00",
+    "evidence": "三系统；Petstore完整状态但74%—84%转移覆盖；97为操作级错误次数；12值比赛模型467GB/16小时以上。",
+    "read_first": "第IV-C、IV-D节，表IV/V",
+    "id": "arxiv:2604.08633",
+    "first_published": "2026-04-09",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "有限状态模型需人工编写；完整状态覆盖不保证完整转移覆盖，状态爆炸限制可行规模。真实API测试为仿真行为验证提供方法，不是服务仿真器。"
+  },
+  {
+    "title": "Multi-Agent LLM-based Metamorphic Testing for REST APIs",
+    "authors": "Shehroz Khan; Abdullah Mughees; Gaadha Sudheerbabu; Tanwir Ahmad; Dragos Truscan",
+    "team": "Åbo Akademi University",
+    "arxiv": "2605.28321",
+    "url": "https://arxiv.org/abs/2605.28321",
+    "fulltext_url": "https://arxiv.org/html/2605.28321v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-19T07:08:36.899104+08:00",
+    "evidence": "两系统各10会话、1000请求/30分钟；117失败中92作者判真问题，204中116；非独立缺陷数或缺陷召回。",
+    "read_first": "图1，第III节与第IV-C/IV-D节",
+    "id": "arxiv:2605.28321",
+    "first_published": "2026-05-27",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "失败测试中的人工真问题比例不等于独立缺陷数或缺陷召回；变形关系和前置状态均须核实。真实REST服务执行，不是服务仿真。会议接收按作者稿归属。"
+  },
+  {
+    "title": "Cowork-Gym: Synthesizing Interactive Work Environments at Scale",
+    "authors": "Anni Zou; Cheng Chen; Jiaji Deng; Weikang Zhou; Xinji Mai; Yue Wu; Jianing Lin; Lipeng Xie; Lixiong Qin; Qingyue Zhao; Que Shen; Shuchang Tao; Xuchen Pan; Yaliang Li; Yunpeng Zhai; Yushuo Chen; Zhihai Wang; Zhuo Zhang; Zhaoyang Liu; Bolin Ding; Jingren Zhou",
+    "team": "Alibaba Token Foundry",
+    "arxiv": "2610.17670",
+    "url": "https://arxiv.org/abs/2610.17670",
+    "fulltext_url": "https://arxiv.org/html/2610.17670v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-19T07:08:36.899104+08:00",
+    "evidence": "64888环境；77729轨迹中过滤有效24732、SFT17312、RL2873环境；六benchmark平均分增8.7/6.4/4.1点，17/18模型任务组合改善。",
+    "read_first": "第3.2节、第4节，表1/2",
+    "id": "arxiv:2610.17670",
+    "first_published": "2026-10-13",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "训练增益不等于对既有真实服务的行为保真；环境与轨迹过滤损耗、不同benchmark评分和个别退步必须保留。"
+  },
+  {
+    "title": "AutoEnvScaling: Automating the Data Flywheel with Terminal Agents",
+    "authors": "Simon Yu; Baolin Peng; Bo Liu; Zhengyan Shi; Zhaoyang Wang; Hao Cheng; Qianhui Wu; Wenlin Yao; Natasha Jaques; Weiyan Shi; Jianfeng Gao",
+    "team": "Microsoft; Northeastern; Stanford; University of Washington; UNC Chapel Hill",
+    "arxiv": "2610.14163",
+    "url": "https://arxiv.org/abs/2610.14163",
+    "fulltext_url": "https://arxiv.org/html/2610.14163v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-19T07:08:36.899104+08:00",
+    "evidence": "八提出模型三方式；Sol有效环境41.1%到86.3%，成本0.90到0.59美元/有效环境；两模型成本反增；附录F同任务开关自检有效。",
+    "read_first": "第3.2节，表2，附录F",
+    "id": "arxiv:2610.14163",
+    "first_published": "2026-10-09",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "有效环境要求构建成功、参考解通过及空解失败；控制更新步数不等于匹配总计算。部分模型成本增加，自检仍可能误判。"
+  },
+  {
+    "title": "Demystifying evals for AI agents",
+    "authors": "Mikaela Grace; Jeremy Hadfield; Rodrigo Olivares; Jiri De Jonghe",
+    "team": "Anthropic",
+    "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+    "fulltext_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+    "type": "official_technical_article",
+    "verification": "original_official_article_fulltext",
+    "verified_at": "2026-10-19T07:08:36.899104+08:00",
+    "evidence": "官方工程经验总结；环境状态与交互记录、隔离运行和评分器校准，无统一分母和受控实验。",
+    "read_first": "The structure of an evaluation；From zero to one的任务歧义/隔离/评分",
+    "id": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+    "first_published": "2026-01-09",
+    "verified_version": "official article dated 2026-01-09",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "官方工程经验总结，非受控实验；任务完成、环境状态和服务行为保真是不同评价对象。"
   }
 ]
