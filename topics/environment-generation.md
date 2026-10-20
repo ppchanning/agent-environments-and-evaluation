@@ -52,3 +52,6 @@
 - [Evaluating LLMs as Agentic Workflow Executors in Real-World Customer Support Skills](https://arxiv.org/abs/2610.14346) · [阅读笔记](../digests/agent-environments/2026/2026-10-18.md)
 - [Cowork-Gym: Synthesizing Interactive Work Environments at Scale](https://arxiv.org/abs/2610.17670) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
 - [AutoEnvScaling: Automating the Data Flywheel with Terminal Agents](https://arxiv.org/abs/2610.14163) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
+- [EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL](https://arxiv.org/abs/2605.18703) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Generating Mock Skeletons for Lightweight Web-Service Testing with Description Logic Learning](https://link.springer.com/article/10.1007/s11761-026-00495-w) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)

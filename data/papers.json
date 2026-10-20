@@ -1917,5 +1917,109 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "官方工程经验总结，非受控实验；任务完成、环境状态和服务行为保真是不同评价对象。"
+  },
+  {
+    "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+    "arxiv": "2605.18703",
+    "authors": "Minrui Xu; Zilin Wang; Mengyi Deng; Zhiwei Li; Zhicheng Yang; Xiao Zhu; Yinhong Liu; Boyu Zhu; Baiyu Huang; Chao Chen; Heyuan Deng; Fei Mi; Lifeng Shang; Xingshan Zeng; Zhijiang Guo",
+    "team": "HKUST (Guangzhou); Huawei; Cambridge; UCL",
+    "url": "https://arxiv.org/abs/2605.18703",
+    "fulltext_url": "https://arxiv.org/html/2605.18703v1",
+    "type": "preprint",
+    "evidence": "85环境7领域；Qwen3-4B BFCL多轮准确率33.50%至48.50%，MCPAtlas通过率4.12%至9.97%；下游训练收益不等于环境忠实度。",
+    "read_first": "3.2—3.3节、图1、表1",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-20T07:10:28.972380+08:00",
+    "id": "arxiv:2605.18703",
+    "first_published": "2026-05-18",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "环境自检及下游训练收益不能替代独立参考服务行为保真；生成方案数据量不同，非同预算组件对照。"
+  },
+  {
+    "title": "Generating Mock Skeletons for Lightweight Web-Service Testing with Description Logic Learning",
+    "doi": "10.1007/s11761-026-00495-w",
+    "authors": "Thilini Bhagya; Jens Dietrich; Hans Guesgen",
+    "team": "Authors and affiliations verified on Springer original article",
+    "url": "https://link.springer.com/article/10.1007/s11761-026-00495-w",
+    "fulltext_url": "https://link.springer.com/article/10.1007/s11761-026-00495-w",
+    "type": "journal_article",
+    "evidence": "OCEL描述逻辑二分类，120秒/目标，两折验证；Google Tasks 503有2正1122负，准确率0.9893而精确率和召回率为0。",
+    "read_first": "5.2历史表示；第6节503结果",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-20T07:10:28.972380+08:00",
+    "id": "doi:10.1007/s11761-026-00495-w",
+    "first_published": "2026-05-22",
+    "verified_version": "published fulltext",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "响应字段二分类不等于共享状态执行；部分样本抽样、两折验证；稀有失败类别可能完全漏识别。"
+  },
+  {
+    "title": "Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments",
+    "arxiv": "2602.11964",
+    "authors": "Romain Froger; Pierre Andrews; Matteo Bettini; et al. (original author list linked)",
+    "team": "Meta Superintelligence Labs",
+    "url": "https://arxiv.org/abs/2602.11964",
+    "fulltext_url": "https://arxiv.org/html/2602.11964v1",
+    "type": "preprint_with_acceptance_note",
+    "evidence": "12类应用101工具；450人工标注轨迹中结构化验证器一致率0.98、仅LLM判断0.72；测任务评分而非服务重建。",
+    "read_first": "第4节和表1，再读第3节",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-20T07:10:28.972380+08:00",
+    "id": "arxiv:2602.11964",
+    "first_published": "2026-02-12",
+    "verified_version": "v1; original page states ICLR 2026 Oral",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "验证450条轨迹的任务完成判定，而非模拟器对真实服务的保真；自由文本仍使用模型评分。"
+  },
+  {
+    "title": "Automated REST API Black-box Test Generation in Practice: An Experience Report from Industry",
+    "doi": "10.1109/ICST69053.2026.00064",
+    "authors": "Davide Corradini; Seung Yeob Shin; Domenico Bianculli",
+    "team": "University of Luxembourg SnT / SVV; industry collaboration",
+    "url": "https://orbilu.uni.lu/handle/10993/68146",
+    "fulltext_url": "https://orbilu.uni.lu/bitstream/10993/68146/1/ICST-2026-REST-test-generation-in-practice.pdf",
+    "type": "conference_paper",
+    "evidence": "5 API共204操作；每工具每API10运行、每运行200×操作数请求；各API中位覆盖合计151/204，两工具相同；故障中位汇总17/18。",
+    "read_first": "V-A/B、表III；VI-B",
+    "verification": "original_metadata_and_key_fulltext_method_results",
+    "verified_at": "2026-10-20T07:10:28.972380+08:00",
+    "id": "doi:10.1109/icst69053.2026.00064",
+    "first_published": "2026-07",
+    "verified_version": "author postprint; ICST 2026 institutional record; institutional deposit 2026-04-03, first online date unknown",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "2026-04-03仅为机构库入库日；论文集为2026年7月，首次在线日未确立。真实API测试非服务仿真；操作覆盖不等于分支或状态覆盖。"
+  },
+  {
+    "title": "Four evaluation engineering lessons learned from building agent plugins",
+    "authors": "Casey West",
+    "team": "Google Cloud",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+    "fulltext_url": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+    "type": "official_technical_article",
+    "evidence": "初始11提示中3个误判的工程案例；技能加载与文档搜索同回合并发解释了指令不可见；非受控普遍结论。",
+    "read_first": "Lesson 2及Lesson 1的原始日志案例",
+    "verification": "original_official_fulltext",
+    "verified_at": "2026-10-20T07:10:28.972380+08:00",
+    "id": "https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/",
+    "first_published": "2026-10-16",
+    "verified_version": "official article dated 2026-10-16",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-20.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "官方工程案例非受控实验；初始11条提示中3个误判不构成普遍误判率；计划运行不能证明真实工具状态正确。"
   }
 ]

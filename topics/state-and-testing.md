@@ -78,3 +78,8 @@
 - [Cowork-Gym: Synthesizing Interactive Work Environments at Scale](https://arxiv.org/abs/2610.17670) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
 - [AutoEnvScaling: Automating the Data Flywheel with Terminal Agents](https://arxiv.org/abs/2610.14163) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
 - [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) · [阅读笔记](../digests/agent-environments/2026/2026-10-19.md)
+- [EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL](https://arxiv.org/abs/2605.18703) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Generating Mock Skeletons for Lightweight Web-Service Testing with Description Logic Learning](https://link.springer.com/article/10.1007/s11761-026-00495-w) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Automated REST API Black-box Test Generation in Practice: An Experience Report from Industry](https://orbilu.uni.lu/handle/10993/68146) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Four evaluation engineering lessons learned from building agent plugins](https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
