@@ -97,3 +97,8 @@
 | [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) | Romain Froger; Pierre Andrews; Matteo Bettini; et al. (original author list linked) | 2026-02-12 | preprint_with_acceptance_note |
 | [Automated REST API Black-box Test Generation in Practice: An Experience Report from Industry](https://orbilu.uni.lu/handle/10993/68146) | Davide Corradini; Seung Yeob Shin; Domenico Bianculli | 2026-07 | conference_paper |
 | [Four evaluation engineering lessons learned from building agent plugins](https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/) | Casey West | 2026-10-16 | official_technical_article |
+| [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://arxiv.org/abs/2610.26828) | Zhaoyang Wang et al. | 2026-10-19 | preprint |
+| [Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy](https://arxiv.org/abs/2610.26836) | Ke Zhang et al. | 2026-10-19 | preprint |
+| [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://arxiv.org/abs/2606.28430) | Yanuo Ma, Ben Kereopa-Yorke, Ben Schultz | 2026-06-26 | preprint |
+| [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) | Qwen Team | 2026-06-23 | preprint |
+| [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use](https://arxiv.org/abs/2509.24002) | Zijian Wu et al. | 2025-09-28 | preprint |

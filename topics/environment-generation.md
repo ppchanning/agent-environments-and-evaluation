@@ -55,3 +55,5 @@
 - [EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL](https://arxiv.org/abs/2605.18703) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
 - [Generating Mock Skeletons for Lightweight Web-Service Testing with Description Logic Learning](https://link.springer.com/article/10.1007/s11761-026-00495-w) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
 - [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://arxiv.org/abs/2610.26828) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
+- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)

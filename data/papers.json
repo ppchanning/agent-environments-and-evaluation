@@ -2021,5 +2021,110 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "官方工程案例非受控实验；初始11条提示中3个误判不构成普遍误判率；计划运行不能证明真实工具状态正确。"
+  },
+  {
+    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+    "authors": "Zhaoyang Wang et al.",
+    "team": "Microsoft Research, UNC-Chapel Hill et al.",
+    "arxiv": "2610.26828",
+    "url": "https://arxiv.org/abs/2610.26828",
+    "fulltext_url": "https://arxiv.org/html/2610.26828v1",
+    "first_published": "2026-10-19",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-21T07:09:53.036691+08:00",
+    "read_first": "任务合成五道质量门、表3",
+    "evidence": "36个人物、640个状态、341环境任务对；6轨迹和三层判定；8项OOD平均收益不等于服务保真。",
+    "id": "arxiv:2610.26828",
+    "limitations": "多评判一致仍可能共同漏掉约束；训练迁移成绩不是固定真实服务逐接口保真测量。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+    "authors": "Ke Zhang et al.",
+    "team": "UC Riverside, UC Irvine",
+    "arxiv": "2610.26836",
+    "url": "https://arxiv.org/abs/2610.26836",
+    "fulltext_url": "https://arxiv.org/html/2610.26836v1",
+    "first_published": "2026-10-19",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-21T07:09:53.036691+08:00",
+    "read_first": "图1、表1、第4节冻结模拟实验",
+    "evidence": "158题、11007模拟调用重放；GPT5.2冻结模拟3次配对损失9.4pp；主比较多重校正未显著。",
+    "id": "arxiv:2610.26836",
+    "limitations": "GPT-5.2主比较多重校正后未显著；冻结模拟实验的配对结果与该主比较不是同一统计检验。范围限PHREEQC任务和相应交付方式，不外推所有API。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested",
+    "authors": "Yanuo Ma, Ben Kereopa-Yorke, Ben Schultz",
+    "team": "Microsoft",
+    "arxiv": "2606.28430",
+    "url": "https://arxiv.org/abs/2606.28430",
+    "fulltext_url": "https://arxiv.org/html/2606.28430v1",
+    "first_published": "2026-06-26",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-21T07:09:53.036691+08:00",
+    "read_first": "第3节机械审计与无操作替换",
+    "evidence": "2模型×3条件×3重复、222测试；两运行均满分而停用缩放库后29/29与17/29，支持依赖审计。",
+    "id": "arxiv:2606.28430",
+    "limitations": "单一UI重实现任务的受控案例研究，不能估计全部编码任务的发生率。内部架构只有在交付契约要求时才应评分；本研究并非服务模拟器。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "authors": "Qwen Team",
+    "team": "Qwen / Alibaba",
+    "arxiv": "2606.24597",
+    "url": "https://arxiv.org/abs/2606.24597",
+    "fulltext_url": "https://arxiv.org/html/2606.24597v1",
+    "first_published": "2026-06-23",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-21T07:09:53.036691+08:00",
+    "read_first": "第2.2节输入格式、第4节评测协议",
+    "evidence": "7域真实参考观测评分；35B平均47.73到56.39，397B54.74到58.71，为LLM五维归一评分而非正确率。",
+    "id": "arxiv:2606.24597",
+    "limitations": "五维参考辅助模型评分不是接口正确率；轮级真实历史条件阻断此前模拟误差累积，不能替代自回归连续状态保持测试。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use",
+    "authors": "Zijian Wu et al.",
+    "team": "NUS TRAIL, EvalSys, LobeHub, SJTU, Fudan",
+    "arxiv": "2509.24002",
+    "url": "https://arxiv.org/abs/2509.24002",
+    "fulltext_url": "https://arxiv.org/html/2509.24002v1",
+    "first_published": "2025-09-28",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-21T07:09:53.036691+08:00",
+    "read_first": "第2节初始状态与验证器、第3.1节指标",
+    "evidence": "127任务、38初态、5服务、4独立运行；GPT5medium pass@1平均52.56%、pass^4 33.86%。",
+    "id": "arxiv:2509.24002",
+    "limitations": "真实服务上的智能体任务成绩混合规划、随机性和服务行为；并未比较参考服务与模拟服务，不能单凭该成绩归因模拟保真。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-21.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

@@ -86,3 +86,8 @@
 - [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
 - [Automated REST API Black-box Test Generation in Practice: An Experience Report from Industry](https://orbilu.uni.lu/handle/10993/68146) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
 - [Four evaluation engineering lessons learned from building agent plugins](https://cloud.google.com/blog/topics/developers-practitioners/four-eval-engineering-lessons/) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
+- [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://arxiv.org/abs/2610.26828) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
+- [Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy](https://arxiv.org/abs/2610.26836) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
+- [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://arxiv.org/abs/2606.28430) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
+- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
+- [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use](https://arxiv.org/abs/2509.24002) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)

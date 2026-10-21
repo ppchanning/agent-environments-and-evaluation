@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-21** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-21.md): executable worlds, language world models and evidence delivery. Real service tests support simulation validation; original publication dates retained. No revisions, returning resources or backfilled issues.
+
 - **2026-10-20** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-20.md): environment generation, transaction history and asynchronous validation. Real API tests and engineering cases inform simulation evaluation. No paper revisions, returning appearances or backfilled issues.
 
 - **2026-10-19** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-19.md): environment generation, executable contracts and evaluation. Real API tests support simulation validation; earlier publication dates retained.
