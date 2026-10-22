@@ -2126,5 +2126,109 @@
       "digests/agent-environments/2026/2026-10-21.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
+    "authors": "Yuyao Ge et al.",
+    "team": "CAS ICT et al.",
+    "arxiv": "2610.20344",
+    "url": "https://arxiv.org/abs/2610.20344",
+    "fulltext_url": "https://arxiv.org/html/2610.20344v1",
+    "type": "preprint",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:10:59.255180+08:00",
+    "evidence": "19模型各3构建；328测试，130带对照；最佳53.05%，分母不含对照。",
+    "read_first": "第2.4节、图2",
+    "id": "arxiv:2610.20344",
+    "first_published": "2026-10-14",
+    "verified_version": "v1",
+    "limitations": "完整规格合成不同于未知服务重建；合法对照不额外计入328项分母。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation",
+    "authors": "Radhika Gaonkar",
+    "team": "Prime Intellect",
+    "arxiv": "2610.11678",
+    "url": "https://arxiv.org/abs/2610.11678",
+    "fulltext_url": "https://arxiv.org/html/2610.11678v1",
+    "type": "preprint",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:10:59.255180+08:00",
+    "evidence": "25合成任务；88新公共任务每条件3次，7/8比较落入±0.10；重跑翻转15–36%。",
+    "read_first": "第3.1节、第5节",
+    "id": "arxiv:2610.11678",
+    "first_published": "2026-10-08",
+    "verified_version": "v1",
+    "limitations": "扩大实验并未支持普遍显著下降；等效界不等于完全相同；重跑存在较大逐任务波动。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents",
+    "authors": "Yutong Zhi, Jie Zhang, Xiuqi Lu, Jiayuan Xu, Jing Shao",
+    "team": "Tsinghua University; Shanghai AI Laboratory",
+    "arxiv": "2610.16333",
+    "url": "https://arxiv.org/abs/2610.16333",
+    "fulltext_url": "https://arxiv.org/html/2610.16333v1",
+    "type": "preprint",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:10:59.255180+08:00",
+    "evidence": "8模型×3框架×7场景=168组合，通常各10有效试验；最终状态错误率均值0.649，非自然故障率。",
+    "read_first": "第3.3节、附录E",
+    "id": "arxiv:2610.16333",
+    "first_published": "2026-10-12",
+    "verified_version": "v1",
+    "limitations": "受控注入条件概率并非自然故障率；忠实仿真以参考服务语义为准。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+    "authors": "Chengsong Huang et al.",
+    "team": "Google Cloud AI Research et al.",
+    "arxiv": "2608.19880",
+    "url": "https://arxiv.org/abs/2608.19880",
+    "fulltext_url": "https://arxiv.org/html/2608.19880v1",
+    "type": "preprint",
+    "verification": "上游已核原始身份、版本及正文相关方法与证据；本汇编未独立复现",
+    "verified_at": "2026-10-22T07:10:59.255180+08:00",
+    "evidence": "ALFWorld OOD61.4→70.4；SWE407问题平均步数55.01→49.61；两个基准不混合；生成另耗轨迹。",
+    "read_first": "第2.2节、第4.1节",
+    "id": "arxiv:2608.19880",
+    "first_published": "2026-08-20",
+    "verified_version": "v1",
+    "limitations": "主自动流程排除Chain；两个基准指标不可合并；环境生成额外消耗交互。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "How to test agent skills without hitting real APIs",
+    "authors": "Waldek Mastykarz",
+    "team": "Microsoft for Developers",
+    "url": "https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/",
+    "fulltext_url": "https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/",
+    "type": "official_technical_article",
+    "verification": "上游已核官方技术文章正文；本汇编未独立运行示例",
+    "verified_at": "2026-10-22T07:10:59.255180+08:00",
+    "evidence": "官方配置含getAll/getOne/merge/delete；无受控实验；750调用是成本假设算例。",
+    "read_first": "A lighter-weight approach",
+    "id": "url:https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis",
+    "first_published": "2026-07-17",
+    "verified_version": null,
+    "limitations": "官方技术文章而非受控实验；无真实后端差分验证；750次调用为假设算例。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

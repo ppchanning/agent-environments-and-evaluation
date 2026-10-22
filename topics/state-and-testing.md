@@ -88,3 +88,8 @@
 - [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://arxiv.org/abs/2606.28430) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
 - [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
 - [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use](https://arxiv.org/abs/2509.24002) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
+- [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](https://arxiv.org/abs/2610.20344) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
+- [TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation](https://arxiv.org/abs/2610.11678) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
+- [TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents](https://arxiv.org/abs/2610.16333) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
+- [EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
+- [How to test agent skills without hitting real APIs](https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)

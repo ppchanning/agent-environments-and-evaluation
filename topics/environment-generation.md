@@ -57,3 +57,6 @@
 - [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) · [阅读笔记](../digests/agent-environments/2026/2026-10-20.md)
 - [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://arxiv.org/abs/2610.26828) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
 - [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) · [阅读笔记](../digests/agent-environments/2026/2026-10-21.md)
+- [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](https://arxiv.org/abs/2610.20344) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
+- [EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
+- [How to test agent skills without hitting real APIs](https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)

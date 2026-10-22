@@ -102,3 +102,8 @@
 | [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://arxiv.org/abs/2606.28430) | Yanuo Ma, Ben Kereopa-Yorke, Ben Schultz | 2026-06-26 | preprint |
 | [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) | Qwen Team | 2026-06-23 | preprint |
 | [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use](https://arxiv.org/abs/2509.24002) | Zijian Wu et al. | 2025-09-28 | preprint |
+| [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](https://arxiv.org/abs/2610.20344) | Yuyao Ge et al. | 2026-10-14 | preprint |
+| [TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation](https://arxiv.org/abs/2610.11678) | Radhika Gaonkar | 2026-10-08 | preprint |
+| [TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents](https://arxiv.org/abs/2610.16333) | Yutong Zhi, Jie Zhang, Xiuqi Lu, Jiayuan Xu, Jing Shao | 2026-10-12 | preprint |
+| [EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880) | Chengsong Huang et al. | 2026-08-20 | preprint |
+| [How to test agent skills without hitting real APIs](https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/) | Waldek Mastykarz | 2026-07-17 | official_technical_article |
