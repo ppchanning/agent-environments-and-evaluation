@@ -26,13 +26,13 @@ Use the collection to choose environment designs, compare the conditions suited 
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-10-23** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-23.md): stateful simulation, task evolution and repeated-run reliability. Earlier publication dates are retained.
 - **2026-10-22** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-22.md): generated environments, stateful API substitutes and paired behavioral checks. Separate simulation fidelity from agent scores.
 - **2026-10-21** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-21.md): executable worlds, language world models and evidence delivery. Real service tests support simulation validation; original publication dates retained.
 - **2026-10-20** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-20.md): environment generation, transaction history and asynchronous validation. Real API tests and engineering cases inform simulation evaluation.
 - **2026-10-19** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-19.md): environment generation, executable contracts and evaluation. Real API tests support simulation validation; earlier publication dates retained.
 - **2026-10-18** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-18.md): service emulation, website replicas and persistent laboratory state. Execution rollback and judge agreement retain distinct limits.
 - **2026-10-17** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-17.md): stateful service models, trajectory tests and simulation-to-reality prediction. Earlier publications newly cataloged.
-- **2026-10-16** — Added [5 papers in 1 issue](digests/agent-environments/2026/2026-10-16.md): shared-state environments, tool emulation and simulator fidelity. Newly cataloged work includes earlier publications.
 <!-- updates-daily:end -->
 
 Last 7 days here; [full update history](CHANGELOG.md). Earlier entries follow material dates, backfilled on **2026-10-10**, when this repository launched.
@@ -75,7 +75,7 @@ Find this skill on [Agent Skill Hub](https://agentskillhub.dev/u/ppchanning/sk/a
 | Does a simulation preserve a real system's state and behavior? | [State and behavioral verification](topics/state-and-testing.md) | State transitions, hidden dynamics, behavioral consistency, and validation methods |
 | How can an agent's tools and services be simulated? | [Tool interfaces and service simulation](topics/tool-protocols.md) | Reading paths through MCP / API interfaces, tool feedback, and stateful service behavior |
 | How should simulation quality and agent execution be evaluated? | [Simulation validity and execution evaluation](topics/agent-evaluation.md) | Ways to compare simulation fidelity, trace checks, result verification, and transfer limitations |
-| Which simulation studies are worth following now? | [Latest reading notes](digests/agent-environments/2026/2026-10-22.md) · [Archives](digests/README.md) | Recommendations, method explanations, evidence limitations, and original sources |
+| Which simulation studies are worth following now? | [Latest reading notes](digests/agent-environments/2026/2026-10-23.md) · [Archives](digests/README.md) | Recommendations, method explanations, evidence limitations, and original sources |
 | How can I organize my own related-work table? | [Full bibliography](resources/papers.md) · [JSON data](data/README.md) | Deduplicated identifiers, sources, versions, and appearance records for filtering and further reading |
 
 For researchers building agent training and testing environments, developers of software and tool-service simulators, world-model and synthetic-environment researchers, and systems developers who need to verify simulation state and behavior. **The homepage is available in English and [Simplified Chinese](README.zh-CN.md). Most existing research notes and supporting archives are in Chinese; the three core guides and Agent index are fully bilingual, retaining original English titles and source links.**
@@ -133,9 +133,9 @@ Topic indexes support comparison across methods, dated archives support continue
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-As of **2026-10-22**: **23 reading issues · 103 deduplicated resources · 4 topical reading paths**.
+As of **2026-10-23**: **24 reading issues · 108 deduplicated resources · 4 topical reading paths**.
 
-The reading archive covers 2026-09-28 through 2026-10-22, with possible gaps within that date range. New and revised material is archived by date, with current entry points, topic indexes, and the deduplicated bibliography maintained together.
+The reading archive covers 2026-09-28 through 2026-10-23, with possible gaps within that date range. New and revised material is archived by date, with current entry points, topic indexes, and the deduplicated bibliography maintained together.
 <!-- collection-stats:end -->
 
 ## How to use this repository

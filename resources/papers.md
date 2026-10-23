@@ -107,3 +107,8 @@
 | [TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents](https://arxiv.org/abs/2610.16333) | Yutong Zhi, Jie Zhang, Xiuqi Lu, Jiayuan Xu, Jing Shao | 2026-10-12 | preprint |
 | [EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880) | Chengsong Huang et al. | 2026-08-20 | preprint |
 | [How to test agent skills without hitting real APIs](https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/) | Waldek Mastykarz | 2026-07-17 | official_technical_article |
+| [RITE: Evaluating End-to-End Resilience to Silent Tool Errors in E-Commerce Agentic Systems](https://arxiv.org/abs/2610.27777) | Wenshuo Zhang et al. | 2026-10-20 | preprint |
+| [Evolving Self-tuning Benchmarks for Long-Horizon Tool Use](https://arxiv.org/abs/2610.27307) | Hyunji Alex Nam, Michael Dennis, Natasha Jaques, Minsuk Chang | 2026-10-19 | preprint |
+| [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) | Harsh Trivedi et al. | 2024-07-26 | preprint |
+| [ToolTalk: Evaluating Tool Usage in a Conversational Setting](https://arxiv.org/abs/2311.10775) | Nicholas Farn, Richard Shin | 2023-11-15 | preprint |
+| [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) | Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan | 2024-06-17 | preprint |

@@ -93,3 +93,8 @@
 - [TRAP: Tool-result Replay Attack for Probing Misbinding in LLM Agents](https://arxiv.org/abs/2610.16333) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
 - [EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
 - [How to test agent skills without hitting real APIs](https://developer.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/) · [阅读笔记](../digests/agent-environments/2026/2026-10-22.md)
+- [RITE: Evaluating End-to-End Resilience to Silent Tool Errors in E-Commerce Agentic Systems](https://arxiv.org/abs/2610.27777) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
+- [Evolving Self-tuning Benchmarks for Long-Horizon Tool Use](https://arxiv.org/abs/2610.27307) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
+- [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
+- [ToolTalk: Evaluating Tool Usage in a Conversational Setting](https://arxiv.org/abs/2311.10775) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
+- [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
