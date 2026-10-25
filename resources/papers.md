@@ -112,3 +112,8 @@
 | [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) | Harsh Trivedi et al. | 2024-07-26 | preprint |
 | [ToolTalk: Evaluating Tool Usage in a Conversational Setting](https://arxiv.org/abs/2311.10775) | Nicholas Farn, Richard Shin | 2023-11-15 | preprint |
 | [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) | Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan | 2024-06-17 | preprint |
+| [Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](https://arxiv.org/abs/2610.30792) | Zezhou Wang, Hanzhang Zhou, Panrong Tong, Quyu Kong, Pengxiang Li, Steven Hoi, Zhuzhong Qian, Yue Wang | 2026-10-22 | preprint |
+| [Simulated Control Evals](https://arxiv.org/abs/2610.31593) | Jeffrey Olmo, David Zhang, Tyler Tracy | 2026-10-22 | preprint |
+| [What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation](https://arxiv.org/abs/2610.30491) | Idunnuoluwa A. Adeniji, Shilpika, Michael E. Papka | 2026-10-21 | preprint |
+| [From Prose to Properties: Testing Research Claims with ARATest for Agent-Native Science](https://arxiv.org/abs/2610.30495) | Yifeng He, Jiachen Liu, Hao Chen | 2026-10-21 | preprint |
+| [Can LLMs Improve Their Own Harness? A Controlled Study on ARC-AGI-3](https://arxiv.org/abs/2610.30499) | Jens Lehmann, Sahar Vahdati | 2026-10-21 | preprint |

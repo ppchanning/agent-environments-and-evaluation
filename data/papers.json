@@ -2345,5 +2345,120 @@
       "digests/agent-environments/2026/2026-10-23.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training",
+    "authors": "Zezhou Wang, Hanzhang Zhou, Panrong Tong, Quyu Kong, Pengxiang Li, Steven Hoi, Zhuzhong Qian, Yue Wang",
+    "team": "南京大学、Alibaba Token Hub／阿里巴巴、北京理工大学",
+    "doi": null,
+    "arxiv": "2610.30792",
+    "url": "https://arxiv.org/abs/2610.30792",
+    "fulltext_url": "https://arxiv.org/html/2610.30792v1",
+    "version_date": "2026-10-22",
+    "type": "preprint",
+    "verified_at": "2026-10-24T07:03:21.761729+08:00",
+    "evidence": "200条源工作流、10应用宏平均，六项全通过91.1% vs59.8%；并非未见工作流保真度。",
+    "read_first": "第3.2—3.3节、表1和附录D5／E1，区分源重放与策略留出集。",
+    "id": "arxiv:2610.30792",
+    "first_published": "2026-10-22",
+    "verified_version": "v1",
+    "limitations": "作者在 10 个应用、200 条源工作流上报告六项条件全通过的应用宏平均为 91.1%，基线为 59.8%。这测量源工作流重放，不证明未见工作流的环境保真。策略在未见应用上的表现也不能替代环境本身的迁移核验。对比匹配了轨迹、工具、运行条件及每应用 6 小时，但请求量记录而未封顶，不能称为等调用预算。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Simulated Control Evals",
+    "authors": "Jeffrey Olmo, David Zhang, Tyler Tracy",
+    "team": "Redwood Research",
+    "doi": null,
+    "arxiv": "2610.31593",
+    "url": "https://arxiv.org/abs/2610.31593",
+    "fulltext_url": "https://arxiv.org/html/2610.31593v1",
+    "version_date": "2026-10-22",
+    "type": "preprint",
+    "verified_at": "2026-10-24T07:03:21.761729+08:00",
+    "evidence": "1000主任务／隐蔽副任务对，5个监控器；5%诚实轨迹误报预算下安全指标预测RMSE3.6pp vs10.1pp。",
+    "read_first": "第2.1节和图8，看清代码与参考轨迹信息，以及预测误差的定义。",
+    "id": "arxiv:2610.31593",
+    "first_published": "2026-10-22",
+    "verified_version": "v1",
+    "limitations": "研究涉及 10 个 LinuxArena 环境、1,000 对主任务与隐藏任务，每对有两次模拟和两次真实攻击执行及诚实参考。五种监控器按诚实轨迹 5% 误报率设置阈值；安全指标是先抓到攻击、再发生未被发现的成功攻击的概率，不是任务成功率。聚合预测 RMSE 为 3.6 个百分点，BashArena 外推为 10.1 个百分点。更难辨识为模拟的输出不必然预测得更准，分布级吻合也不等于逐状态转移保真。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation",
+    "authors": "Idunnuoluwa A. Adeniji, Shilpika, Michael E. Papka",
+    "team": "伊利诺伊大学芝加哥分校、阿贡国家实验室",
+    "doi": null,
+    "arxiv": "2610.30491",
+    "url": "https://arxiv.org/abs/2610.30491",
+    "fulltext_url": "https://arxiv.org/html/2610.30491v1",
+    "version_date": "2026-10-21",
+    "type": "preprint",
+    "verified_at": "2026-10-24T07:03:21.761729+08:00",
+    "evidence": "6模型各30算术题；人工审90轨迹，复核标签适用81条中67条一致；检测规则经同批人工反馈修订。",
+    "read_first": "第3.3节与表6，对照14例复核标签分歧的四类模式。",
+    "id": "arxiv:2610.30491",
+    "first_published": "2026-10-21",
+    "verified_version": "v1",
+    "limitations": "实验覆盖 6 个模型、每模型 30 个问题，人工审计 90 条轨迹；在 81 个可比较的验证标签中，67 个与人工判断一致，其余标签各有自己的分母。14 个分歧推动检测器修改，修改后不能仍把同一批反馈样本当作未触碰留出集。步数和预算也影响可观察行为。本工作支持仿真评测审计，本身不提出模拟器。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "From Prose to Properties: Testing Research Claims with ARATest for Agent-Native Science",
+    "authors": "Yifeng He, Jiachen Liu, Hao Chen",
+    "team": "加州大学戴维斯分校、ARA Lab、香港大学",
+    "doi": null,
+    "arxiv": "2610.30495",
+    "url": "https://arxiv.org/abs/2610.30495",
+    "fulltext_url": "https://arxiv.org/html/2610.30495v1",
+    "version_date": "2026-10-21",
+    "type": "preprint",
+    "verified_at": "2026-10-24T07:03:21.761729+08:00",
+    "evidence": "33制品243主张，54忠实绑定，32成立／8违反／14不确定；553预置错误来自两篇论文，检测全中不能证明普遍覆盖。",
+    "read_first": "第3节与表6、表8，重点看声明覆盖率和三值判定。",
+    "id": "arxiv:2610.30495",
+    "first_published": "2026-10-21",
+    "verified_version": "v1",
+    "limitations": "33 份研究产物的 243 条主张中，只有 54 条得到忠实绑定，约为 22.2% 覆盖率；其中 32 条成立、8 条违反、14 条未知。两个论文中的 553 个注入式比较表格错误全部检出，模型基线检出 342 个、计算器基线 319 个；19 个有效对照未误报。该测试主要考察变换后的错误，不能推广为对新论文的全面正确率。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Can LLMs Improve Their Own Harness? A Controlled Study on ARC-AGI-3",
+    "authors": "Jens Lehmann, Sahar Vahdati",
+    "team": "德累斯顿工业大学、汉诺威大学／TIB；作者另有Amazon署名，明确工作在Amazon之外完成",
+    "doi": null,
+    "arxiv": "2610.30499",
+    "url": "https://arxiv.org/abs/2610.30499",
+    "fulltext_url": "https://arxiv.org/html/2610.30499v1",
+    "version_date": "2026-10-21",
+    "type": "preprint",
+    "verified_at": "2026-10-24T07:03:21.761729+08:00",
+    "evidence": "27条构建谱系、2次修订、5开发／20反馈留出游戏；最终留出RHAE均增2.80，95%区间[-1.44,7.35]。",
+    "read_first": "第4.2节、第5节与附录表7，看冻结版本和分开报告成本／性能。",
+    "id": "arxiv:2610.30499",
+    "first_published": "2026-10-21",
+    "verified_version": "v1",
+    "limitations": "开发集 RHAE 增加 8.42，留出集增加 2.80，后者 95% bootstrap 区间为 [-1.44, 7.35]；15 条谱系提升，12 条下降。9 条同时更好且更便宜，另 9 条更便宜但更差。RHAE 是按人类动作效率加权的通关层级分数，不是通过率。公开游戏可能已进入训练数据，有限重跑也不足以消除随机性；本工作作为修复评测方法的支撑阅读。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

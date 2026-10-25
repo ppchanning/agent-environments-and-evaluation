@@ -16,6 +16,7 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-25** — Added [5 research resources](digests/agent-environments/2026/2026-10-24.md); backfilled 1 issue dated 2026-10-24. Shared-state reconstruction, simulated control evaluations and independent verification. No revisions or returning resources.
 - **2026-10-23** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-23.md): stateful simulation, task evolution and repeated-run reliability. Earlier publication dates are retained. No resource revisions, returning appearances or backfilled issues.
 - **2026-10-22** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-22.md): generated environments, stateful API substitutes and paired behavioral checks. Separate simulation fidelity from agent scores. No resource revisions, returning appearances or backfilled issues.
 - **2026-10-21** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-21.md): executable worlds, language world models and evidence delivery. Real service tests support simulation validation; original publication dates retained. No revisions, returning resources or backfilled issues.

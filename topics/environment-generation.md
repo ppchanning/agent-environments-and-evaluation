@@ -64,3 +64,5 @@
 - [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
 - [ToolTalk: Evaluating Tool Usage in a Conversational Setting](https://arxiv.org/abs/2311.10775) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
+- [Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](https://arxiv.org/abs/2610.30792) · [阅读笔记](../digests/agent-environments/2026/2026-10-24.md)
+- [Simulated Control Evals](https://arxiv.org/abs/2610.31593) · [阅读笔记](../digests/agent-environments/2026/2026-10-24.md)
