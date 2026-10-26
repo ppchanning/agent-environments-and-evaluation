@@ -102,3 +102,8 @@
 - [Simulated Control Evals](https://arxiv.org/abs/2610.31593) · [阅读笔记](../digests/agent-environments/2026/2026-10-24.md)
 - [What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation](https://arxiv.org/abs/2610.30491) · [阅读笔记](../digests/agent-environments/2026/2026-10-24.md)
 - [From Prose to Properties: Testing Research Claims with ARATest for Agent-Native Science](https://arxiv.org/abs/2610.30495) · [阅读笔记](../digests/agent-environments/2026/2026-10-24.md)
+- [GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents](https://arxiv.org/abs/2609.22308) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [Daydreaming: Stealing Hidden Agent Skills through Black-Box Task Interaction](https://arxiv.org/abs/2608.26733) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](https://arxiv.org/abs/2610.16523) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [How to test agent experience changes without shipping them](https://developer.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)

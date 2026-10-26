@@ -66,3 +66,6 @@
 - [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) · [阅读笔记](../digests/agent-environments/2026/2026-10-23.md)
 - [Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](https://arxiv.org/abs/2610.30792) · [阅读笔记](../digests/agent-environments/2026/2026-10-24.md)
 - [Simulated Control Evals](https://arxiv.org/abs/2610.31593) · [阅读笔记](../digests/agent-environments/2026/2026-10-24.md)
+- [GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents](https://arxiv.org/abs/2609.22308) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](https://arxiv.org/abs/2610.16523) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)

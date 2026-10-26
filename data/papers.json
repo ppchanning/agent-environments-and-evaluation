@@ -2460,5 +2460,113 @@
       "digests/agent-environments/2026/2026-10-24.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents",
+    "authors": "Boyu Qiao, Zixin Tang, Xiaoshuai Hao, Wenbo Li",
+    "team": "中科院／国科大、中关村实验室、小米、阿里达摩院",
+    "arxiv": "2609.22308",
+    "url": "https://arxiv.org/abs/2609.22308",
+    "fulltext_url": "https://arxiv.org/html/2609.22308v1",
+    "version_date": "2026-09-15",
+    "type": "preprint",
+    "verified_at": "2026-10-26T07:05:06.332298+08:00",
+    "evidence": "125任务／25游戏／5难度；规则、代码和视觉分别评分，模型评判仍参与。",
+    "read_first": "3.3—3.4节和表1",
+    "id": "arxiv:2609.22308",
+    "first_published": "2026-09-15",
+    "verified_version": "v1",
+    "limitations": "25游戏×5难度，共125任务；规则、代码与视觉分别评分。实现核验仍包含模型阅读副本代码，规则与视觉也有模型评判。最强综合分71.6是三项分数的平均，不是完整正确的游戏比例。实际消耗不同，不能读成等探测次数比较，也没有对全部规则完成独立运行序列验证。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Daydreaming: Stealing Hidden Agent Skills through Black-Box Task Interaction",
+    "authors": "Yu-Lin Tsai, Yu-An Lu, Ci-Yang Tsai, Muxi Lyu, Raluca Ada Popa, Chia-Mu Yu",
+    "team": "UC Berkeley、阳明交通大学",
+    "arxiv": "2608.26733",
+    "url": "https://arxiv.org/abs/2608.26733",
+    "fulltext_url": "https://arxiv.org/html/2608.26733v1",
+    "version_date": "2026-08-27",
+    "type": "preprint",
+    "verified_at": "2026-10-26T07:05:06.332298+08:00",
+    "evidence": "正文7技能／5保留任务／3源目标模型；表4的86.8%是相对无技能的效用增益恢复；摘要4模型冲突保留。",
+    "read_first": "第5节、表4和表5",
+    "id": "arxiv:2608.26733",
+    "first_published": "2026-08-27",
+    "verified_version": "v1",
+    "limitations": "正文含7技能包、5保留任务、3源目标模型，保留输入和可执行验证器不参与探测或调试。表4分数为复制品0.806、无技能0.566、原技能0.843，86.8%是基线差距恢复比例，不是任务成功率。摘要称4模型与正文3模型有矛盾；每技能目标调用默认上限96，本地运行和推理另有成本。常量与分支恢复较弱，适合作为仿真探测与行为验收的参考，不能声称找回唯一实现。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems",
+    "authors": "Wonung Kim, Hyunmin Choi, Minsu Kim, Jaehong Cho, Yeongwook Kim, Jongse Park",
+    "team": "KAIST",
+    "arxiv": "2608.24650",
+    "url": "https://arxiv.org/abs/2608.24650",
+    "fulltext_url": "https://arxiv.org/html/2608.24650v2",
+    "version_date": "2026-08-26",
+    "type": "preprint",
+    "verified_at": "2026-10-26T07:05:06.332298+08:00",
+    "evidence": "同代理、harness与资料下三类服务系统扩展；平均吞吐误差2.51%对6.03%，不是API语义正确率。",
+    "read_first": "第V—VII节",
+    "id": "arxiv:2608.24650",
+    "first_published": "2026-08-25",
+    "verified_version": "v2",
+    "limitations": "KV缓存量化、推测解码、混合Mamba等扩展固定代理、harness和资料，与既有仿真器比较，作者报告相对真实vLLM的平均吞吐误差2.51%对6.03%。这是性能模型误差，不是API语义正确率。预制仿真结构和规格提供额外信息；修正所用轨迹上的拟合不代表独立负载泛化，不能扩展为任意服务的自动重建能力。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents",
+    "authors": "Min Cai, Dan Zhang, Gao Xing, Libin Ma, Zhaohui Xu, Xi Ye",
+    "team": "Alberta／Amii、NUS、快手等",
+    "arxiv": "2610.16523",
+    "url": "https://arxiv.org/abs/2610.16523",
+    "fulltext_url": "https://arxiv.org/html/2610.16523v1",
+    "version_date": "2026-10-12",
+    "type": "preprint",
+    "verified_at": "2026-10-26T07:05:06.332298+08:00",
+    "evidence": "三交互基准、两策略骨干；ColBench Qwen3-4B任务成功0.200至0.600，联合干预不单独归因环境。",
+    "read_first": "第4.3、5.1节和表4",
+    "id": "arxiv:2610.16523",
+    "first_published": "2026-10-12",
+    "verified_version": "v1",
+    "limitations": "实验含UserGym、ColBench和τ²-bench。ColBench的Qwen3-4B任务成功指标从PPO的0.200到EAU的0.600，报告3次重复评测波动。部分基线来自既有工作；消融同时改变符号用户与干预技能，不能单独归因环境修改。轮数曲线不是总计算匹配的效率比较；冻结评测与训练侧联合演化应分别理解。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "How to test agent experience changes without shipping them",
+    "authors": "Waldek Mastykarz, Garry Trinder",
+    "team": "Microsoft",
+    "url": "https://developer.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
+    "fulltext_url": "https://developer.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
+    "type": "official_technical_article",
+    "verified_at": "2026-10-26T07:05:06.332298+08:00",
+    "evidence": "Dev Proxy替换同一文档URL的HTML；局部警告改写后5次运行采用预期CLI，小样本非通用成功率。",
+    "read_first": "模拟文档响应实践段与警告案例",
+    "id": "url:https://developer.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
+    "first_published": "2026-07-21",
+    "verified_version": null,
+    "limitations": "SPFx升级案例尝试重排提示和重写推荐；把旧路径后果写成构建失败警告后，展示的5次运行均采用预期CLI。五次案例缺少跨模型、随机化和充分重复，不能读成通用成功率，也不能证明语义相同的所有改写都有相同效果。比较仿真时需明确观察约定：替换内容可能改变决策，不能默认无影响。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

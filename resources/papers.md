@@ -117,3 +117,8 @@
 | [What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation](https://arxiv.org/abs/2610.30491) | Idunnuoluwa A. Adeniji, Shilpika, Michael E. Papka | 2026-10-21 | preprint |
 | [From Prose to Properties: Testing Research Claims with ARATest for Agent-Native Science](https://arxiv.org/abs/2610.30495) | Yifeng He, Jiachen Liu, Hao Chen | 2026-10-21 | preprint |
 | [Can LLMs Improve Their Own Harness? A Controlled Study on ARC-AGI-3](https://arxiv.org/abs/2610.30499) | Jens Lehmann, Sahar Vahdati | 2026-10-21 | preprint |
+| [GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents](https://arxiv.org/abs/2609.22308) | Boyu Qiao, Zixin Tang, Xiaoshuai Hao, Wenbo Li | 2026-09-15 | preprint |
+| [Daydreaming: Stealing Hidden Agent Skills through Black-Box Task Interaction](https://arxiv.org/abs/2608.26733) | Yu-Lin Tsai, Yu-An Lu, Ci-Yang Tsai, Muxi Lyu, Raluca Ada Popa, Chia-Mu Yu | 2026-08-27 | preprint |
+| [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) | Wonung Kim, Hyunmin Choi, Minsu Kim, Jaehong Cho, Yeongwook Kim, Jongse Park | 2026-08-25 | preprint |
+| [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](https://arxiv.org/abs/2610.16523) | Min Cai, Dan Zhang, Gao Xing, Libin Ma, Zhaohui Xu, Xi Ye | 2026-10-12 | preprint |
+| [How to test agent experience changes without shipping them](https://developer.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/) | Waldek Mastykarz, Garry Trinder | 2026-07-21 | official_technical_article |
