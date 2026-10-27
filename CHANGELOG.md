@@ -16,6 +16,8 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## Publication updates
 
+- **2026-10-27** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-27.md). Tool-response replay, action preconditions and controlled evaluation; real execution remains distinct from simulation.
+
 - **2026-10-26** — Added [5 research resources in 1 issue](digests/agent-environments/2026/2026-10-26.md). Cleaned workflow and reading instructions in 3 historical notes. Black-box behavior recovery, serving-system simulation and frozen evaluation; original publication dates retained.
 
 - **2026-10-25** — Added [5 research resources](digests/agent-environments/2026/2026-10-24.md); backfilled 1 issue dated 2026-10-24. Shared-state reconstruction, simulated control evaluations and independent verification. No revisions or returning resources.

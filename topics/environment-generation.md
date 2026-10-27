@@ -69,3 +69,5 @@
 - [GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents](https://arxiv.org/abs/2609.22308) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
 - [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
 - [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](https://arxiv.org/abs/2610.16523) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs](https://arxiv.org/abs/2605.17558) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)
+- [TESS: LLM-guided Translation, Exploration, Simulation, and Search for Embodied Task Planning](https://arxiv.org/abs/2610.25930) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)

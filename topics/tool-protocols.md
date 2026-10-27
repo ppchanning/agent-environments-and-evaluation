@@ -87,3 +87,5 @@
 - [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
 - [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](https://arxiv.org/abs/2610.16523) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
 - [How to test agent experience changes without shipping them](https://developer.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
+- [Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs](https://arxiv.org/abs/2605.17558) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)
+- [StateMirror: Pre-Execution Detection of Hallucinated Tool Calls in Coding Agents](https://arxiv.org/abs/2610.32648) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)

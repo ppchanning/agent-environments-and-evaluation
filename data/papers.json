@@ -2568,5 +2568,115 @@
       "digests/agent-environments/2026/2026-10-26.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs",
+    "authors": "Yuxuan Lu, Ziyi Wang, Yingzhou Lu, Yisi Sang, Jiri Gesi, Xianfeng Tang, Yimeng Zhang, Zhenwei Dai, Hui Liu, Hanqing Lu, Chen Luo, Qi He, Benoit Dumoulin, Jing Huang, Dakuo Wang",
+    "team": "Northeastern等",
+    "arxiv": "2605.17558",
+    "url": "https://arxiv.org/abs/2605.17558",
+    "fulltext_url": "https://arxiv.org/html/2605.17558v1",
+    "type": "preprint",
+    "first_published": "2026-05-17",
+    "verified_version": "v1",
+    "version_date": "2026-05-17",
+    "evidence": "240服务993工具；训练精确命中42.2%；200测试任务pass@1为28.1%至41.5%，同协议Sonnet4.6为42.2%。",
+    "read_first": "第3.1.2、3.3.1节及表2",
+    "verified_at": "2026-10-27T07:02:37.460273+08:00",
+    "id": "arxiv:2605.17558",
+    "limitations": "覆盖240个服务、993个工具、5144个任务，服务筛选要求无会话或跨调用记忆。训练精确命中42.2%，其余57.8%需要模糊检索和模型处理，离线并不等于确定性回放。200个留出任务中Qwen3-4B的pass@1由28.1%升至41.5%，同协议Sonnet4.6为42.2%；结构及模型语义评分测的是代理任务表现，没有逐调用在线保真对照，也不验证跨调用状态。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "StateMirror: Pre-Execution Detection of Hallucinated Tool Calls in Coding Agents",
+    "authors": "Shiwen Shan, Yintong Huo, Zhiying Wu, Yuxin Su",
+    "team": "中山大学、SMU",
+    "arxiv": "2610.32648",
+    "url": "https://arxiv.org/abs/2610.32648",
+    "fulltext_url": "https://arxiv.org/html/2610.32648v1",
+    "type": "preprint",
+    "first_published": "2026-10-23",
+    "verified_version": "v1",
+    "version_date": "2026-10-23",
+    "evidence": "2508专家标注动作；precision .940 recall .722 F1 .817；失败轨迹主样本，非正常流量误报率。",
+    "read_first": "第4节、表3和表4",
+    "verified_at": "2026-10-27T07:02:37.460273+08:00",
+    "id": "arxiv:2610.32648",
+    "limitations": "失败轨迹中2508个专家标注动作含1401正例、1107负例，精确率0.940、召回率0.722、F1为0.817，仍漏390个；同条件最强模型裁判F1为0.604。检查中位1.50毫秒、p95约307毫秒。该失败轨迹样本不能估计正常流量误报率；静态解析不覆盖全部动态行为，警告可信不代表所有错误都被发现。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "TESS: LLM-guided Translation, Exploration, Simulation, and Search for Embodied Task Planning",
+    "authors": "Peiran Xu, Yixiang Yang, Jinghan Li, Fei Li, Cao Sheng, JiaZhong Yu, Yadong Mu",
+    "team": "北京大学、中国铁塔",
+    "arxiv": "2610.25930",
+    "url": "https://arxiv.org/abs/2610.25930",
+    "fulltext_url": "https://arxiv.org/html/2610.25930v1",
+    "type": "preprint",
+    "first_published": "2026-10-19",
+    "verified_version": "v1",
+    "version_date": "2026-10-19",
+    "evidence": "3000训练1000测试任务；搜索消融SR 64.4/78.5/80.0，平均展开180/112/55。",
+    "read_first": "第3.4—3.5节及表5",
+    "verified_at": "2026-10-27T07:02:37.460273+08:00",
+    "id": "arxiv:2610.25930",
+    "limitations": "3000训练任务与1000测试任务按场景、物体和任务类型设泛化条件。搜索消融成功率由广度优先64.4%到A*78.5%、再到动作过滤80.0%，平均展开数180、112、55。目标满足率支持规划组合，但不证明每个生成函数逐步行为保真。按预印本呈现，未独立核验文中会议接收说法。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+    "authors": "Kirill Brilliantov, Alejandro Hernández-Cano, Emmanuel Abbé",
+    "team": "EPFL／Apple",
+    "arxiv": "2609.40303",
+    "url": "https://arxiv.org/abs/2609.40303",
+    "fulltext_url": "https://arxiv.org/html/2609.40303v1",
+    "type": "preprint",
+    "first_published": "2026-09-30",
+    "verified_version": "v1",
+    "version_date": "2026-09-30",
+    "evidence": "30个MLE-bench及40个NatureBench任务，测试强骨干下复杂系统无显著优势；弱骨干与成本限制仍在。",
+    "read_first": "第3、4.3、5.1节",
+    "verified_at": "2026-10-27T07:02:37.460273+08:00",
+    "id": "arxiv:2609.40303",
+    "limitations": "主比较含30个MLE-bench及40个NatureBench任务。测试的强骨干组合中复杂系统未显著超过单会话基线；弱骨干结果不同，部分区间宽，外部系统调参可能不对称。事后最优提交不同于系统实际自选结果；同样运行时间也不等于相同推理费用。论文首发2026-09-30，Apple介绍页的10月不作为首发日。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Agents are systems, not models: Rethinking agentic evaluation",
+    "authors": "Luis Wiedmann, Leander Girrbach, Cordelia Schmid, Zeynep Akata",
+    "team": "TUM／MCML、Helmholtz Munich、Inria等",
+    "arxiv": "2610.01618",
+    "url": "https://arxiv.org/abs/2610.01618",
+    "fulltext_url": "https://arxiv.org/html/2610.01618v1",
+    "type": "preprint",
+    "first_published": "2026-10-01",
+    "verified_version": "v1",
+    "version_date": "2026-10-01",
+    "evidence": "四科学任务，432配置各5次主实验8640运行；有效尝试约54%方差来自同配置波动；Sonnet5预算效应超过资料。",
+    "read_first": "第3.1节、表2—3及第4.3节",
+    "verified_at": "2026-10-27T07:02:37.460273+08:00",
+    "id": "arxiv:2610.01618",
+    "limitations": "每任务432配置、各重复5次，主实验8640运行。有效尝试子集中约54%的分数方差来自同配置重复波动，不是54%的失败率。Qwen网格资料量影响最大，Sonnet5预算作用超过资料；提供评分工具比自查措辞更能改变验证行为，成本也上升。结论受四任务和已测骨干限制，不能推广为普遍配置排序。",
+    "verification": "上游已核原始版本页及相关方法、实验和局限；本汇编未独立复现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]
