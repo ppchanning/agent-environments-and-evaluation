@@ -2678,5 +2678,115 @@
       "digests/agent-environments/2026/2026-10-27.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "From Dead Code and Static Requirements to Working Engines: Software Revival with Coding Agents",
+    "authors": "Tianyu Liu, Dingyuan Dai, Yufan Du, Zhen Yang",
+    "team": "Tsinghua University / UCLA",
+    "arxiv": "2609.36161",
+    "url": "https://arxiv.org/abs/2609.36161",
+    "fulltext_url": "https://arxiv.org/html/2609.36161v1",
+    "type": "preprint",
+    "first_published": "2026-09-28",
+    "verified_version": "v1",
+    "version_date": "2026-09-28",
+    "evidence": "13项重建任务；最佳合规运行的任务门槛结果。28处评分资产缺陷含24错拒、2错收，非模型失败率。CFD自报诊断反例。",
+    "read_first": "第3节、第8节及图3",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-28T07:03:37.764598+08:00",
+    "id": "arxiv:2609.36161",
+    "limitations": "13项任务的最佳合规运行不能推断稳定通过概率；评分器缺陷数不是模型错误率，自报诊断不证明数值求解器成立。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "VeriEvolve: Evaluator-First Evolution for Tool-Using Agents",
+    "authors": "Yueshen Li, Kamer Ali Yuksel, Gokhan Tur, Dilek Hakkani-Tür, João Pedro Maia",
+    "team": "UIUC / aiXplain",
+    "arxiv": "2610.29005",
+    "url": "https://arxiv.org/abs/2610.29005",
+    "fulltext_url": "https://arxiv.org/html/2610.29005v1",
+    "type": "preprint",
+    "first_published": "2026-10-21",
+    "verified_version": "v1",
+    "version_date": "2026-10-21",
+    "evidence": "141构造状态；122留出代理状态中113一致，3错收6错拒。留出分布来自内部高分候选。",
+    "read_first": "第4.3节、图2与表2",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-28T07:03:37.764598+08:00",
+    "id": "arxiv:2610.29005",
+    "limitations": "外部验证标签仍参与评测器筛选与修订；122个留出状态偏向内部高分候选，不能推广到所有服务状态。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments",
+    "authors": "Monojit Banerjee, Zhujun Lan, Defu Cao",
+    "team": "Salesforce",
+    "arxiv": "2610.32004",
+    "url": "https://arxiv.org/abs/2610.32004",
+    "fulltext_url": "https://arxiv.org/html/2610.32004v1",
+    "type": "preprint",
+    "first_published": "2026-10-23",
+    "verified_version": "v1",
+    "version_date": "2026-10-23",
+    "evidence": "555任务9领域，16系统严格成功64.32%—83.60%；重复15.50美元结账使积分310而非155，非31美元余额。",
+    "read_first": "第2.3节及附录D",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-28T07:03:37.764598+08:00",
+    "id": "arxiv:2610.32004",
+    "limitations": "作者定义的业务合同不等于厂商固定版本行为；合成CRM结果不是生产服务可靠性。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "AgentEval: Evidence-Bounded Assessment of Stateful Agents",
+    "authors": "Ruiqi Gao",
+    "team": "Alibaba Cloud, Alibaba Group",
+    "arxiv": "2610.21177",
+    "url": "https://arxiv.org/abs/2610.21177",
+    "fulltext_url": "https://arxiv.org/html/2610.21177v1",
+    "type": "preprint",
+    "first_published": "2026-10-15",
+    "verified_version": "v1",
+    "version_date": "2026-10-15",
+    "evidence": "32次分配30完整，独立检查23PASS/2FAIL/5UNKNOWN；48证据视图编辑中36能骗过hash-only，非48次代理运行。",
+    "read_first": "第3—4节及第6.2—6.4节",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-28T07:03:37.764598+08:00",
+    "id": "arxiv:2610.21177",
+    "limitations": "30个完整运行不能代替32次分配；48份证据编辑不是48次代理运行，哈希一致不能保证上下文绑定正确。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Behavioral Regression Detection for Pull Requests via Structured Oracles",
+    "authors": "Yiwen Fu, Binhang Qi, Xiao Li, Runlin Liu, Hailong Sun, Xiang Gao",
+    "team": "Beihang University / NUS",
+    "arxiv": "2610.35223",
+    "url": "https://arxiv.org/abs/2610.35223",
+    "fulltext_url": "https://arxiv.org/html/2610.35223v1",
+    "type": "preprint",
+    "first_published": "2026-10-26",
+    "verified_version": "v1",
+    "version_date": "2026-10-26",
+    "evidence": "154真实PR平衡77/77；DeepSeek F1 .6125对Testora .3243；PatchGuru共同完成子集无一致优势。",
+    "read_first": "第II节、第III-B/D节及表I、III",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-10-28T07:03:37.764598+08:00",
+    "id": "arxiv:2610.35223",
+    "limitations": "源码和变更意图是额外信息；154个平衡样本上的F1不是逐提交准确率，与PatchGuru比较无稳定优势。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-10-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

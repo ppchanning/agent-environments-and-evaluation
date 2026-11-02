@@ -127,3 +127,8 @@
 | [TESS: LLM-guided Translation, Exploration, Simulation, and Search for Embodied Task Planning](https://arxiv.org/abs/2610.25930) | Peiran Xu, Yixiang Yang, Jinghan Li, Fei Li, Cao Sheng, JiaZhong Yu, Yadong Mu | 2026-10-19 | preprint |
 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](https://arxiv.org/abs/2609.40303) | Kirill Brilliantov, Alejandro Hernández-Cano, Emmanuel Abbé | 2026-09-30 | preprint |
 | [Agents are systems, not models: Rethinking agentic evaluation](https://arxiv.org/abs/2610.01618) | Luis Wiedmann, Leander Girrbach, Cordelia Schmid, Zeynep Akata | 2026-10-01 | preprint |
+| [From Dead Code and Static Requirements to Working Engines: Software Revival with Coding Agents](https://arxiv.org/abs/2609.36161) | Tianyu Liu, Dingyuan Dai, Yufan Du, Zhen Yang | 2026-09-28 | preprint |
+| [VeriEvolve: Evaluator-First Evolution for Tool-Using Agents](https://arxiv.org/abs/2610.29005) | Yueshen Li, Kamer Ali Yuksel, Gokhan Tur, Dilek Hakkani-Tür, João Pedro Maia | 2026-10-21 | preprint |
+| [CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments](https://arxiv.org/abs/2610.32004) | Monojit Banerjee, Zhujun Lan, Defu Cao | 2026-10-23 | preprint |
+| [AgentEval: Evidence-Bounded Assessment of Stateful Agents](https://arxiv.org/abs/2610.21177) | Ruiqi Gao | 2026-10-15 | preprint |
+| [Behavioral Regression Detection for Pull Requests via Structured Oracles](https://arxiv.org/abs/2610.35223) | Yiwen Fu, Binhang Qi, Xiao Li, Runlin Liu, Hailong Sun, Xiang Gao | 2026-10-26 | preprint |

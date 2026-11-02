@@ -89,3 +89,10 @@
 - [How to test agent experience changes without shipping them](https://developer.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/) · [阅读笔记](../digests/agent-environments/2026/2026-10-26.md)
 - [Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs](https://arxiv.org/abs/2605.17558) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)
 - [StateMirror: Pre-Execution Detection of Hallucinated Tool Calls in Coding Agents](https://arxiv.org/abs/2610.32648) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)
+
+## 2026-10-28：重建与验收证据
+
+[阅读本期说明](../digests/agent-environments/2026/2026-10-28.md)。规范符合性、行为保真与证据完整性分别判断；合成CRM与真实代码测试不混同。
+
+- [VeriEvolve: Evaluator-First Evolution for Tool-Using Agents](https://arxiv.org/abs/2610.29005)
+- [CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments](https://arxiv.org/abs/2610.32004)

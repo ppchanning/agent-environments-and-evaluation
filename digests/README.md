@@ -33,3 +33,5 @@
 | [2026-09-30](agent-environments/2026/2026-09-30.md) | 2 |
 | [2026-09-29](agent-environments/2026/2026-09-29.md) | 4 |
 | [2026-09-28](agent-environments/2026/2026-09-28.md) | 3 |
+
+- [2026-10-28：引擎重建、状态合同与独立验收（5项）](agent-environments/2026/2026-10-28.md)

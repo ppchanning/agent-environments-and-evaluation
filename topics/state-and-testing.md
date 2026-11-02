@@ -110,3 +110,13 @@
 - [Firefly: Illuminating Large-Scale Verified Tool-Call Data Generation from Real APIs](https://arxiv.org/abs/2605.17558) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)
 - [StateMirror: Pre-Execution Detection of Hallucinated Tool Calls in Coding Agents](https://arxiv.org/abs/2610.32648) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)
 - [TESS: LLM-guided Translation, Exploration, Simulation, and Search for Embodied Task Planning](https://arxiv.org/abs/2610.25930) · [阅读笔记](../digests/agent-environments/2026/2026-10-27.md)
+
+## 2026-10-28：重建与验收证据
+
+[阅读本期说明](../digests/agent-environments/2026/2026-10-28.md)。规范符合性、行为保真与证据完整性分别判断；合成CRM与真实代码测试不混同。
+
+- [From Dead Code and Static Requirements to Working Engines: Software Revival with Coding Agents](https://arxiv.org/abs/2609.36161)
+- [VeriEvolve: Evaluator-First Evolution for Tool-Using Agents](https://arxiv.org/abs/2610.29005)
+- [CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments](https://arxiv.org/abs/2610.32004)
+- [AgentEval: Evidence-Bounded Assessment of Stateful Agents](https://arxiv.org/abs/2610.21177)
+- [Behavioral Regression Detection for Pull Requests via Structured Oracles](https://arxiv.org/abs/2610.35223)
