@@ -6,6 +6,8 @@
 
 | 日期 | 阅读条目 |
 | --- | ---: |
+| [2026-11-03](agent-environments/2026/2026-11-03.md) | 5 |
+| [2026-10-28](agent-environments/2026/2026-10-28.md) | 5 |
 | [2026-10-27](agent-environments/2026/2026-10-27.md) | 5 |
 | [2026-10-26](agent-environments/2026/2026-10-26.md) | 5 |
 | [2026-10-24](agent-environments/2026/2026-10-24.md) | 5 |
@@ -24,14 +26,12 @@
 | [2026-10-11](agent-environments/2026/2026-10-11.md) | 5 |
 | [2026-10-10](agent-environments/2026/2026-10-10.md) | 5 |
 | [2026-10-09](agent-environments/2026/2026-10-09.md) | 5 |
-| [2026-10-08](agent-environments/2026/2026-10-08.md) | 6 |
-| [2026-10-07](agent-environments/2026/2026-10-07.md) | 6 |
-| [2026-10-06](agent-environments/2026/2026-10-06.md) | 6 |
-| [2026-10-05](agent-environments/2026/2026-10-05.md) | 6 |
+| [2026-10-08](agent-environments/2026/2026-10-08.md) | 5 |
+| [2026-10-07](agent-environments/2026/2026-10-07.md) | 5 |
+| [2026-10-06](agent-environments/2026/2026-10-06.md) | 5 |
+| [2026-10-05](agent-environments/2026/2026-10-05.md) | 5 |
 | [2026-10-04](agent-environments/2026/2026-10-04.md) | 3 |
 | [2026-10-01](agent-environments/2026/2026-10-01.md) | 3 |
-| [2026-09-30](agent-environments/2026/2026-09-30.md) | 2 |
-| [2026-09-29](agent-environments/2026/2026-09-29.md) | 4 |
+| [2026-09-30](agent-environments/2026/2026-09-30.md) | 1 |
+| [2026-09-29](agent-environments/2026/2026-09-29.md) | 3 |
 | [2026-09-28](agent-environments/2026/2026-09-28.md) | 3 |
-
-- [2026-10-28：引擎重建、状态合同与独立验收（5项）](agent-environments/2026/2026-10-28.md)

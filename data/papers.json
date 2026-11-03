@@ -2788,5 +2788,108 @@
       "digests/agent-environments/2026/2026-10-28.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance",
+    "authors": "Antonio Ken Iannillo; Joshua Segun Owotogbe; Roberto Natella; Francesco Avallone; Kristina Kudryavtseva; Indika Kumara",
+    "team": "软件可靠性研究团队",
+    "arxiv": "2610.32555",
+    "url": "https://arxiv.org/abs/2610.32555",
+    "fulltext_url": "https://arxiv.org/html/2610.32555v1",
+    "first_published": "2026-10-23",
+    "verified_version": "v1",
+    "version_date": "2026-10-23",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-11-03T07:07:01.340741+08:00",
+    "evidence": "25任务、2模型、3框架；配对比较；8.08至3.23为十分制裁判分，不是成功率。",
+    "read_first": "第4—6节",
+    "id": "arxiv:2610.32555",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox",
+    "authors": "Yuanyang Li; Xue Yang; Longyue Wang; Weihua Luo; Hongyang Chen",
+    "team": "浙江大学／浙江实验室／Alibaba",
+    "arxiv": "2605.10787",
+    "url": "https://arxiv.org/abs/2605.10787",
+    "fulltext_url": "https://arxiv.org/html/2605.10787v2",
+    "first_published": "2026-05-11",
+    "verified_version": "v2",
+    "version_date": "2026-05-20",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-11-03T07:07:01.340741+08:00",
+    "evidence": "47任务规则判分；严格成功要求完成且无误改，表2 Gemini3Flash55.31%、人类93.61%。",
+    "read_first": "第3.3节及表2",
+    "id": "arxiv:2605.10787",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+    "authors": "Michal Orzechowski; Rund Tawfiq; Tomasz Kosciolek",
+    "team": "AGH／Sano／Cyfronet",
+    "arxiv": "2610.37809",
+    "url": "https://arxiv.org/abs/2610.37809",
+    "fulltext_url": "https://arxiv.org/html/2610.37809v1",
+    "first_published": "2026-10-27",
+    "verified_version": "v1",
+    "version_date": "2026-10-27",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-11-03T07:07:01.340741+08:00",
+    "evidence": "UniProt真实回答专家规则捕获18.9%错误、误报16.8%正确；不同分母；人工错误更常空结果。",
+    "read_first": "第3.4—3.6节及表2、4",
+    "id": "arxiv:2610.37809",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+    "authors": "Somya Chatterjee; Harshita Sahijwani; Min Chen; Sushmitha Rajeswari Muppa; Dayquan Julienne; Irene Shaffer; Chandra Inguva; Jenny Chen; Minha Hwang; Sam Ade Jacobs",
+    "team": "Microsoft Research／Copilot",
+    "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "fulltext_url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "first_published": "2026-10-30",
+    "type": "official_technical_article",
+    "verification": "official_full_article",
+    "verified_at": "2026-11-03T07:07:01.340741+08:00",
+    "evidence": "三行业生成环境；39%为作者内部综合质量提升，未公开足够评分与消融，不是行为复现或agent成功率。",
+    "read_first": "Synthetic enterprise environments、Validating synthetic quality及结尾",
+    "verified_version": null,
+    "id": "url:https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Model-Free Assessment of Simulator Fidelity via Quantile Curves",
+    "authors": "Garud Iyengar; Yu-Shiou Willy Lin; Kaizheng Wang",
+    "team": "Columbia IEOR／Data Science",
+    "arxiv": "2512.05024",
+    "url": "https://arxiv.org/abs/2512.05024",
+    "fulltext_url": "https://arxiv.org/html/2512.05024v3",
+    "first_published": "2025-12-04",
+    "verified_version": "v3",
+    "version_date": "2026-04-15",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-11-03T07:07:01.340741+08:00",
+    "evidence": "235调查题、4LLM、每题200模拟样本；分位数校准依赖独立等假设，参考样本小则界保守。",
+    "read_first": "第3.1节、Remark1与图5",
+    "id": "arxiv:2512.05024",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-03.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

@@ -120,3 +120,5 @@
 - [CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments](https://arxiv.org/abs/2610.32004)
 - [AgentEval: Evidence-Bounded Assessment of Stateful Agents](https://arxiv.org/abs/2610.21177)
 - [Behavioral Regression Detection for Pull Requests via Structured Oracles](https://arxiv.org/abs/2610.35223)
+
+- [2026-11-03：状态、工具反馈与验证的证据边界](../digests/agent-environments/2026/2026-11-03.md)。

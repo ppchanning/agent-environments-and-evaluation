@@ -132,3 +132,9 @@
 | [CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments](https://arxiv.org/abs/2610.32004) | Monojit Banerjee, Zhujun Lan, Defu Cao | 2026-10-23 | preprint |
 | [AgentEval: Evidence-Bounded Assessment of Stateful Agents](https://arxiv.org/abs/2610.21177) | Ruiqi Gao | 2026-10-15 | preprint |
 | [Behavioral Regression Detection for Pull Requests via Structured Oracles](https://arxiv.org/abs/2610.35223) | Yiwen Fu, Binhang Qi, Xiao Li, Runlin Liu, Hailong Sun, Xiang Gao | 2026-10-26 | preprint |
+
+| [Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance](https://arxiv.org/abs/2610.32555) | Antonio Ken Iannillo; Joshua Segun Owotogbe; Roberto Natella; Francesco Avallone; Kristina Kudryavtseva; Indika Kumara | 2026-10-23 | preprint |
+| [ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787) | Yuanyang Li; Xue Yang; Longyue Wang; Weihua Luo; Hongyang Chen | 2026-05-11 | preprint |
+| [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](https://arxiv.org/abs/2610.37809) | Michal Orzechowski; Rund Tawfiq; Tomasz Kosciolek | 2026-10-27 | preprint |
+| [From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence](https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/) | Somya Chatterjee; Harshita Sahijwani; Min Chen; Sushmitha Rajeswari Muppa; Dayquan Julienne; Irene Shaffer; Chandra Inguva; Jenny Chen; Minha Hwang; Sam Ade Jacobs | 2026-10-30 | official_technical_article |
+| [Model-Free Assessment of Simulator Fidelity via Quantile Curves](https://arxiv.org/abs/2512.05024) | Garud Iyengar; Yu-Shiou Willy Lin; Kaizheng Wang | 2025-12-04 | preprint |

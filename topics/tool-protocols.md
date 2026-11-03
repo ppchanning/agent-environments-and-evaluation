@@ -96,3 +96,5 @@
 
 - [VeriEvolve: Evaluator-First Evolution for Tool-Using Agents](https://arxiv.org/abs/2610.29005)
 - [CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments](https://arxiv.org/abs/2610.32004)
+
+- [2026-11-03：状态、工具反馈与验证的证据边界](../digests/agent-environments/2026/2026-11-03.md)。
