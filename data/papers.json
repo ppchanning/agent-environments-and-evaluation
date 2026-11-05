@@ -2891,5 +2891,105 @@
       "digests/agent-environments/2026/2026-11-03.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
+    "authors": "Guanting Dong; Zhichao Sun; Xinyu Yang et al.",
+    "team": "中国人民大学／复旦大学／上海交通大学",
+    "arxiv": "2611.05036",
+    "url": "https://arxiv.org/abs/2611.05036",
+    "fulltext_url": "https://arxiv.org/html/2611.05036v1",
+    "first_published": "2026-11-03",
+    "verified_version": "v1",
+    "version_date": "2026-11-03",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-11-05T07:10:13.231022+08:00",
+    "evidence": "表1：七benchmark平均23.0→41.0为训练效用，不是复现一致率；§3明确非单数据库忠实度目标。",
+    "read_first": "§4.1.3、算法1及§3末段",
+    "id": "arxiv:2611.05036",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills",
+    "authors": "Peichun Hua; Haoxuan Xu; Mengyuan Li",
+    "team": "University of Southern California",
+    "arxiv": "2608.04192",
+    "url": "https://arxiv.org/abs/2608.04192",
+    "fulltext_url": "https://arxiv.org/html/2608.04192v2",
+    "first_published": "2026-08-04",
+    "verified_version": "v2",
+    "version_date": "2026-09-19",
+    "type": "preprint",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-11-05T07:10:13.231022+08:00",
+    "evidence": "30技能；52+30查询，SkillsBench24+30；r2r错误标签0%而oracle标签100%，是特定瓶颈诊断。",
+    "read_first": "§4.3、§5.1及§3例子",
+    "id": "arxiv:2608.04192",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Willful Disobedience: Automatically Detecting Failures in Agentic Traces",
+    "authors": "Reshabh K Sharma; Shraddha Barke; Benjamin Zorn",
+    "team": "Microsoft Research／University of Washington",
+    "doi": "10.1145/3786335.3813153",
+    "arxiv": "2603.23806",
+    "url": "https://arxiv.org/abs/2603.23806",
+    "fulltext_url": "https://arxiv.org/html/2603.23806v2",
+    "first_published": "2026-03-25",
+    "verified_version": "v2",
+    "version_date": "2026-05-08",
+    "type": "conference_paper",
+    "verification": "original_abstract_and_html_key_sections",
+    "verified_at": "2026-11-05T07:10:13.231022+08:00",
+    "evidence": "424条筛选后轨迹；GPT5mini提取评分；output_spec的失败ROC-AUC0.680不是汇总准确率。",
+    "read_first": "§4.2及§2",
+    "id": "doi:10.1145/3786335.3813153",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Introducing AgentEnv: An Open-Source Framework for Building RL Environments",
+    "authors": "Edgar Arakelyan; Tejas Polakam; Yzabelle Go",
+    "team": "Scale Labs",
+    "url": "https://labs.scale.com/blog/introducing-agentenv",
+    "fulltext_url": "https://labs.scale.com/blog/introducing-agentenv",
+    "first_published": "2026-10-05",
+    "type": "official_technical_article",
+    "verification": "official_full_article",
+    "verified_at": "2026-11-05T07:10:13.231022+08:00",
+    "evidence": "官方架构与任务示例；未报告受控性能或真实服务配对误差；仓库与视频未审计。",
+    "read_first": "Building Blocks and Interoperability及任务构建",
+    "id": "url:https://labs.scale.com/blog/introducing-agentenv",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Evaluating AI agents: moving past the vibe check",
+    "authors": "Hugo Selbie; Dani Zamora; Jesse Carah; John DeMartino",
+    "team": "Google",
+    "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "fulltext_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "first_published": "2026-10-15",
+    "type": "official_technical_article",
+    "verification": "official_full_article",
+    "verified_at": "2026-11-05T07:10:13.231022+08:00",
+    "evidence": "工程方法说明：用户旅程逐条件验收、冻结测试、布尔检查和成本记录；无受控增益实验。",
+    "read_first": "Four common traps前3项及用户旅程例子",
+    "id": "url:https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-05.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

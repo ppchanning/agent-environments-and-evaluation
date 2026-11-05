@@ -80,3 +80,5 @@
 - [CRM-Agent-Bench: Benchmarking Tool-Using Agents in Stateful Enterprise Environments](https://arxiv.org/abs/2610.32004)
 
 - [2026-11-03：状态、工具反馈与验证的证据边界](../digests/agent-environments/2026/2026-11-03.md)。
+- [ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://arxiv.org/abs/2611.05036) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
+- [Introducing AgentEnv: An Open-Source Framework for Building RL Environments](https://labs.scale.com/blog/introducing-agentenv) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)

@@ -122,3 +122,6 @@
 - [Behavioral Regression Detection for Pull Requests via Structured Oracles](https://arxiv.org/abs/2610.35223)
 
 - [2026-11-03：状态、工具反馈与验证的证据边界](../digests/agent-environments/2026/2026-11-03.md)。
+- [Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills](https://arxiv.org/abs/2608.04192) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
+- [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://arxiv.org/abs/2603.23806) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
+- [Evaluating AI agents: moving past the vibe check](https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)

@@ -26,6 +26,7 @@
 ## Updates
 
 <!-- updates-daily:start -->
+- **2026-11-05** — 新增[5项研究资料](digests/agent-environments/2026/2026-11-05.md)；既有资料修订0项、补录0期。关注环境合成、行为重建与轨迹验证。
 - **2026-11-03** — [新增5项研究资料](digests/agent-environments/2026/2026-11-03.md)，修订0项、补录0期。关注状态验证与证据边界；修正历史更新链接。
 - **2026-11-02** — [新增5项资料，补录10月28日1期](digests/agent-environments/2026/2026-10-28.md)，修订0项。引擎重建、状态合同与独立验收，区分仿真与真实代码测试。
 <!-- updates-daily:end -->
@@ -70,7 +71,7 @@ npx skills add ppchanning/agent-environments-and-evaluation --skill agent-simula
 | 仿真是否保持了真实系统的状态和行为？ | [状态与行为验证](topics/state-and-testing.md) | 状态转移、隐藏动态、行为一致性与验证方法 |
 | 如何模拟 Agent 使用的工具和服务？ | [工具接口与服务仿真](topics/tool-protocols.md) | MCP / API 接口、工具反馈与有状态服务行为的阅读路径 |
 | 如何评价仿真质量及其中的 Agent 执行？ | [仿真可信度与执行评测](topics/agent-evaluation.md) | 仿真保真度、轨迹检查、结果验证和迁移限制的比较思路 |
-| 最近有哪些值得关注的仿真研究？ | [最新晨读](digests/agent-environments/2026/2026-11-03.md) · [历史归档](digests/README.md) | 每期推荐、方法解读、证据限制和原始来源 |
+| 最近有哪些值得关注的仿真研究？ | [最新晨读](digests/agent-environments/2026/2026-11-05.md) · [历史归档](digests/README.md) | 每期推荐、方法解读、证据限制和原始来源 |
 | 如何整理自己的相关工作表？ | [完整书目](resources/papers.md) · [JSON 数据](data/README.md) | 去重标识、来源、版本与出现记录，便于筛选和继续阅读 |
 
 适合构建 Agent 训练与测试环境的研究者、软件及工具服务模拟器开发者、世界模型与合成环境研究者，以及需要验证仿真状态和行为的系统开发者。首页提供[英文](README.md)与简体中文两个版本；阅读笔记和配套指南目前主要使用中文，保留英文题名与原始出处。
@@ -128,9 +129,9 @@ MCP / API 协议定义 Agent 与环境交互的接口，模拟器还需要实现
 ## Collection at a glance
 
 <!-- collection-stats:start -->
-截至 **2026-11-03**：**29 期晨读 · 133 项去重资料 · 4 条专题阅读路径**。
+截至 **2026-11-05**：**30 期晨读 · 138 项去重资料 · 4 条专题阅读路径**。
 
-晨读归档覆盖 2026-09-28 至 2026-11-03，日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引和去重书目一起维护。
+晨读归档覆盖 2026-09-28 至 2026-11-05，日期范围内可能有缺期。新增与修订材料按日期归档，最新入口、主题索引和去重书目一起维护。
 <!-- collection-stats:end -->
 
 ## How to use this repository
