@@ -100,3 +100,6 @@
 - [2026-11-03：状态、工具反馈与验证的证据边界](../digests/agent-environments/2026/2026-11-03.md)。
 - [ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://arxiv.org/abs/2611.05036) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
 - [Introducing AgentEnv: An Open-Source Framework for Building RL Environments](https://labs.scale.com/blog/introducing-agentenv) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
+- [SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use](https://arxiv.org/abs/2611.03982) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
+- [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://arxiv.org/abs/2608.11878) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
+- [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)

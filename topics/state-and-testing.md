@@ -125,3 +125,6 @@
 - [Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills](https://arxiv.org/abs/2608.04192) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
 - [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://arxiv.org/abs/2603.23806) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
 - [Evaluating AI agents: moving past the vibe check](https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
+- [Formally verifying agent-written full-stack web apps with PDD Kit](https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
+- [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://arxiv.org/abs/2608.11878) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
+- [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)

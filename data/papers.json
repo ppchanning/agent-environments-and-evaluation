@@ -2991,5 +2991,73 @@
       "digests/agent-environments/2026/2026-11-05.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use",
+    "authors": "Amazon、Georgia Tech；Rongzhe Wei、Ge Shi等",
+    "arxiv": "2611.03982",
+    "url": "https://arxiv.org/abs/2611.03982",
+    "verification": "原始元数据及方法/关键证据正文已核",
+    "id": "arxiv:2611.03982",
+    "first_published": "2026-11-02",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+    "authors": "Microsoft Research；Alex Lavaee、Matthai Philipose",
+    "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "verification": "原始元数据及方法/关键证据正文已核",
+    "id": "url:https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "first_published": "2026-11-05",
+    "type": "official_technical_article",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents",
+    "authors": "北京大学、腾讯微信AI等；Yutao Mou等",
+    "arxiv": "2608.11878",
+    "url": "https://arxiv.org/abs/2608.11878",
+    "verification": "原始元数据及方法/关键证据正文已核",
+    "id": "arxiv:2608.11878",
+    "first_published": "2026-08-12 v1",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Does eval in the workspace path change what your agent does?",
+    "authors": "Microsoft for Developers；Waldek Mastykarz",
+    "url": "https://developer.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/",
+    "verification": "原始元数据及方法/关键证据正文已核",
+    "id": "url:https://developer.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/",
+    "first_published": "2026-10-30",
+    "type": "official_technical_article",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+    "authors": "UW、Stanford等；Bo Liu、Simon Yu等",
+    "arxiv": "2608.19197",
+    "url": "https://arxiv.org/abs/2608.19197",
+    "verification": "原始元数据及方法/关键证据正文已核",
+    "id": "arxiv:2608.19197",
+    "first_published": "首发2026-08-19；核验v3 08-31",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-06.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

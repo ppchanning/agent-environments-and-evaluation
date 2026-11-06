@@ -143,3 +143,8 @@
 | [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://arxiv.org/abs/2603.23806) | Reshabh K Sharma; Shraddha Barke; Benjamin Zorn | 2026-03-25 | conference_paper |
 | [Introducing AgentEnv: An Open-Source Framework for Building RL Environments](https://labs.scale.com/blog/introducing-agentenv) | Edgar Arakelyan; Tejas Polakam; Yzabelle Go | 2026-10-05 | official_technical_article |
 | [Evaluating AI agents: moving past the vibe check](https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/) | Hugo Selbie; Dani Zamora; Jesse Carah; John DeMartino | 2026-10-15 | official_technical_article |
+| [SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use](https://arxiv.org/abs/2611.03982) | Amazon、Georgia Tech；Rongzhe Wei、Ge Shi等 | 2026-11-02 | preprint |
+| [Formally verifying agent-written full-stack web apps with PDD Kit](https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/) | Microsoft Research；Alex Lavaee、Matthai Philipose | 2026-11-05 | official_technical_article |
+| [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://arxiv.org/abs/2608.11878) | 北京大学、腾讯微信AI等；Yutao Mou等 | 2026-08-12 v1 | preprint |
+| [Does eval in the workspace path change what your agent does?](https://developer.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/) | Microsoft for Developers；Waldek Mastykarz | 2026-10-30 | official_technical_article |
+| [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197) | UW、Stanford等；Bo Liu、Simon Yu等 | 首发2026-08-19；核验v3 08-31 | preprint |
