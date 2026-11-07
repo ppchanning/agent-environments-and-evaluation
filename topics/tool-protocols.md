@@ -103,3 +103,7 @@
 - [SLATE: A Large-Scale Benchmark for Long-Horizon API Selection in E-commerce Tool Use](https://arxiv.org/abs/2611.03982) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
 - [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://arxiv.org/abs/2608.11878) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
 - [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
+
+- [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+
+- [Introducing Scope: Open-source evaluation for AI coding agents](https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)

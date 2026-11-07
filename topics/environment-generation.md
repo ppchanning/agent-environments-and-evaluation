@@ -84,3 +84,9 @@
 - [Introducing AgentEnv: An Open-Source Framework for Building RL Environments](https://labs.scale.com/blog/introducing-agentenv) · [阅读笔记](../digests/agent-environments/2026/2026-11-05.md)
 - [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://arxiv.org/abs/2608.11878) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
 - [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
+
+- [EnvSimBench: A Benchmark for Evaluating and Improving LLM-Based Environment Simulation](https://arxiv.org/abs/2605.07247) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+
+- [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+
+- [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM’s Compliance with Banking Conduct Rules, Unevenly Across Models](https://arxiv.org/abs/2611.06116) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)

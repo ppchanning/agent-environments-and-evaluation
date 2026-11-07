@@ -134,3 +134,13 @@
 - [Formally verifying agent-written full-stack web apps with PDD Kit](https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
 - [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://arxiv.org/abs/2608.11878) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
 - [Does eval in the workspace path change what your agent does?](https://developer.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/) · [阅读笔记](../digests/agent-environments/2026/2026-11-06.md)
+
+- [EnvSimBench: A Benchmark for Evaluating and Improving LLM-Based Environment Simulation](https://arxiv.org/abs/2605.07247) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+
+- [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+
+- [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+
+- [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM’s Compliance with Banking Conduct Rules, Unevenly Across Models](https://arxiv.org/abs/2611.06116) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+
+- [Introducing Scope: Open-source evaluation for AI coding agents](https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)

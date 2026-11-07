@@ -148,3 +148,8 @@
 | [ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents](https://arxiv.org/abs/2608.11878) | 北京大学、腾讯微信AI等；Yutao Mou等 | 2026-08-12 v1 | preprint |
 | [Does eval in the workspace path change what your agent does?](https://developer.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/) | Microsoft for Developers；Waldek Mastykarz | 2026-10-30 | official_technical_article |
 | [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197) | UW、Stanford等；Bo Liu、Simon Yu等 | 首发2026-08-19；核验v3 08-31 | preprint |
+| [EnvSimBench: A Benchmark for Evaluating and Improving LLM-Based Environment Simulation](https://arxiv.org/abs/2605.07247) | 未知 | 2026-05-08 | preprint |
+| [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689) | 未知 | 2026-11-05 | preprint |
+| [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048) | 未知 | 2026-08-30 | preprint |
+| [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM’s Compliance with Banking Conduct Rules, Unevenly Across Models](https://arxiv.org/abs/2611.06116) | 未知 | 2026-11-04 | preprint |
+| [Introducing Scope: Open-source evaluation for AI coding agents](https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/) | 未知 | 2026-10-19 | official_technical_report |

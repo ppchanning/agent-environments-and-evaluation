@@ -3059,5 +3059,74 @@
       "digests/agent-environments/2026/2026-11-06.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2605.07247",
+    "title": "EnvSimBench: A Benchmark for Evaluating and Improving LLM-Based Environment Simulation",
+    "url": "https://arxiv.org/abs/2605.07247",
+    "first_published": "2026-05-08",
+    "type": "preprint",
+    "verification": "原始摘要/正文方法和关键结果已核；未运行实现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "arxiv": "2605.07247",
+    "read_first": "§4.1—4.2及表3—4，看清完整状态和实现代码这一信息条件，再比较两类匹配指标。"
+  },
+  {
+    "id": "arxiv:2611.07689",
+    "title": "MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents",
+    "url": "https://arxiv.org/abs/2611.07689",
+    "first_published": "2026-11-05",
+    "type": "preprint",
+    "verification": "原始摘要/正文方法和关键结果已核；未运行实现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "arxiv": "2611.07689",
+    "read_first": "§3—4.4和附录B.2，确认不可达目标如何定义、探测窗口如何影响评分。"
+  },
+  {
+    "id": "arxiv:2609.00048",
+    "title": "GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments",
+    "url": "https://arxiv.org/abs/2609.00048",
+    "first_published": "2026-08-30",
+    "type": "preprint",
+    "verification": "原始摘要/正文方法和关键结果已核；未运行实现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "arxiv": "2609.00048",
+    "read_first": "§3.2和§3.7，再看表2及§4.3，区分连续动作进度、视觉合理性与真实任务完成。"
+  },
+  {
+    "id": "arxiv:2611.06116",
+    "title": "The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM’s Compliance with Banking Conduct Rules, Unevenly Across Models",
+    "url": "https://arxiv.org/abs/2611.06116",
+    "first_published": "2026-11-04",
+    "type": "preprint",
+    "verification": "原始摘要/正文方法和关键结果已核；未运行实现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "arxiv": "2611.06116",
+    "read_first": "Method中的Harnesses和Scoring，再看表1与Stated versus executed，确认配置与实际执行各自如何进入结论。"
+  },
+  {
+    "id": "url:https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
+    "title": "Introducing Scope: Open-source evaluation for AI coding agents",
+    "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
+    "first_published": "2026-10-19",
+    "type": "official_technical_report",
+    "verification": "原始摘要/正文方法和关键结果已核；未运行实现",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-07.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "read_first": "Build an evaluation loop around your product，再回看Cosmos DB案例，关注配置保存和结果分母的缺口。"
   }
 ]
