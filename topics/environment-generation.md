@@ -90,3 +90,7 @@
 - [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
 
 - [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM’s Compliance with Banking Conduct Rules, Unevenly Across Models](https://arxiv.org/abs/2611.06116) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+- [LegoEnv: Self-Evolving Agentic Environments via Modular Recombination](https://arxiv.org/abs/2611.01834) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [C-World: A Computer Use Agent Environment Creator](https://arxiv.org/abs/2601.06328) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows](https://arxiv.org/abs/2608.29128) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)

@@ -138,3 +138,8 @@
 - [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM’s Compliance with Banking Conduct Rules, Unevenly Across Models](https://arxiv.org/abs/2611.06116) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
 
 - [Introducing Scope: Open-source evaluation for AI coding agents](https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+- [LegoEnv: Self-Evolving Agentic Environments via Modular Recombination](https://arxiv.org/abs/2611.01834) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark](https://arxiv.org/abs/2610.16067) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [C-World: A Computer Use Agent Environment Creator](https://arxiv.org/abs/2601.06328) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows](https://arxiv.org/abs/2608.29128) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)

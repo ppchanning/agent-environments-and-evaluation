@@ -107,3 +107,7 @@
 - [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
 
 - [Introducing Scope: Open-source evaluation for AI coding agents](https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/) · [阅读笔记](../digests/agent-environments/2026/2026-11-07.md)
+- [LegoEnv: Self-Evolving Agentic Environments via Modular Recombination](https://arxiv.org/abs/2611.01834) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [C-World: A Computer Use Agent Environment Creator](https://arxiv.org/abs/2601.06328) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+- [APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows](https://arxiv.org/abs/2608.29128) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)

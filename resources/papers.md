@@ -153,3 +153,8 @@
 | [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048) | 未知 | 2026-08-30 | preprint |
 | [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM’s Compliance with Banking Conduct Rules, Unevenly Across Models](https://arxiv.org/abs/2611.06116) | 未知 | 2026-11-04 | preprint |
 | [Introducing Scope: Open-source evaluation for AI coding agents](https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/) | 未知 | 2026-10-19 | official_technical_report |
+| [LegoEnv: Self-Evolving Agentic Environments via Modular Recombination](https://arxiv.org/abs/2611.01834) | SJTU; Tencent and collaborators | 2026-11-01 | preprint |
+| [When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark](https://arxiv.org/abs/2610.16067) | Nanjing University of Science and Technology | 2026-10-12 | preprint |
+| [C-World: A Computer Use Agent Environment Creator](https://arxiv.org/abs/2601.06328) | UC San Diego and collaborators | 2026-01-09 | preprint |
+| [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) | Apple | 2026-10-27 | preprint |
+| [APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows](https://arxiv.org/abs/2608.29128) | Postman | 2026-08-29 | preprint |

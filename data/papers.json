@@ -3128,5 +3128,105 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "read_first": "Build an evaluation loop around your product，再回看Cosmos DB案例，关注配置保存和结果分母的缺口。"
+  },
+  {
+    "title": "LegoEnv: Self-Evolving Agentic Environments via Modular Recombination",
+    "authors": "Zhuosong Jiang et al.",
+    "team": "SJTU; Tencent and collaborators",
+    "doi": "10.48550/arXiv.2611.01834",
+    "arxiv": "2611.01834",
+    "url": "https://arxiv.org/abs/2611.01834",
+    "fulltext_url": "https://arxiv.org/html/2611.01834v1",
+    "verified_version": "v1",
+    "verification": "original_abstract_and_targeted_fulltext",
+    "read_first": "3.5; 5.2; Appendix L",
+    "id": "arxiv:2611.01834",
+    "first_published": "2026-11-01",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark",
+    "authors": "Junjie Chen",
+    "team": "Nanjing University of Science and Technology",
+    "doi": "10.48550/arXiv.2610.16067",
+    "arxiv": "2610.16067",
+    "url": "https://arxiv.org/abs/2610.16067",
+    "fulltext_url": "https://arxiv.org/html/2610.16067v2",
+    "verified_version": "v2",
+    "verification": "original_abstract_and_targeted_fulltext",
+    "read_first": "3.2; 4.1",
+    "id": "arxiv:2610.16067",
+    "first_published": "2026-10-12",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "C-World: A Computer Use Agent Environment Creator",
+    "authors": "Ziqiao Xi et al.",
+    "team": "UC San Diego and collaborators",
+    "doi": "10.48550/arXiv.2601.06328",
+    "arxiv": "2601.06328",
+    "url": "https://arxiv.org/abs/2601.06328",
+    "fulltext_url": "https://arxiv.org/html/2601.06328v2",
+    "verified_version": "v2",
+    "verification": "original_abstract_and_targeted_fulltext",
+    "read_first": "3.2; 5.4",
+    "id": "arxiv:2601.06328",
+    "first_published": "2026-01-09",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+    "authors": "Andrew Szot et al.",
+    "team": "Apple",
+    "doi": "10.48550/arXiv.2610.37648",
+    "arxiv": "2610.37648",
+    "url": "https://arxiv.org/abs/2610.37648",
+    "fulltext_url": "https://arxiv.org/html/2610.37648v1",
+    "verified_version": "v1",
+    "verification": "original_abstract_and_targeted_fulltext",
+    "read_first": "3; Figures 2–3",
+    "id": "arxiv:2610.37648",
+    "first_published": "2026-10-27",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows",
+    "authors": "Zelin Wan et al.",
+    "team": "Postman",
+    "doi": "10.48550/arXiv.2608.29128",
+    "arxiv": "2608.29128",
+    "url": "https://arxiv.org/abs/2608.29128",
+    "fulltext_url": "https://arxiv.org/html/2608.29128v1",
+    "verified_version": "v1",
+    "verification": "original_abstract_and_targeted_fulltext",
+    "read_first": "4–5; 8.3",
+    "id": "arxiv:2608.29128",
+    "first_published": "2026-08-29",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-08.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
   }
 ]
