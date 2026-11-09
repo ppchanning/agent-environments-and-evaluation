@@ -3228,5 +3228,78 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "作者报告未独立复现；证据条件与适用范围见当期笔记。"
+  },
+  {
+    "title": "Silent Instrument Errors Reorder Agent Leaderboards",
+    "arxiv": "2611.04399",
+    "doi": "10.48550/arXiv.2611.04399",
+    "url": "https://arxiv.org/abs/2611.04399",
+    "verification": "original abstract and relevant methods/results",
+    "id": "arxiv:2611.04399",
+    "first_published": "2026-11-03",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training",
+    "arxiv": "2609.38043",
+    "doi": "10.48550/arXiv.2609.38043",
+    "url": "https://arxiv.org/abs/2609.38043",
+    "verification": "original abstract and relevant methods/results",
+    "id": "arxiv:2609.38043",
+    "first_published": "2026-09-29",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3",
+    "arxiv": "2607.28287",
+    "doi": "10.48550/arXiv.2607.28287",
+    "url": "https://arxiv.org/abs/2607.28287",
+    "verification": "original abstract and relevant methods/results",
+    "id": "arxiv:2607.28287",
+    "first_published": "2026-07-30",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos",
+    "arxiv": "2610.04432",
+    "doi": "10.48550/arXiv.2610.04432",
+    "url": "https://arxiv.org/abs/2610.04432",
+    "verification": "original abstract and relevant methods/results",
+    "id": "arxiv:2610.04432",
+    "first_published": "2026-10-03；v3 2026-10-09",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "MultiVerse: A Trustworthy Tool-Use Benchmark for Real-World Task Delegation under Harnesses",
+    "url": "https://soheeyang.github.io/publication/yang2026multiverse/",
+    "verification": "author original abstract only; full text unavailable",
+    "id": "url:https://soheeyang.github.io/publication/yang2026multiverse/",
+    "first_published": "2026-09（作者页仅给月份）",
+    "type": "author_abstract",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-09.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
   }
 ]

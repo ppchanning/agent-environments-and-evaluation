@@ -143,3 +143,6 @@
 - [C-World: A Computer Use Agent Environment Creator](https://arxiv.org/abs/2601.06328) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
 - [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
 - [APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows](https://arxiv.org/abs/2608.29128) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+
+- [Silent Instrument Errors Reorder Agent Leaderboards](https://arxiv.org/abs/2611.04399) — [阅读说明](../digests/agent-environments/2026/2026-11-09.md)
+- [UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training](https://arxiv.org/abs/2609.38043) — [阅读说明](../digests/agent-environments/2026/2026-11-09.md)

@@ -94,3 +94,6 @@
 - [C-World: A Computer Use Agent Environment Creator](https://arxiv.org/abs/2601.06328) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
 - [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
 - [APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows](https://arxiv.org/abs/2608.29128) · [阅读笔记](../digests/agent-environments/2026/2026-11-08.md)
+
+- [Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3](https://arxiv.org/abs/2607.28287) — [阅读说明](../digests/agent-environments/2026/2026-11-09.md)
+- [Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos](https://arxiv.org/abs/2610.04432) — [阅读说明](../digests/agent-environments/2026/2026-11-09.md)

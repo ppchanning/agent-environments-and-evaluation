@@ -158,3 +158,8 @@
 | [C-World: A Computer Use Agent Environment Creator](https://arxiv.org/abs/2601.06328) | UC San Diego and collaborators | 2026-01-09 | preprint |
 | [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](https://arxiv.org/abs/2610.37648) | Apple | 2026-10-27 | preprint |
 | [APIFlow-Bench: Measuring Whether Agents Survive Long, Dependent API Workflows](https://arxiv.org/abs/2608.29128) | Postman | 2026-08-29 | preprint |
+| [Silent Instrument Errors Reorder Agent Leaderboards](https://arxiv.org/abs/2611.04399) | — | 2026-11-03 | preprint |
+| [UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training](https://arxiv.org/abs/2609.38043) | — | 2026-09-29 | preprint |
+| [Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3](https://arxiv.org/abs/2607.28287) | — | 2026-07-30 | preprint |
+| [Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos](https://arxiv.org/abs/2610.04432) | — | 2026-10-03；v3 2026-10-09 | preprint |
+| [MultiVerse: A Trustworthy Tool-Use Benchmark for Real-World Task Delegation under Harnesses](https://soheeyang.github.io/publication/yang2026multiverse/) | — | 2026-09（作者页仅给月份） | author_abstract |
