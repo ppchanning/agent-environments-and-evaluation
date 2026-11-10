@@ -3301,5 +3301,73 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "作者报告未独立复现；证据条件和限制见当期笔记。"
+  },
+  {
+    "title": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations",
+    "arxiv": "2610.22708",
+    "url": "https://arxiv.org/abs/2610.22708",
+    "first_published": "2026-10-15",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2610.22708",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。"
+  },
+  {
+    "title": "EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks",
+    "arxiv": "2609.31906",
+    "url": "https://arxiv.org/abs/2609.31906",
+    "first_published": "2026-09-25",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2609.31906",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。"
+  },
+  {
+    "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+    "arxiv": "2606.05342",
+    "url": "https://arxiv.org/abs/2606.05342",
+    "first_published": "2026-06-03",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2606.05342",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。"
+  },
+  {
+    "title": "Introducing STATE-Bench: A benchmark for AI agent memory",
+    "url": "https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/",
+    "first_published": "2026-05-19",
+    "type": "official_technical_article",
+    "verification": "original_fulltext_targeted",
+    "id": "url:https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。"
+  },
+  {
+    "title": "Your AI coding agent evaluation is only as good as its sandbox",
+    "url": "https://developer.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/",
+    "first_published": "2026-09-16",
+    "type": "official_technical_article",
+    "verification": "original_fulltext_targeted",
+    "id": "url:https://developer.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-10.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。"
   }
 ]

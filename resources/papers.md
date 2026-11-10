@@ -163,3 +163,8 @@
 | [Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3](https://arxiv.org/abs/2607.28287) | — | 2026-07-30 | preprint |
 | [Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos](https://arxiv.org/abs/2610.04432) | — | 2026-10-03；v3 2026-10-09 | preprint |
 | [MultiVerse: A Trustworthy Tool-Use Benchmark for Real-World Task Delegation under Harnesses](https://soheeyang.github.io/publication/yang2026multiverse/) | — | 2026-09（作者页仅给月份） | author_abstract |
+| [GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations](https://arxiv.org/abs/2610.22708) | — | 2026-10-15 | preprint |
+| [EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks](https://arxiv.org/abs/2609.31906) | — | 2026-09-25 | preprint |
+| [SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://arxiv.org/abs/2606.05342) | — | 2026-06-03 | preprint |
+| [Introducing STATE-Bench: A benchmark for AI agent memory](https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/) | — | 2026-05-19 | official_technical_article |
+| [Your AI coding agent evaluation is only as good as its sandbox](https://developer.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/) | — | 2026-09-16 | official_technical_article |

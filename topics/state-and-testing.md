@@ -146,3 +146,11 @@
 
 - [Silent Instrument Errors Reorder Agent Leaderboards](https://arxiv.org/abs/2611.04399) — [阅读说明](../digests/agent-environments/2026/2026-11-09.md)
 - [UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training](https://arxiv.org/abs/2609.38043) — [阅读说明](../digests/agent-environments/2026/2026-11-09.md)
+
+- [GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations](https://arxiv.org/abs/2610.22708) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
+
+- [EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks](https://arxiv.org/abs/2609.31906) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
+
+- [SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://arxiv.org/abs/2606.05342) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
+
+- [Introducing STATE-Bench: A benchmark for AI agent memory](https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
