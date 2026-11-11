@@ -115,3 +115,4 @@
 - [MultiVerse: A Trustworthy Tool-Use Benchmark for Real-World Task Delegation under Harnesses](https://soheeyang.github.io/publication/yang2026multiverse/) — [阅读说明](../digests/agent-environments/2026/2026-11-09.md)
 
 - [EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks](https://arxiv.org/abs/2609.31906) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
+- [APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](https://arxiv.org/abs/2504.03601) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)

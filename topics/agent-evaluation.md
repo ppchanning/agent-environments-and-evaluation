@@ -165,3 +165,6 @@
 - [Introducing STATE-Bench: A benchmark for AI agent memory](https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
 
 - [Your AI coding agent evaluation is only as good as its sandbox](https://developer.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
+- [SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research](https://arxiv.org/abs/2611.10329) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
+- [Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents](https://arxiv.org/abs/2609.33772) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
+- [APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](https://arxiv.org/abs/2504.03601) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)

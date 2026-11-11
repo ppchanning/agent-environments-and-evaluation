@@ -105,3 +105,5 @@
 - [SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://arxiv.org/abs/2606.05342) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
 
 - [Introducing STATE-Bench: A benchmark for AI agent memory](https://opensource.microsoft.com/blog/2026/05/19/introducing-state-bench-a-benchmark-for-ai-agent-memory/) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
+- [Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents](https://arxiv.org/abs/2609.33772) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
+- [Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)

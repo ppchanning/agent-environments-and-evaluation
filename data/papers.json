@@ -3369,5 +3369,69 @@
     ],
     "provenance": "ai-assisted-literature-notes",
     "limitations": "作者报告未独立复现；证据范围和限制见当期笔记。"
+  },
+  {
+    "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
+    "arxiv": "2611.10329",
+    "url": "https://arxiv.org/abs/2611.10329",
+    "fulltext_url": "https://arxiv.org/html/2611.10329",
+    "first_published": "2026-11-06",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2611.10329",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
+    "verified_version": "v1"
+  },
+  {
+    "title": "Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents",
+    "arxiv": "2609.33772",
+    "url": "https://arxiv.org/abs/2609.33772",
+    "fulltext_url": "https://arxiv.org/html/2609.33772",
+    "first_published": "2026-09-27",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2609.33772",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
+    "verified_version": "v2"
+  },
+  {
+    "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+    "arxiv": "2604.00842",
+    "url": "https://arxiv.org/abs/2604.00842",
+    "fulltext_url": "https://arxiv.org/html/2604.00842",
+    "first_published": "2026-04-01",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2604.00842",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
+    "verified_version": "v1"
+  },
+  {
+    "title": "APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay",
+    "arxiv": "2504.03601",
+    "url": "https://arxiv.org/abs/2504.03601",
+    "fulltext_url": "https://arxiv.org/html/2504.03601",
+    "first_published": "2025-04-04",
+    "type": "conference_paper",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2504.03601",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-11.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
+    "verified_version": "v4"
   }
 ]
