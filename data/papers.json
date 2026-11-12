@@ -3433,5 +3433,103 @@
     "provenance": "ai-assisted-literature-notes",
     "limitations": "作者报告未独立复现；证据条件、分母及限制见当期笔记。",
     "verified_version": "v4"
+  },
+  {
+    "title": "RESTestBench: A Benchmark for Evaluating the Effectiveness of LLM-Generated REST API Test Cases from NL Requirements",
+    "authors": [
+      "Leon Kogler",
+      "Stefan Hangler",
+      "Maximilian Ehrhart",
+      "Benedikt Dornauer",
+      "Roland Wuersching",
+      "Peter Schrammel"
+    ],
+    "arxiv": "2604.25862",
+    "url": "https://arxiv.org/abs/2604.25862",
+    "fulltext_url": "https://arxiv.org/html/2604.25862",
+    "first_published": "2026-04-28",
+    "version_date": "2026-04-28",
+    "type": "conference_paper",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2604.25862",
+    "verified_version": "v1",
+    "evidence": "作者发现，来自有缺陷实现的反馈可能降低测试的缺陷检出能力，模糊需求时尤其明显。例如两个用户的邮件地址互换，单看返回值是否属于允许集合仍可能通过，必须检查用户与地址的对应关系。",
+    "limitations": "对服务仿真验证的启发是把业务关系写进独立验收条件，避免用当前实现反向定义正确行为。跨服务适用性仍受样本和需求质量限制；先读§3.2–3.4与§4.2，查看变体怎样对应原始需求。",
+    "read_first": "对服务仿真验证的启发是把业务关系写进独立验收条件，避免用当前实现反向定义正确行为。跨服务适用性仍受样本和需求质量限制；先读§3.2–3.4与§4.2，查看变体怎样对应原始需求。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing",
+    "authors": [
+      "Hieu Huynh",
+      "Tri Le",
+      "Tu Nguyen",
+      "Viet Nguyen",
+      "Vu Nguyen",
+      "Tien N. Nguyen"
+    ],
+    "arxiv": "2504.17287",
+    "url": "https://arxiv.org/abs/2504.17287",
+    "fulltext_url": "https://arxiv.org/html/2504.17287",
+    "first_published": "2025-04-24",
+    "version_date": "2026-08-18",
+    "type": "conference_paper",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2504.17287",
+    "verified_version": "v4",
+    "evidence": "表7报告694条正确、63条错误，精确率91.7%；分母是受评规则，不能改写为任务成功率或完整业务覆盖。avatar与avatar_url的错误映射说明，名称近似不保证语义对应；AGORA+动态证据可补足部分文档稀疏情形。",
+    "limitations": "规则不匹配不自动等于确认的软件缺陷；单次API关系也不能替代跨调用状态不变量。先读§5–6、§8.1.5与表7，分别核对规则来源、过滤机制和错误样例。",
+    "read_first": "规则不匹配不自动等于确认的软件缺陷；单次API关系也不能替代跨调用状态不变量。先读§5–6、§8.1.5与表7，分别核对规则来源、过滤机制和错误样例。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Widening Harm Evaluation Coverage with a Judge that Reads the World",
+    "authors": [
+      "Prabhpreet Singh Setia",
+      "Bhavesh Neekhra",
+      "Debayan Gupta"
+    ],
+    "arxiv": "2611.02624",
+    "url": "https://arxiv.org/abs/2611.02624",
+    "fulltext_url": "https://arxiv.org/html/2611.02624",
+    "first_published": "2026-11-02",
+    "version_date": "2026-11-02",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "id": "arxiv:2611.02624",
+    "verified_version": "v1",
+    "evidence": "读取最终环境可以发现轨迹检查遗漏的结果，但没有执行前状态时，裁判无法区分某对象被删除与它原本不存在。短暂发生后被恢复的伤害则需要过程证据。拒判和弃权必须保留，比较还受双方均给出决定的子集约束。",
+    "limitations": "HTML表2标题、注释与正文的分母描述存在冲突，因此这里不引用摘要中的提升百分比。此工作提供环境验证思路，不能宣称模拟保真度已经被证明。先读裁判输入隔离和失败分析，并检查每项结果的判定覆盖率。",
+    "read_first": "HTML表2标题、注释与正文的分母描述存在冲突，因此这里不引用摘要中的提升百分比。此工作提供环境验证思路，不能宣称模拟保真度已经被证明。先读裁判输入隔离和失败分析，并检查每项结果的判定覆盖率。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF",
+    "authors": [
+      "Mofi Rahman",
+      "Brandon Royal"
+    ],
+    "url": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+    "fulltext_url": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+    "first_published": "2026-11-05",
+    "type": "official_technical_article",
+    "verification": "original_full_article",
+    "id": "url:https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+    "evidence": "这些机制有助于组织可暂停的有状态执行环境，但恢复同一个已有环境，不等于从轨迹重建未知服务。外部API、数据库、时钟和未纳入快照的依赖仍决定恢复后行为是否一致。",
+    "limitations": "快速恢复属于工程方的描述，缺少统一工作负载、状态规模及上下文条件的对照数据，故不列数值性能保证。它支撑仿真基础设施讨论，本身没有证明模拟服务行为正确。先读Actor/Worker生命周期与隔离边界；本笔记不涉及部署或安装。",
+    "read_first": "快速恢复属于工程方的描述，缺少统一工作负载、状态规模及上下文条件的对照数据，故不列数值性能保证。它支撑仿真基础设施讨论，本身没有证明模拟服务行为正确。先读Actor/Worker生命周期与隔离边界；本笔记不涉及部署或安装。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-12.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

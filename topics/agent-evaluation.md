@@ -168,3 +168,7 @@
 - [SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research](https://arxiv.org/abs/2611.10329) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
 - [Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents](https://arxiv.org/abs/2609.33772) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
 - [APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](https://arxiv.org/abs/2504.03601) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
+- [RESTestBench: A Benchmark for Evaluating the Effectiveness of LLM-Generated REST API Test Cases from NL Requirements](https://arxiv.org/abs/2604.25862) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
+- [RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing](https://arxiv.org/abs/2504.17287) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
+- [Widening Harm Evaluation Coverage with a Judge that Reads the World](https://arxiv.org/abs/2611.02624) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
+- [Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF](https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)

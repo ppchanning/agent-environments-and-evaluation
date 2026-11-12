@@ -116,3 +116,6 @@
 
 - [EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks](https://arxiv.org/abs/2609.31906) · [阅读笔记](../digests/agent-environments/2026/2026-11-10.md)
 - [APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](https://arxiv.org/abs/2504.03601) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
+- [RESTestBench: A Benchmark for Evaluating the Effectiveness of LLM-Generated REST API Test Cases from NL Requirements](https://arxiv.org/abs/2604.25862) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
+- [RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing](https://arxiv.org/abs/2504.17287) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
+- [Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF](https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)

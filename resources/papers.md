@@ -172,3 +172,7 @@
 | [Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents](https://arxiv.org/abs/2609.33772) |  | 2026-09-27 | preprint |
 | [Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842) |  | 2026-04-01 | preprint |
 | [APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](https://arxiv.org/abs/2504.03601) |  | 2025-04-04 | conference_paper |
+| [RESTestBench: A Benchmark for Evaluating the Effectiveness of LLM-Generated REST API Test Cases from NL Requirements](https://arxiv.org/abs/2604.25862) | Leon Kogler; Stefan Hangler; Maximilian Ehrhart; Benedikt Dornauer; Roland Wuersching; Peter Schrammel | 2026-04-28 | conference_paper |
+| [RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing](https://arxiv.org/abs/2504.17287) | Hieu Huynh; Tri Le; Tu Nguyen; Viet Nguyen; Vu Nguyen; Tien N. Nguyen | 2025-04-24 | conference_paper |
+| [Widening Harm Evaluation Coverage with a Judge that Reads the World](https://arxiv.org/abs/2611.02624) | Prabhpreet Singh Setia; Bhavesh Neekhra; Debayan Gupta | 2026-11-02 | preprint |
+| [Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF](https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html) | Mofi Rahman; Brandon Royal | 2026-11-05 | official_technical_article |
