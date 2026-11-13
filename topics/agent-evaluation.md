@@ -172,3 +172,8 @@
 - [RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing](https://arxiv.org/abs/2504.17287) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
 - [Widening Harm Evaluation Coverage with a Judge that Reads the World](https://arxiv.org/abs/2611.02624) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
 - [Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF](https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
+- [ProgramBench: Can Language Models Rebuild Programs From Scratch?](https://arxiv.org/abs/2605.03546) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
+- [ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents](https://arxiv.org/abs/2610.13395) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
+- [When the Consumer Is an Agent: Execution-Grounded Service-Level Agreements](https://arxiv.org/abs/2611.04182) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
+- [Mind the Sim2Real Gap in User Simulation for Agentic Tasks](https://arxiv.org/abs/2603.11245) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
+- [Agent-R²: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](https://arxiv.org/abs/2611.08219) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)

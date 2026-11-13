@@ -108,3 +108,6 @@
 - [Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents](https://arxiv.org/abs/2609.33772) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
 - [Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842) · [阅读笔记](../digests/agent-environments/2026/2026-11-11.md)
 - [Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF](https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html) · [阅读笔记](../digests/agent-environments/2026/2026-11-12.md)
+- [ProgramBench: Can Language Models Rebuild Programs From Scratch?](https://arxiv.org/abs/2605.03546) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
+- [ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents](https://arxiv.org/abs/2610.13395) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
+- [Agent-R²: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](https://arxiv.org/abs/2611.08219) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)

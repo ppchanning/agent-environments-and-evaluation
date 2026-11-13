@@ -3531,5 +3531,157 @@
       "digests/agent-environments/2026/2026-11-12.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ProgramBench: Can Language Models Rebuild Programs From Scratch?",
+    "authors": [
+      "John Yang",
+      "Kilian Lieret",
+      "Jeffrey Ma",
+      "Parth Thakkar",
+      "Dmitrii Pedchenko",
+      "Sten Sootla",
+      "Emily McMilin",
+      "Pengcheng Yin",
+      "Rui Hou",
+      "Gabriel Synnaeve",
+      "Diyi Yang",
+      "Ofir Press"
+    ],
+    "arxiv": "2605.03546",
+    "url": "https://arxiv.org/abs/2605.03546",
+    "fulltext_url": "https://arxiv.org/html/2605.03546v1",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "version_date": "2026-05-05",
+    "read_first": "2.1–2.2; 3",
+    "id": "arxiv:2605.03546",
+    "first_published": "2026-05-05",
+    "verified_version": "v1",
+    "evidence": "作者从开源仓库构建参考可执行文件，再把源码、原测试和可能泄露实现的构建缓存移出求解环境。隐藏测试的制作者权限不同：生成测试的代理可以阅读原仓库、测试及覆盖率，逐步补充没有触达的功能。测试比较标准输出、退出码和文件系统副作用等外部行为，不要求复制原代码结构。测试还要在参考程序上稳定通过，并通过弱断言检查；能接受空壳程序的测试会被剔除。这解释了作者如何在不给求解者源码的同时，仍借助源码构造更充分的评测。",
+    "limitations": "数据集有200个程序，既含小型命令行工具，也含 SQLite、FFmpeg 和 PHP，合计248,853个测试函数。九个模型在统一的 mini-SWE-agent 框架下，每任务最多1,000步和6小时，均没有完整通过任何一个任务的全部测试。最强模型在约3%的任务上达到至少95%的测试通过率。这里的3%以200个程序为分母，95%则是各程序内部的测试比例，不能理解成恢复了95%的整体功能；测试数量和功能重要性并不成正比。作者也明确把部分通过率主要用于模型间相对比较。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents",
+    "authors": [
+      "Chengyi Yang",
+      "Renxu Bao",
+      "Jue Hou",
+      "Zongpei Teng",
+      "Ziheng Wang",
+      "Yujie Lin",
+      "Chengsong Huang",
+      "Junnan Zhu",
+      "Delai Qiu",
+      "Yining Wang",
+      "Shengping Liu",
+      "Fei Long",
+      "Jinsong Su"
+    ],
+    "arxiv": "2610.13395",
+    "url": "https://arxiv.org/abs/2610.13395",
+    "fulltext_url": "https://arxiv.org/html/2610.13395v1",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "version_date": "2026-10-09",
+    "read_first": "5; 6.1–6.2",
+    "id": "arxiv:2610.13395",
+    "first_published": "2026-10-09",
+    "verified_version": "v1",
+    "evidence": "求解流程的关键是权限隔离。分析者先读文档并探测参考程序，将行为证据写成冻结文档；实现者在另一会话中据此开发，不能直接调用参考程序；随后分析者只读比较参考程序和候选实现，把已验证的差异写成下一轮修改要求。每轮实现要从干净源码快照重新编译，通过后才形成恢复点；超时或构建失败会有限重试，再失败则退回上一可构建版本。它用显式交接材料保存证据，减少上下文压缩后遗忘需求或边审边改掩盖错误的问题。",
+    "limitations": "作者构造了1,648个环境，并在ProgramBench上比较同一模型的不同训练和求解方式。在固定 Claude Code 框架下，Qwen3.8-27B经过监督微调后，逐任务测试通过率的宏平均从34.87%升到42.84%；换用最多五轮的 Program-Agent，未微调模型达到55.71%，微调模型达到56.25%。这些数字都是先计算各程序测试通过比例再取平均，不是完整重建成功率。固定权重的框架对照支持“流程组织能改善部分行为恢复”，但并未隔离交接格式、角色分工和额外推理开销各自的贡献；作者的8小时上限也不能与ProgramBench原论文6小时条件直接混成模型排名。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "When the Consumer Is an Agent: Execution-Grounded Service-Level Agreements",
+    "authors": [
+      "Michał Orzechowski",
+      "Renata G. Słota",
+      "Jacek Kitowski"
+    ],
+    "arxiv": "2611.04182",
+    "url": "https://arxiv.org/abs/2611.04182",
+    "fulltext_url": "https://arxiv.org/html/2611.04182v1",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "version_date": "2026-11-03",
+    "read_first": "3; 4; Table 5",
+    "id": "arxiv:2611.04182",
+    "first_published": "2026-11-03",
+    "verified_version": "v1",
+    "evidence": "方法是在任务开始前，由外部操作者实例化机器可检查的完成条件，并固定对象、期望值和截止时间。一个独立于代理会话的只读验证器每3秒观察一次，判断目标是否在30秒内成立。它不把代理的解释当证据；读不到足够状态时记录无法判定，也不把失败探测算成功。超过截止才完成，原尝试依旧是违约；后续恢复创建或延长有身份记录的观察窗口，不能把最初的超时擦掉。证据还用于选择重试代理、等待服务收敛或有限复查，但恢复动作本身也必须再次通过状态验证。",
+    "limitations": "实验让七个模型经同一五工具MCP接口完成任务，每次最多八轮工具调用。健康复制的56次试验中，截止状态判定为33次达成、23次未达成；代理自报完成错误放行了其中21次违约。作者另给复制路径注入35秒延迟，故意超过30秒约定；调用与健康监控仍错误放行56次中的47次。这些是以整组试验为分母的次数，不是只在成功调用子集上算的比例。实际启用完成门槛后的112次复制任务，有109次最终通过验证、3次耗尽恢复预算而未核实；注入延迟的首次尝试仍全部违约，最终恢复成功不能解释为按时成功。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Mind the Sim2Real Gap in User Simulation for Agentic Tasks",
+    "authors": [
+      "Xuhui Zhou",
+      "Weiwei Sun",
+      "Qianou Ma",
+      "Yiqing Xie",
+      "Jiarui Liu",
+      "Weihua Du",
+      "Sean Welleck",
+      "Yiming Yang",
+      "Graham Neubig",
+      "Sherry Tongshuang Wu",
+      "Maarten Sap"
+    ],
+    "arxiv": "2603.11245",
+    "url": "https://arxiv.org/abs/2603.11245",
+    "fulltext_url": "https://arxiv.org/html/2603.11245v2",
+    "type": "conference_paper",
+    "verification": "original_fulltext_targeted",
+    "version_date": "2026-07-31",
+    "read_first": "4; 5; 7",
+    "id": "arxiv:2603.11245",
+    "first_published": "2026-03-11",
+    "verified_version": "v2",
+    "evidence": "实验在τ-bench的航空和零售165个任务上，招募451名参与者扮演客户，形成三个独立批次；主要比较中固定GPT-5.2为服务代理，工具和任务规则保持一致，再替换为31种模型用户。对话中的语言及结构特征通过词典和规则抽取，与真人批次比较；任务成功率按难度分组比较，事后评价则比较同一互动上模型与人的评分差异。作者将这些量组合成USI，即用户模拟一致性指数。它依赖所选特征、归一化和权重，不是对所有人类行为的完整测量。",
+    "limitations": "正文展示了为什么最终成绩可能变得容易：GPT-4o用户的短回复仅占其用户轮次的1.0%，真人为29.0%；有些模拟器一次提供多个身份或订单线索，减少了代理必须澄清的信息。这些比例统计的是用户发言轮次，不是任务成功数。作者观察到模拟用户与真人在多种行为及评价上存在差距，并发现专门微调的人类模拟模型也没有自动补上缺口。v2还明确限制了错误反应指标：其语言特征统计覆盖整个对话，不只覆盖确认发生代理错误后的轮次，所以只能描述关联，不能据此证明模型用户对某次错误的因果反应。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Agent-R²: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+    "authors": [
+      "Teng Pan",
+      "Zixuan Wang",
+      "Yuchen Yan",
+      "Qifei Wu",
+      "Yao Chen",
+      "Yingqi Qu",
+      "Ruiqing Zhang",
+      "Yongliang Shen"
+    ],
+    "arxiv": "2611.08219",
+    "url": "https://arxiv.org/abs/2611.08219",
+    "fulltext_url": "https://arxiv.org/html/2611.08219v1",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted",
+    "version_date": "2026-11-05",
+    "read_first": "3.1; 4.2; 4.5",
+    "id": "arxiv:2611.08219",
+    "first_published": "2026-11-05",
+    "verified_version": "v1",
+    "evidence": "构造代理会渲染分页文件、解析工作表，并结合附件内容共同设计指令与逐项评分标准。随后一个专家模型实际执行任务，生成参考文件和工具轨迹。验证器检查参考文件不满足的评分条目：若条目没有材料支持或与指令不一致，就修改标准；若要求合理，则让专家修订交付物。这套流程从10,000个语料候选得到4,000项任务。求解者在持续沙箱中使用终端、网页检索和图像查看工具，评价则在独立沙箱里读取交付物、可选参考文件及评分标准。",
+    "limitations": "作者用这些数据对4B模型进行监督微调和基于评分标准的强化学习。在220项GDPval任务的完整集合上，最终模型单次尝试通过率为51.0%，对比Qwen3-235B-A22B-Thinking-2507的48.0%；GDPval由Gemini-3.1-Pro按条目评判，最多100步。这是该工具环境与判定协议下的结果，不是人工认定的所有办公能力比较。更能定位材料作用的是配对消融：同样1,000个源任务，用真实文件或模型生成文件分别重新合成并训练，真实文件版本在GDPval得到43.3，对照为41.4。该差异支持附件来源有影响，但不能把完整系统全部收益归给“真实文件”。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-13.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]
