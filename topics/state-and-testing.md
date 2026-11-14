@@ -164,3 +164,13 @@
 - [ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents](https://arxiv.org/abs/2610.13395) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
 - [When the Consumer Is an Agent: Execution-Grounded Service-Level Agreements](https://arxiv.org/abs/2611.04182) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
 - [Mind the Sim2Real Gap in User Simulation for Agentic Tasks](https://arxiv.org/abs/2603.11245) · [阅读笔记](../digests/agent-environments/2026/2026-11-13.md)
+
+- [Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detecting Silent Information Loss](https://arxiv.org/abs/2611.15543) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
+
+- [MASTOR: A Multi-Agent Approach to Semantic Test Oracle Generation for RESTful APIs](https://arxiv.org/abs/2606.10465) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
+
+- [SATORI: Static Test Oracle Generation for REST APIs](https://arxiv.org/abs/2508.16318) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
+
+- [CRAB-Bench: Evaluating LLM Agents under Complex Task Dependencies and Human-aligned User Simulation](https://arxiv.org/abs/2606.01815) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
+
+- [From Business Requirements to Test Assertions: Evaluating LLM-Generated Oracles on Real Bugs](https://arxiv.org/abs/2607.10277) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
