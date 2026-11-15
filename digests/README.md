@@ -6,6 +6,7 @@
 
 | 日期 | 阅读条目 |
 | --- | ---: |
+| [2026-11-15](agent-environments/2026/2026-11-15.md) | 3 |
 | [2026-11-14](agent-environments/2026/2026-11-14.md) | 5 |
 | [2026-11-13](agent-environments/2026/2026-11-13.md) | 5 |
 | [2026-11-12](agent-environments/2026/2026-11-12.md) | 4 |

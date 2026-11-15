@@ -186,3 +186,6 @@
 | [SATORI: Static Test Oracle Generation for REST APIs](https://arxiv.org/abs/2508.16318) | Juan C. Alonso; Alberto Martin-Lopez; Sergio Segura; Gabriele Bavota; Antonio Ruiz-Cortés | 2025-08-22 | conference_paper |
 | [CRAB-Bench: Evaluating LLM Agents under Complex Task Dependencies and Human-aligned User Simulation](https://arxiv.org/abs/2606.01815) | Danqing Wang; Akshay Sivaraman; Lei Li | 2026-06-01 | preprint |
 | [From Business Requirements to Test Assertions: Evaluating LLM-Generated Oracles on Real Bugs](https://arxiv.org/abs/2607.10277) | Tiancheng Ma; Nasir U. Eisty | 2026-07-11 | preprint |
+| [Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems](https://arxiv.org/abs/1605.06670) | Steve Versteeg; Miao Du; Jean-Guy Schneider; John Grundy; Jun Han; Menka Goyal | 2016-05-21 | conference_paper |
+| [A Review on the Service Virtualisation and Its Structural Pillars](https://www.mdpi.com/2076-3417/11/5/2381) | Zeinab Farahmandpour; Mehdi Seyedmahmoudian; Alex Stojcevski | 2021-03-08 | review |
+| [Agent Error Simulator: Fault Injection for Testing Recovery in Agentic Workflows](https://grc.iit.edu/gnosis/publications/bateman-2026-agent-error-simulator-3c7d/) | Keith Bateman; Jaime Cernuda Garcia; Luke Logan; Bogdan Nicolae; Franck Cappello; Xian-He Sun; Anthony Kougkas | — | conference_paper |

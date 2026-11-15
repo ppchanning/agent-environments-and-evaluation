@@ -3810,5 +3810,79 @@
     "provenance": "ai-assisted-literature-notes",
     "evidence": "原始来源定向核验；关键证据与限制见同期阅读笔记。",
     "limitations": "作者报告，未独立复现；不同权限、任务及指标不能直接比较。"
+  },
+  {
+    "title": "Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems",
+    "authors": [
+      "Steve Versteeg",
+      "Miao Du",
+      "Jean-Guy Schneider",
+      "John Grundy",
+      "Jun Han",
+      "Menka Goyal"
+    ],
+    "doi": "10.1145/2889160.2889242",
+    "arxiv": "1605.06670",
+    "url": "https://arxiv.org/abs/1605.06670",
+    "fulltext_url": "https://arxiv.org/html/1605.06670",
+    "first_published": "2016-05-21",
+    "type": "conference_paper",
+    "verification": "original_fulltext_targeted",
+    "read_first": "3.4–3.6; 4.3; Table5",
+    "version": "v1",
+    "id": "doi:10.1145/2889160.2889242",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告，未独立复现；证据核验范围见同期笔记。",
+    "evidence": "方法与证据边界见同期笔记；不将有效响应率视为业务正确率。"
+  },
+  {
+    "title": "A Review on the Service Virtualisation and Its Structural Pillars",
+    "authors": [
+      "Zeinab Farahmandpour",
+      "Mehdi Seyedmahmoudian",
+      "Alex Stojcevski"
+    ],
+    "doi": "10.3390/app11052381",
+    "url": "https://www.mdpi.com/2076-3417/11/5/2381",
+    "fulltext_url": "https://www.mdpi.com/2076-3417/11/5/2381",
+    "first_published": "2021-03-08",
+    "type": "review",
+    "verification": "original_fulltext_targeted",
+    "read_first": "4; 5",
+    "id": "doi:10.3390/app11052381",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告，未独立复现；证据核验范围见同期笔记。",
+    "evidence": "方法与证据边界见同期笔记；不将有效响应率视为业务正确率。"
+  },
+  {
+    "title": "Agent Error Simulator: Fault Injection for Testing Recovery in Agentic Workflows",
+    "authors": [
+      "Keith Bateman",
+      "Jaime Cernuda Garcia",
+      "Luke Logan",
+      "Bogdan Nicolae",
+      "Franck Cappello",
+      "Xian-He Sun",
+      "Anthony Kougkas"
+    ],
+    "doi": "10.1109/eScience70237.2026.00052",
+    "url": "https://grc.iit.edu/gnosis/publications/bateman-2026-agent-error-simulator-3c7d/",
+    "fulltext_url": "https://cs.iit.edu/~scs/assets/files/bateman2026agenterrorsimulator.pdf",
+    "type": "conference_paper",
+    "verification": "original_pdf_indexed_abstract_introduction_only",
+    "read_first": "Introduction integration workflow; then experimental baseline/injection tables (not verified this run)",
+    "id": "doi:10.1109/escience70237.2026.00052",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-15.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "作者报告，未独立复现；证据核验范围见同期笔记。",
+    "evidence": "方法与证据边界见同期笔记；不将有效响应率视为业务正确率。"
   }
 ]

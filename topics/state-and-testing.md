@@ -174,3 +174,6 @@
 - [CRAB-Bench: Evaluating LLM Agents under Complex Task Dependencies and Human-aligned User Simulation](https://arxiv.org/abs/2606.01815) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
 
 - [From Business Requirements to Test Assertions: Evaluating LLM-Generated Oracles on Real Bugs](https://arxiv.org/abs/2607.10277) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
+- [Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems](https://arxiv.org/abs/1605.06670) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
+- [A Review on the Service Virtualisation and Its Structural Pillars](https://www.mdpi.com/2076-3417/11/5/2381) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
+- [Agent Error Simulator: Fault Injection for Testing Recovery in Agentic Workflows](https://grc.iit.edu/gnosis/publications/bateman-2026-agent-error-simulator-3c7d/) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
