@@ -189,3 +189,6 @@
 | [Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems](https://arxiv.org/abs/1605.06670) | Steve Versteeg; Miao Du; Jean-Guy Schneider; John Grundy; Jun Han; Menka Goyal | 2016-05-21 | conference_paper |
 | [A Review on the Service Virtualisation and Its Structural Pillars](https://www.mdpi.com/2076-3417/11/5/2381) | Zeinab Farahmandpour; Mehdi Seyedmahmoudian; Alex Stojcevski | 2021-03-08 | review |
 | [Agent Error Simulator: Fault Injection for Testing Recovery in Agentic Workflows](https://grc.iit.edu/gnosis/publications/bateman-2026-agent-error-simulator-3c7d/) | Keith Bateman; Jaime Cernuda Garcia; Luke Logan; Bogdan Nicolae; Franck Cappello; Xian-He Sun; Anthony Kougkas | — | conference_paper |
+| [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) | Shereen Anand; Ju Wang; Yali Du | 2026-11-02 | research paper |
+| [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747) | Andreas Schlapbach | 2026-03-25 | research paper |
+| [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) | Hasan Ferit Enişer; Alper Şen | 2018 | research paper |

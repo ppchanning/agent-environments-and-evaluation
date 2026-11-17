@@ -3884,5 +3884,58 @@
     "provenance": "ai-assisted-literature-notes",
     "limitations": "作者报告，未独立复现；证据核验范围见同期笔记。",
     "evidence": "方法与证据边界见同期笔记；不将有效响应率视为业务正确率。"
+  },
+  {
+    "title": "What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows",
+    "authors": [
+      "Shereen Anand",
+      "Ju Wang",
+      "Yali Du"
+    ],
+    "arxiv": "2611.03227",
+    "url": "https://arxiv.org/abs/2611.03227",
+    "id": "arxiv:2611.03227",
+    "first_published": "2026-11-02",
+    "evidence": "作者在可执行寄存器环境中分别改变依赖、缓存与候选检查预算。主实验使用人工参考控制器；状态由历史可恢复与每步直接展示是不同的信息条件。确定性记忆任务可因余数表示或预计算计划而变得可解。",
+    "limitations": "适合诊断仿真任务的难度变量；不是真实服务重建，也不是大模型能力排行榜。预算与预处理成本需明确。",
+    "read_first": "§3.3；§7.2—7.3",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach",
+    "authors": [
+      "Andreas Schlapbach"
+    ],
+    "arxiv": "2603.24747",
+    "url": "https://arxiv.org/abs/2603.24747",
+    "id": "arxiv:2603.24747",
+    "first_published": "2026-03-25",
+    "evidence": "v3用进程演算比较对话与工具调用的可观察行为，提出参数语义、动作边界、错误恢复和工具关系四类扩展。批准和依赖规则需要进入执行语义，只有schema不能保证恢复这些行为。",
+    "limitations": "结论适用于所建可执行片段，排除Resource与Prompt，没有真实服务器经验实验。语义密度启发式不是文档正确性证书；额外元数据改变了比较的信息条件。",
+    "read_first": "§5.4；§6.3—6.4；§7.1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Stateful Service Virtualization",
+    "authors": [
+      "Hasan Ferit Enişer",
+      "Alper Şen"
+    ],
+    "url": "https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf",
+    "id": "url:https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf",
+    "first_published": "2018",
+    "evidence": "2018会议版本用RIPPER字段预测及字符编码器解码器，根据请求和历史生成响应。航空订票和Google Calendar各有400条十步交互序列；比较历史窗口与EFSM推断方法。",
+    "limitations": "字段匹配与整串匹配衡量响应预测，不能解释为整条任务成功。日期时间存在不可预测因素；没有恢复完整后台状态，长序列自主滚动可能累积错误。不混入后来期刊版本结果。",
+    "read_first": "§3.2—3.3；§4.2；表1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-16.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

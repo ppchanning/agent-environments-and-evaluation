@@ -177,3 +177,6 @@
 - [Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems](https://arxiv.org/abs/1605.06670) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
 - [A Review on the Service Virtualisation and Its Structural Pillars](https://www.mdpi.com/2076-3417/11/5/2381) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
 - [Agent Error Simulator: Fault Injection for Testing Recovery in Agentic Workflows](https://grc.iit.edu/gnosis/publications/bateman-2026-agent-error-simulator-3c7d/) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
+- [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
+- [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
+- [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)

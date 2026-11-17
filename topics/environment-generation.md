@@ -115,3 +115,4 @@
 - [CRAB-Bench: Evaluating LLM Agents under Complex Task Dependencies and Human-aligned User Simulation](https://arxiv.org/abs/2606.01815) · [阅读笔记](../digests/agent-environments/2026/2026-11-14.md)
 - [Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems](https://arxiv.org/abs/1605.06670) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
 - [A Review on the Service Virtualisation and Its Structural Pillars](https://www.mdpi.com/2076-3417/11/5/2381) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
+- [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
