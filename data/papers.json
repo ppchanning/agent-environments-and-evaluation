@@ -3937,5 +3937,61 @@
       "digests/agent-environments/2026/2026-11-16.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2611.19871",
+    "title": "Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning",
+    "authors": [
+      "Peng Yu",
+      "Luoyi Fu",
+      "Xinbing Wang",
+      "Ying Wen"
+    ],
+    "arxiv": "2611.19871",
+    "url": "https://arxiv.org/abs/2611.19871",
+    "first_published": "2026-11-15",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_targeted_fulltext",
+    "read_first": "附录B.2与B.5、§2.2",
+    "evidence": [
+      "RISE研究知识图谱问答中环境候选裁剪造成的测量偏差。作者报告，仅用节点度数、不看问题的启发式也能达到33.27% Hit@10；该指标是答案进入前十候选的比例，提示局部子图可能提供捷径。",
+      "系统改用未按问题裁剪的完整图谱，经查询适配器返回有上限的结构化结果，明确区分空结果、截断与超时，并报告剩余调用数。答案奖励要求实体出现在本轮检索回执。环境构建者可据此检查候选泄露与错误语义。"
+    ],
+    "limitations": "证据范围：本次来源核验聚焦环境契约及泄露诊断，未逐项复核19项基准的主结果。完整已知图谱与有限轨迹重建服务的信息条件不同，不能把前者写成服务仿真重建。先读附录B.2、B.5及§2.2。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2603.23852",
+    "title": "APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs",
+    "authors": [
+      "Yanjing Yang",
+      "Chenxing Zhong",
+      "Ke Han",
+      "Zeru Cheng",
+      "Jinwei Xu",
+      "Xin Zhou",
+      "He Zhang",
+      "Bohan Liu"
+    ],
+    "arxiv": "2603.23852",
+    "url": "https://arxiv.org/abs/2603.23852",
+    "first_published": "2026-03-25",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "original_metadata_and_targeted_fulltext",
+    "read_first": "§III与§IV-E",
+    "evidence": [
+      "APISensor从运行流量发现Web API，先过滤非API请求、规范化动态路径，再按结构和语义两阶段分组。它恢复的是接口表示，属于服务仿真上游的信息整理方法，没有生成可持续交互的服务副本。",
+      "作者在六个本地部署Web应用的逾万条请求上加入受控噪声，与十种基线比较，报告平均分组精确率95.92%、F1 94.91%。参考标签由源码及公开文档人工标注，方法输入仍为流量，标注权限不等于方法权限。"
+    ],
+    "limitations": "证据边界：这些指标不衡量响应内容、状态转移或长任务成功；受控噪声未必代表混合网关流量，过滤缺少Content-Type的请求可能丢失稀有失败。先读§III、§IV-E。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-18.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

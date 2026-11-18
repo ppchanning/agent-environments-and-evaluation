@@ -4,5 +4,5 @@
 
 - [仿真环境构建与生成](environment-generation.md) — 96 条相关资料
 - [状态与行为保真](state-and-testing.md) — 153 条相关资料
-- [工具接口与服务仿真](tool-protocols.md) — 117 条相关资料
-- [仿真可信度与执行评测](agent-evaluation.md) — 165 条相关资料
+- [工具接口与服务仿真](tool-protocols.md) — 119 条相关资料
+- [仿真可信度与执行评测](agent-evaluation.md) — 167 条相关资料

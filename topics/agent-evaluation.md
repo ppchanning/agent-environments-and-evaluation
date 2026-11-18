@@ -193,3 +193,8 @@
 - [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
 - [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
 - [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
+
+## 2026-11-18
+
+- [Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning](https://arxiv.org/abs/2611.19871) — [方法与证据边界](../digests/agent-environments/2026/2026-11-18.md)
+- [APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs](https://arxiv.org/abs/2603.23852) — [方法与证据边界](../digests/agent-environments/2026/2026-11-18.md)

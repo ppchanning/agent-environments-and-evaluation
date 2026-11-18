@@ -192,3 +192,5 @@
 | [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) | Shereen Anand; Ju Wang; Yali Du | 2026-11-02 | research paper |
 | [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747) | Andreas Schlapbach | 2026-03-25 | research paper |
 | [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) | Hasan Ferit Enişer; Alper Şen | 2018 | research paper |
+| [Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning](https://arxiv.org/abs/2611.19871) | Peng Yu; Luoyi Fu; Xinbing Wang; Ying Wen | 2026-11-15 | preprint |
+| [APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs](https://arxiv.org/abs/2603.23852) | Yanjing Yang; Chenxing Zhong; Ke Han; Zeru Cheng; Jinwei Xu; Xin Zhou; He Zhang; Bohan Liu | 2026-03-25 | preprint |
