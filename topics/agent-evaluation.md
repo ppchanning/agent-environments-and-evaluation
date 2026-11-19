@@ -198,3 +198,9 @@
 
 - [Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning](https://arxiv.org/abs/2611.19871) — [方法与证据边界](../digests/agent-environments/2026/2026-11-18.md)
 - [APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs](https://arxiv.org/abs/2603.23852) — [方法与证据边界](../digests/agent-environments/2026/2026-11-18.md)
+
+- [CAREFUL-Bench: Effect-Aware, Judge-Free Evaluation of Multi-Turn LLM Function Calling](https://arxiv.org/abs/2611.02978) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)
+
+- [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](https://arxiv.org/abs/2611.17460) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)
+
+- [GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic](https://deploymentsafety.openai.com/gpt-6-2-astra-sol) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)

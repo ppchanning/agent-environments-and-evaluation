@@ -116,3 +116,5 @@
 - [Opaque Service Virtualisation: A Practical Tool for Emulating Endpoint Systems](https://arxiv.org/abs/1605.06670) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
 - [A Review on the Service Virtualisation and Its Structural Pillars](https://www.mdpi.com/2076-3417/11/5/2381) · [阅读笔记](../digests/agent-environments/2026/2026-11-15.md)
 - [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
+
+- [GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic](https://deploymentsafety.openai.com/gpt-6-2-astra-sol) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)

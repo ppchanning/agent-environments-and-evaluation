@@ -180,3 +180,9 @@
 - [What Structurally Breaks an Agent? Auditing Difficulty in Stateful Tool-Use Workflows](https://arxiv.org/abs/2611.03227) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
 - [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
 - [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-16.md)
+
+- [CAREFUL-Bench: Effect-Aware, Judge-Free Evaluation of Multi-Turn LLM Function Calling](https://arxiv.org/abs/2611.02978) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)
+
+- [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](https://arxiv.org/abs/2611.17460) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)
+
+- [GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic](https://deploymentsafety.openai.com/gpt-6-2-astra-sol) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)

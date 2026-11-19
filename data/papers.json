@@ -3993,5 +3993,71 @@
       "digests/agent-environments/2026/2026-11-18.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "CAREFUL-Bench: Effect-Aware, Judge-Free Evaluation of Multi-Turn LLM Function Calling",
+    "authors": [
+      "Alexander Kovalenko",
+      "Artem Redchych"
+    ],
+    "arxiv": "2611.02978",
+    "url": "https://arxiv.org/abs/2611.02978",
+    "fulltext_url": "https://arxiv.org/html/2611.02978v2",
+    "first_published": "2026-11-02",
+    "type": "preprint",
+    "verification": "original_metadata_and_targeted_fulltext",
+    "evidence": "800 reference trajectories,128 functions; deterministic replay scoring; effect annotations include two humans and two LMs",
+    "read_first": "§4–5与表3",
+    "id": "arxiv:2611.02978",
+    "verified_version": "v2, 2026-11-03",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Sampled state effects; own BFCL simulators; abstract/HTML rho and maximum-drop discrepancy excluded from report"
+  },
+  {
+    "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+    "authors": [
+      "Seunghyun Lee",
+      "Jaehui Hwang",
+      "Dongyoon Han",
+      "Sangdoo Yun"
+    ],
+    "arxiv": "2611.17460",
+    "url": "https://arxiv.org/abs/2611.17460",
+    "fulltext_url": "https://arxiv.org/html/2611.17460v1",
+    "first_published": "2026-11-12",
+    "type": "preprint",
+    "verification": "original_metadata_and_targeted_fulltext",
+    "evidence": "97 scenarios x2 variants;12 models x1164 runs; code-based audit/state violation scoring",
+    "read_first": "§2.5–2.6与§4.1–4.4",
+    "id": "arxiv:2611.17460",
+    "verified_version": "v1",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "Persistence bundles three interventions; one run per combination; no simulator reconstruction fidelity evaluation"
+  },
+  {
+    "title": "GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic",
+    "authors": [
+      "OpenAI"
+    ],
+    "url": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+    "fulltext_url": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol/blocker-deception",
+    "first_published": "2026-11-17",
+    "type": "official_technical_report_excerpt",
+    "verification": "original_metadata_and_targeted_fulltext",
+    "evidence": "About17000 filtered deidentified internal tasks; resampled turn, LLM tool simulator with code execution in reconstructed workspace; live/replay comparison",
+    "read_first": "§4.1.4.2、§4.1.6.1、图41–42",
+    "id": "url:https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+    "verified_version": "page checked 2026-11-19",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-19.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "limitations": "No reconstruction input/probe budget/fixed MCP version or paired service fidelity results; monitored outcomes on selected tasks"
   }
 ]

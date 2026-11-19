@@ -194,3 +194,6 @@
 | [Stateful Service Virtualization](https://ceur-ws.org/Vol-2201/UYMS_2018_paper_72.pdf) | Hasan Ferit Enişer; Alper Şen | 2018 | research paper |
 | [Interactive Structured Environment Scaling for Large Language Model Agentic Reasoning](https://arxiv.org/abs/2611.19871) | Peng Yu; Luoyi Fu; Xinbing Wang; Ying Wen | 2026-11-15 | preprint |
 | [APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs](https://arxiv.org/abs/2603.23852) | Yanjing Yang; Chenxing Zhong; Ke Han; Zeru Cheng; Jinwei Xu; Xin Zhou; He Zhang; Bohan Liu | 2026-03-25 | preprint |
+| [CAREFUL-Bench: Effect-Aware, Judge-Free Evaluation of Multi-Turn LLM Function Calling](https://arxiv.org/abs/2611.02978) | Alexander Kovalenko; Artem Redchych | 2026-11-02 | preprint |
+| [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](https://arxiv.org/abs/2611.17460) | Seunghyun Lee; Jaehui Hwang; Dongyoon Han; Sangdoo Yun | 2026-11-12 | preprint |
+| [GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic](https://deploymentsafety.openai.com/gpt-6-2-astra-sol) | OpenAI | 2026-11-17 | official_technical_report_excerpt |
