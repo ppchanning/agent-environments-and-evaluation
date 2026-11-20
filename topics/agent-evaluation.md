@@ -204,3 +204,9 @@
 - [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](https://arxiv.org/abs/2611.17460) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)
 
 - [GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic](https://deploymentsafety.openai.com/gpt-6-2-astra-sol) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)
+
+- [Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web](https://blog.google/security/mirror-dimension-for-agents/) · [阅读笔记](../digests/agent-environments/2026/2026-11-20.md)
+
+- [Agentic World Modeling for Agent Test-time Scaling without Environment Replica](https://arxiv.org/abs/2610.40927) · [阅读笔记](../digests/agent-environments/2026/2026-11-20.md)
+
+- [From the Wild Web to the Zoo: A Realistic Environment for Evaluating Web Agents](https://research.mozilla.org/files/2026/06/from_the_wild_web_to_the_zoo.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-20.md)

@@ -197,3 +197,6 @@
 | [CAREFUL-Bench: Effect-Aware, Judge-Free Evaluation of Multi-Turn LLM Function Calling](https://arxiv.org/abs/2611.02978) | Alexander Kovalenko; Artem Redchych | 2026-11-02 | preprint |
 | [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](https://arxiv.org/abs/2611.17460) | Seunghyun Lee; Jaehui Hwang; Dongyoon Han; Sangdoo Yun | 2026-11-12 | preprint |
 | [GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic](https://deploymentsafety.openai.com/gpt-6-2-astra-sol) | OpenAI | 2026-11-17 | official_technical_report_excerpt |
+| [Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web](https://blog.google/security/mirror-dimension-for-agents/) | Aaron Selya; Charles Qian | 2026-11-19 | official_technical_article |
+| [Agentic World Modeling for Agent Test-time Scaling without Environment Replica](https://arxiv.org/abs/2610.40927) | Wendi Li; Huseyin A. Inan; Wei-Ning Chen; Yanzhi Chen; Chetan Bansal; Saravan Rajmohan; Sharon Li | 2026-10-29 | preprint |
+| [From the Wild Web to the Zoo: A Realistic Environment for Evaluating Web Agents](https://research.mozilla.org/files/2026/06/from_the_wild_web_to_the_zoo.pdf) | Brian Grinstead; Christoph Kerschbaumer; Mariana Meireles; Cameron Allen | 2026-02-27 | conference_work_in_progress |
