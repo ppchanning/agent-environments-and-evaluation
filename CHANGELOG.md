@@ -19,6 +19,10 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 - **2026-11-10** — Added [5 research resources](digests/agent-environments/2026/2026-11-10.md); 0 backfilled issues. State propagation, read-after-write and time-driven events; 0 revisions.
 - **2026-11-09** — Added [5 research resources](digests/agent-environments/2026/2026-11-09.md); 0 backfills. Check scoring coverage and evidence acquisition separately.
 
+## 2026-11-21
+
+- **2026-11-21** — Added [3 research resources](digests/agent-environments/2026/2026-11-21.md); 0 revisions or backfilled issues. Behavior recreation, deterministic data and layered validation.
+
 ## 2026-11-08
 
 - **2026-11-08** — Added [5 research resources](digests/agent-environments/2026/2026-11-08.md); 0 revisions, 0 backfills. Environment construction and evaluation evidence.

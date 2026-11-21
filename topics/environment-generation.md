@@ -124,3 +124,7 @@
 - [Agentic World Modeling for Agent Test-time Scaling without Environment Replica](https://arxiv.org/abs/2610.40927) · [阅读笔记](../digests/agent-environments/2026/2026-11-20.md)
 
 - [From the Wild Web to the Zoo: A Realistic Environment for Evaluating Web Agents](https://research.mozilla.org/files/2026/06/from_the_wild_web_to_the_zoo.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-20.md)
+
+- [SWE-Recreation: Benchmarking Coding Agents for Software Recreation](https://arxiv.org/abs/2611.26311) — [阅读笔记](../digests/agent-environments/2026/2026-11-21.md)
+- [Frontier and Center: Why your data agents need a “wind tunnel”](https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents) — [阅读笔记](../digests/agent-environments/2026/2026-11-21.md)
+- [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](https://arxiv.org/abs/2611.21579) — [阅读笔记](../digests/agent-environments/2026/2026-11-21.md)

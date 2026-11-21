@@ -200,3 +200,7 @@
 | [Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web](https://blog.google/security/mirror-dimension-for-agents/) | Aaron Selya; Charles Qian | 2026-11-19 | official_technical_article |
 | [Agentic World Modeling for Agent Test-time Scaling without Environment Replica](https://arxiv.org/abs/2610.40927) | Wendi Li; Huseyin A. Inan; Wei-Ning Chen; Yanzhi Chen; Chetan Bansal; Saravan Rajmohan; Sharon Li | 2026-10-29 | preprint |
 | [From the Wild Web to the Zoo: A Realistic Environment for Evaluating Web Agents](https://research.mozilla.org/files/2026/06/from_the_wild_web_to_the_zoo.pdf) | Brian Grinstead; Christoph Kerschbaumer; Mariana Meireles; Cameron Allen | 2026-02-27 | conference_work_in_progress |
+
+| [SWE-Recreation: Benchmarking Coding Agents for Software Recreation](https://arxiv.org/abs/2611.26311) | — | 2026-11-19 | preprint |
+| [Frontier and Center: Why your data agents need a “wind tunnel”](https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents) | — | 2026-11-21 | official_technical_article |
+| [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](https://arxiv.org/abs/2611.21579) | — | 2026-11-16 | preprint |
