@@ -4168,5 +4168,43 @@
       "digests/agent-environments/2026/2026-11-21.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "RESTberus: Trace-Aware Benchmarking of Automated REST API Testing Tools Across Microservice Dependencies",
+    "arxiv": "2611.04769",
+    "url": "https://arxiv.org/abs/2611.04769",
+    "fulltext_url": "https://arxiv.org/html/2611.04769v1",
+    "verification": "original_fulltext_key_sections",
+    "version": "v1",
+    "version_date": "2026-11-03",
+    "id": "arxiv:2611.04769",
+    "first_published": "2026-11-03",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "真实微服务部署与跨服务轨迹辅助失败归并；六工具、两个系统，每组合十次，每次一万HTTP请求。21,997对模型标签准确率87.1%，346对人工校准92.2%。",
+    "limitations": "不是模拟器；失败归并准确率不等于缺陷召回率或根因数，内部插桩成本另计。",
+    "read_first": "先读III-D与表I，核清有／无轨迹分别如何归并，以及人工校准与模型标签的区别。"
+  },
+  {
+    "title": "SynthTools: A Framework for Scaling Synthetic Tools for Agent Development",
+    "arxiv": "2511.09572",
+    "url": "https://arxiv.org/abs/2511.09572",
+    "fulltext_url": "https://arxiv.org/html/2511.09572v2",
+    "verification": "original_fulltext_key_sections",
+    "version": "v2",
+    "version_date": "2026-05-26",
+    "id": "arxiv:2511.09572",
+    "first_published": "2025-11-11",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-22.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "语言模型按工具约束与任务元数据模拟响应，逐步构造可解工具链。ACEBench 20工具161次调用中151次与参考一致；另有200响应人工检查约94%。",
+    "limitations": "合成任务可解性和训练收益不证明固定参考实现保真；认证与参数检查顺序存在差异。",
+    "read_first": "先读4.1.1及5，辨清161次实现对照的覆盖范围与逐步任务状态是怎样构造的。"
   }
 ]

@@ -196,3 +196,5 @@
 - [SWE-Recreation: Benchmarking Coding Agents for Software Recreation](https://arxiv.org/abs/2611.26311) — [阅读笔记](../digests/agent-environments/2026/2026-11-21.md)
 - [Frontier and Center: Why your data agents need a “wind tunnel”](https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents) — [阅读笔记](../digests/agent-environments/2026/2026-11-21.md)
 - [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](https://arxiv.org/abs/2611.21579) — [阅读笔记](../digests/agent-environments/2026/2026-11-21.md)
+- [RESTberus: Trace-Aware Benchmarking of Automated REST API Testing Tools Across Microservice Dependencies](https://arxiv.org/abs/2611.04769) · [阅读笔记](../digests/agent-environments/2026/2026-11-22.md)
+- [SynthTools: A Framework for Scaling Synthetic Tools for Agent Development](https://arxiv.org/abs/2511.09572) · [阅读笔记](../digests/agent-environments/2026/2026-11-22.md)

@@ -21,6 +21,7 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 
 ## 2026-11-21
 
+- **2026-11-22** — Added [2 research resources](digests/agent-environments/2026/2026-11-22.md); 0 revisions or backfilled issues. Trace-aware failure counts and synthetic tool validation.
 - **2026-11-21** — Added [3 research resources](digests/agent-environments/2026/2026-11-21.md); 0 revisions or backfilled issues. Behavior recreation, deterministic data and layered validation.
 
 ## 2026-11-08
