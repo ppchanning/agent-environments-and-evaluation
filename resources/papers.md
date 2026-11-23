@@ -206,3 +206,4 @@
 | [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](https://arxiv.org/abs/2611.21579) | — | 2026-11-16 | preprint |
 | [RESTberus: Trace-Aware Benchmarking of Automated REST API Testing Tools Across Microservice Dependencies](https://arxiv.org/abs/2611.04769) | — | 2026-11-03 | preprint |
 | [SynthTools: A Framework for Scaling Synthetic Tools for Agent Development](https://arxiv.org/abs/2511.09572) | — | 2025-11-11 | preprint |
+| [MIRAGE: Online LLM Simulation for Microservice Dependency Testing](https://arxiv.org/abs/2604.04806) | — | 2026-04-06 | preprint |

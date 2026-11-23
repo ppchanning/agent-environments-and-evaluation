@@ -216,3 +216,5 @@
 - [ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises](https://arxiv.org/abs/2611.21579) — [阅读笔记](../digests/agent-environments/2026/2026-11-21.md)
 - [RESTberus: Trace-Aware Benchmarking of Automated REST API Testing Tools Across Microservice Dependencies](https://arxiv.org/abs/2611.04769) · [阅读笔记](../digests/agent-environments/2026/2026-11-22.md)
 - [SynthTools: A Framework for Scaling Synthetic Tools for Agent Development](https://arxiv.org/abs/2511.09572) · [阅读笔记](../digests/agent-environments/2026/2026-11-22.md)
+
+- [MIRAGE: Online LLM Simulation for Microservice Dependency Testing](https://arxiv.org/abs/2604.04806) · [阅读笔记](../digests/agent-environments/2026/2026-11-23.md)

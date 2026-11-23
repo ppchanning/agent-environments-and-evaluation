@@ -6,6 +6,8 @@
 
 Earlier entries follow material dates, backfilled at the repository launch on **2026-10-10**. These dates describe existing material, rather than earlier GitHub publication. Counts refer to unique entries linked to each issue in the structured catalogs, not first-time additions. Older digests without catalog entries are counted as issues only. Missing dates have no invented activity.
 
+- **2026-11-23** — Added [1 paper](digests/agent-environments/2026/2026-11-23.md); 0 revisions or backfilled issues. Runtime service simulation and source visibility.
+
 - **2026-11-20** — Added [3 research resources](digests/agent-environments/2026/2026-11-20.md); 0 revisions or backfilled issues. Synthetic websites, online evidence and application resets.
 - **2026-11-19** — Added [3 research resources](digests/agent-environments/2026/2026-11-19.md); 0 revisions or backfilled issues. State effects, rule violations and deployment replay.
 - **2026-11-18** — Added [2 research resources](digests/agent-environments/2026/2026-11-18.md); 0 revisions or backfilled issues. Candidate leakage, empty-result semantics and API discovery.

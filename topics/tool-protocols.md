@@ -149,3 +149,5 @@
 - [GPT-6.2 System Card — Deployment Simulation of Internal Codex Traffic](https://deploymentsafety.openai.com/gpt-6-2-astra-sol) · [阅读笔记](../digests/agent-environments/2026/2026-11-19.md)
 - [RESTberus: Trace-Aware Benchmarking of Automated REST API Testing Tools Across Microservice Dependencies](https://arxiv.org/abs/2611.04769) · [阅读笔记](../digests/agent-environments/2026/2026-11-22.md)
 - [SynthTools: A Framework for Scaling Synthetic Tools for Agent Development](https://arxiv.org/abs/2511.09572) · [阅读笔记](../digests/agent-environments/2026/2026-11-22.md)
+
+- [MIRAGE: Online LLM Simulation for Microservice Dependency Testing](https://arxiv.org/abs/2604.04806) · [阅读笔记](../digests/agent-environments/2026/2026-11-23.md)

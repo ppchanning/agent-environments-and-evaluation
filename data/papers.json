@@ -4206,5 +4206,24 @@
     "evidence": "语言模型按工具约束与任务元数据模拟响应，逐步构造可解工具链。ACEBench 20工具161次调用中151次与参考一致；另有200响应人工检查约94%。",
     "limitations": "合成任务可解性和训练收益不证明固定参考实现保真；认证与参数检查顺序存在差异。",
     "read_first": "先读4.1.1及5，辨清161次实现对照的覆盖范围与逐步任务状态是怎样构造的。"
+  },
+  {
+    "title": "MIRAGE: Online LLM Simulation for Microservice Dependency Testing",
+    "arxiv": "2604.04806",
+    "url": "https://arxiv.org/abs/2604.04806",
+    "fulltext_url": "https://arxiv.org/html/2604.04806v4",
+    "version_date": "2026-06-26",
+    "verification": "original_fulltext_key_sections",
+    "id": "arxiv:2604.04806",
+    "first_published": "2026-04-06",
+    "type": "preprint",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-23.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "evidence": "三个系统14组调用方—依赖关系、110场景；三次重复，白盒值层面平均通过率93%，黑盒18%，按14组等权平均。",
+    "limitations": "摘要与v4 HTML题名及指标不同，PDF尚未对齐；最佳设置可读依赖源码，运行时继续调用模型；不证明内部副作用一致。",
+    "read_first": "先读III-A、III-F与表III，检查值判定、分母和源码可见条件。",
+    "verified_version": "v4"
   }
 ]
