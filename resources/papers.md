@@ -207,3 +207,6 @@
 | [RESTberus: Trace-Aware Benchmarking of Automated REST API Testing Tools Across Microservice Dependencies](https://arxiv.org/abs/2611.04769) | — | 2026-11-03 | preprint |
 | [SynthTools: A Framework for Scaling Synthetic Tools for Agent Development](https://arxiv.org/abs/2511.09572) | — | 2025-11-11 | preprint |
 | [MIRAGE: Online LLM Simulation for Microservice Dependency Testing](https://arxiv.org/abs/2604.04806) | — | 2026-04-06 | preprint |
+
+| [Protocol-Independent Adaptive Replay of Application Dialog](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/roleplayer-ndss06.pdf) | Weidong Cui; Vern Paxson; Nicholas C. Weaver; Randy H. Katz | 2006 | conference_paper |
+| [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) | Edesio Alcobaça et al. | 2026-09-24 | preprint |

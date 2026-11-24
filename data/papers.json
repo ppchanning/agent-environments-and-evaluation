@@ -4225,5 +4225,43 @@
     "limitations": "摘要与v4 HTML题名及指标不同，PDF尚未对齐；最佳设置可读依赖源码，运行时继续调用模型；不证明内部副作用一致。",
     "read_first": "先读III-A、III-F与表III，检查值判定、分母和源码可见条件。",
     "verified_version": "v4"
+  },
+  {
+    "id": "url:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/roleplayer-ndss06.pdf",
+    "title": "Protocol-Independent Adaptive Replay of Application Dialog",
+    "authors": "Weidong Cui; Vern Paxson; Nicholas C. Weaver; Randy H. Katz",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/roleplayer-ndss06.pdf",
+    "first_published": "2006",
+    "type": "conference_paper",
+    "evidence": "RolePlayer对齐示例字节对话，识别地址、端口、长度和会话标识，并按新会话动态替换。在隔离虚拟机网络中，作者报告SMTP、DNS、HTTP、TFTP、FTP、NFS、CIFS具体示例的客户端和服务端角色均可重放。",
+    "limitations": "具体对话完成不等于恢复任意服务逻辑；不支持对话分支，需要可对齐示例。网络字节启发式并非现成结构化工具模拟器。",
+    "read_first": "§4与表1，再读§2缺少分支的限制。",
+    "verification": "original_fulltext_targeted_sections",
+    "verified_at": "2026-11-24",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2609.30137",
+    "title": "Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale",
+    "authors": "Edesio Alcobaça et al.",
+    "arxiv": "2609.30137",
+    "url": "https://arxiv.org/abs/2609.30137",
+    "fulltext_url": "https://arxiv.org/html/2609.30137v2",
+    "first_published": "2026-09-24",
+    "verified_version": "v2",
+    "version_date": "2026-11-05",
+    "type": "preprint",
+    "evidence": "合成客户和工具边界模拟在固定情景下比较候选策略，达门槛再进入线上A/B。四个已部署版本各有1000真实对话与250模拟轨迹用于诊断；线上Card Management相对Card Delivery自助解决率提高4.90个百分点，27.8K会话、95%区间[4.08,5.71]。",
+    "limitations": "有状态合成响应要求对话一致，实际后端持久状态与副作用不测试；部分只读检索保持真实。线上版本差异不能全部归因于模拟，4版本不足以证明普遍排序可靠，140M不是A/B样本数。",
+    "read_first": "Algorithm 1、§5.4与表2；未逐版本比较，不声称v2新增结果。",
+    "verification": "original_fulltext_targeted_sections",
+    "verified_at": "2026-11-24",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-24.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

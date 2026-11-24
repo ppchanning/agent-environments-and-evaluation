@@ -131,3 +131,6 @@
 - [SynthTools: A Framework for Scaling Synthetic Tools for Agent Development](https://arxiv.org/abs/2511.09572) · [阅读笔记](../digests/agent-environments/2026/2026-11-22.md)
 
 - [MIRAGE: Online LLM Simulation for Microservice Dependency Testing](https://arxiv.org/abs/2604.04806) · [阅读笔记](../digests/agent-environments/2026/2026-11-23.md)
+
+- [Protocol-Independent Adaptive Replay of Application Dialog](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/roleplayer-ndss06.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
+- [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
