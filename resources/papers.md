@@ -210,3 +210,5 @@
 
 | [Protocol-Independent Adaptive Replay of Application Dialog](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/roleplayer-ndss06.pdf) | Weidong Cui; Vern Paxson; Nicholas C. Weaver; Randy H. Katz | 2006 | conference_paper |
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) | Edesio Alcobaça et al. | 2026-09-24 | preprint |
+
+| [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](https://arxiv.org/abs/2606.16576) | Reef Menaged; Gili Lior; Shauli Ravfogel; Roee Aharoni; Gabriel Stanovsky | 2026-06-15 | preprint |

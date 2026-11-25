@@ -134,3 +134,5 @@
 
 - [Protocol-Independent Adaptive Replay of Application Dialog](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/roleplayer-ndss06.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
 - [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
+
+- [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](https://arxiv.org/abs/2606.16576) · [阅读笔记](../digests/agent-environments/2026/2026-11-25.md)

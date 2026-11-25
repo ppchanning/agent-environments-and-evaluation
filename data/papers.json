@@ -4263,5 +4263,26 @@
       "digests/agent-environments/2026/2026-11-24.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "title": "Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning",
+    "arxiv": "2606.16576",
+    "url": "https://arxiv.org/abs/2606.16576",
+    "version_date": "2026-09-27",
+    "first_published": "2026-06-15",
+    "id": "arxiv:2606.16576",
+    "verified_version": "v2",
+    "type": "preprint",
+    "verification": "original_fulltext_targeted_sections",
+    "verified_at": "2026-11-25",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-25.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2606.16576v2",
+    "authors": "Reef Menaged; Gili Lior; Shauli Ravfogel; Roee Aharoni; Gabriel Stanovsky",
+    "evidence": "160目标，四档各40；8—9状态档各条件最高成功率30%与57.5%，非所有模型共同提升。",
+    "limitations": "等价查询可提供全局反例，强于真实服务反馈；学习器失败不证明信息论不足。",
+    "read_first": "表1、§4、§5.1。"
   }
 ]
