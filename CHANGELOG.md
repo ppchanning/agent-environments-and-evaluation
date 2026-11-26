@@ -25,6 +25,10 @@ Earlier entries follow material dates, backfilled at the repository launch on **
 - **2026-11-10** — Added [5 research resources](digests/agent-environments/2026/2026-11-10.md); 0 backfilled issues. State propagation, read-after-write and time-driven events; 0 revisions.
 - **2026-11-09** — Added [5 research resources](digests/agent-environments/2026/2026-11-09.md); 0 backfills. Check scoring coverage and evidence acquisition separately.
 
+## 2026-11-26
+
+- **2026-11-26** — Added [2 research resources](digests/agent-environments/2026/2026-11-26.md); 0 revisions or backfilled issues. Measurement feedback, interfaces and simulation evidence.
+
 ## 2026-11-21
 
 - **2026-11-22** — Added [2 research resources](digests/agent-environments/2026/2026-11-22.md); 0 revisions or backfilled issues. Trace-aware failure counts and synthetic tool validation.

@@ -205,3 +205,7 @@
 - [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
 
 - [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](https://arxiv.org/abs/2606.16576) · [阅读笔记](../digests/agent-environments/2026/2026-11-25.md)
+
+- [On Evaluating User Simulators for Interactive Agents](https://arxiv.org/abs/2611.24892) · [阅读笔记](../digests/agent-environments/2026/2026-11-26.md)
+
+- [Cleaning an Agent’s History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654) · [阅读笔记](../digests/agent-environments/2026/2026-11-26.md)

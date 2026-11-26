@@ -212,3 +212,5 @@
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) | Edesio Alcobaça et al. | 2026-09-24 | preprint |
 
 | [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](https://arxiv.org/abs/2606.16576) | Reef Menaged; Gili Lior; Shauli Ravfogel; Roee Aharoni; Gabriel Stanovsky | 2026-06-15 | preprint |
+| [On Evaluating User Simulators for Interactive Agents](https://arxiv.org/abs/2611.24892) | Hengguang Zhou; I-Hung Hsu; Li Chen; Priyanshi Shrivastava; Anastasios Angelopoulos; Wei-Lin Chiang; Ion Stoica; Cho-Jui Hsieh | 2026-11-18 | preprint |
+| [Cleaning an Agent’s History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654) | Egor Pakhomov; Anurag Koul; Hongjun Liu; Bo Pang; Shafiq Joty; Erik Nijkamp | 2026-11-10 | preprint |

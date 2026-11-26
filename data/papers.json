@@ -4284,5 +4284,43 @@
     "evidence": "160目标，四档各40；8—9状态档各条件最高成功率30%与57.5%，非所有模型共同提升。",
     "limitations": "等价查询可提供全局反例，强于真实服务反馈；学习器失败不证明信息论不足。",
     "read_first": "表1、§4、§5.1。"
+  },
+  {
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "arxiv": "2611.24892",
+    "url": "https://arxiv.org/abs/2611.24892",
+    "first_published": "2026-11-18",
+    "verification": "original metadata and PDF sections4–6 / detection criterion checked",
+    "id": "arxiv:2611.24892",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verified_at": "2026-11-26",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/pdf/2611.24892",
+    "authors": "Hengguang Zhou; I-Hung Hsu; Li Chen; Priyanshi Shrivastava; Anastasios Angelopoulos; Wei-Lin Chiang; Ion Stoica; Cho-Jui Hsieh",
+    "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
+    "read_first": "建议先读第4—6节及Figure 1，看清故障怎样注入、哪些指标能检出，以及“检出”的判定单位。"
+  },
+  {
+    "title": "Cleaning an Agent’s History Hurts When the World Still Holds the Error",
+    "arxiv": "2611.14654",
+    "url": "https://arxiv.org/abs/2611.14654",
+    "first_published": "2026-11-10",
+    "verification": "original metadata, sections3–6 and appendices A/C checked",
+    "id": "arxiv:2611.14654",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verified_at": "2026-11-26",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-26.md"
+    ],
+    "provenance": "ai-assisted-literature-notes",
+    "fulltext_url": "https://arxiv.org/html/2611.14654v1",
+    "authors": "Egor Pakhomov; Anurag Koul; Hongjun Liu; Bo Pang; Shafiq Joty; Erik Nijkamp",
+    "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
+    "read_first": "建议先读第4.3节与Figure 3，再读第6节，确认四种条件只改变什么，以及哪些结论依赖人为构造的矛盾。"
   }
 ]
