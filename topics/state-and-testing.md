@@ -209,3 +209,4 @@
 - [On Evaluating User Simulators for Interactive Agents](https://arxiv.org/abs/2611.24892) · [阅读笔记](../digests/agent-environments/2026/2026-11-26.md)
 
 - [Cleaning an Agent’s History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654) · [阅读笔记](../digests/agent-environments/2026/2026-11-26.md)
+- [TimeTravelContainer: A Live Forking Sandbox for Stateful Agent Exploration](https://arxiv.org/abs/2611.32255) · [阅读笔记](../digests/agent-environments/2026/2026-11-27.md)

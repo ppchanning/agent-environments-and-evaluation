@@ -4322,5 +4322,45 @@
     "authors": "Egor Pakhomov; Anurag Koul; Hongjun Liu; Bo Pang; Shafiq Joty; Erik Nijkamp",
     "limitations": "基于来源方法与关键实验的阅读整理，未完整核验全部补充材料，未独立复现。",
     "read_first": "建议先读第4.3节与Figure 3，再读第6节，确认四种条件只改变什么，以及哪些结论依赖人为构造的矛盾。"
+  },
+  {
+    "id": "arxiv:2611.33893",
+    "title": "When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction",
+    "arxiv": "2611.33893",
+    "url": "https://arxiv.org/abs/2611.33893",
+    "fulltext_url": "https://arxiv.org/html/2611.33893v1",
+    "authors": "Zhiheng Lyu; Chengyu Yin; Lingming Zhang",
+    "first_published": "2026-11-25",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "基于原始元数据和所述方法与结果整理",
+    "verified_at": "2026-11-27",
+    "evidence": "ProgramBench 在可探测的参考程序上研究可执行重建，最终用隐藏测试评分。表5中16项较难任务的 GPT-5.6 Sol 单代理平均通过比例为56.4%，并行子代理高8.8个百分点。先探测单代理高6.7个百分点，但只有15项可评分。相对标价成本分别增加275%和50%。",
+    "limitations": "GPT-6.1 Sol 对应变化为加2.8与减1.5个百分点。结果可帮助设计仿真基准的参考访问与预算对照，未验证远程服务复刻或状态隔离。",
+    "read_first": "先读第4节及表5，核对两种干预的参考访问、分母和成本。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2611.32255",
+    "title": "TimeTravelContainer: A Live Forking Sandbox for Stateful Agent Exploration",
+    "arxiv": "2611.32255",
+    "url": "https://arxiv.org/abs/2611.32255",
+    "fulltext_url": "https://arxiv.org/html/2611.32255v1",
+    "authors": "Zizheng Guo; Yanqing Zhang; Nathaniel Pinckney; Cunxi Yu; Brucek Khailany",
+    "first_published": "2026-11-24",
+    "verified_version": "v1",
+    "type": "preprint",
+    "verification": "基于原始元数据和所述方法与结果整理",
+    "verified_at": "2026-11-27",
+    "evidence": "TimeTravelContainer 从已初始化的运行环境分出分支，用真实 EDA 工具评估共享前缀。Ariane 案例中复制到工具就绪从86.5秒降到1.03秒，约84.1倍；六分支执行若干后续操作后，报告的合计内存从27.9GB降到12.2GB。",
+    "limitations": "Linux 测量没有调用语言模型，主要覆盖 EDA 工作负载。它支持比较真实状态分叉的成本，尚未衡量代理任务成功率或完整工具行为保真。",
+    "read_first": "先读第III节和第IV-B至IV-D节，区分工具就绪、执行后内存和代理端指标。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-27.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]

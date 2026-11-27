@@ -136,3 +136,4 @@
 - [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
 
 - [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](https://arxiv.org/abs/2606.16576) · [阅读笔记](../digests/agent-environments/2026/2026-11-25.md)
+- [TimeTravelContainer: A Live Forking Sandbox for Stateful Agent Exploration](https://arxiv.org/abs/2611.32255) · [阅读笔记](../digests/agent-environments/2026/2026-11-27.md)

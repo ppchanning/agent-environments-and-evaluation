@@ -214,3 +214,5 @@
 | [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](https://arxiv.org/abs/2606.16576) | Reef Menaged; Gili Lior; Shauli Ravfogel; Roee Aharoni; Gabriel Stanovsky | 2026-06-15 | preprint |
 | [On Evaluating User Simulators for Interactive Agents](https://arxiv.org/abs/2611.24892) | Hengguang Zhou; I-Hung Hsu; Li Chen; Priyanshi Shrivastava; Anastasios Angelopoulos; Wei-Lin Chiang; Ion Stoica; Cho-Jui Hsieh | 2026-11-18 | preprint |
 | [Cleaning an Agent’s History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654) | Egor Pakhomov; Anurag Koul; Hongjun Liu; Bo Pang; Shafiq Joty; Erik Nijkamp | 2026-11-10 | preprint |
+| [When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction](https://arxiv.org/abs/2611.33893) | Zhiheng Lyu; Chengyu Yin; Lingming Zhang | 2026-11-25 | preprint |
+| [TimeTravelContainer: A Live Forking Sandbox for Stateful Agent Exploration](https://arxiv.org/abs/2611.32255) | Zizheng Guo; Yanqing Zhang; Nathaniel Pinckney; Cunxi Yu; Brucek Khailany | 2026-11-24 | preprint |
