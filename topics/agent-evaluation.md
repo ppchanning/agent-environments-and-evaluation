@@ -229,3 +229,7 @@
 - [Cleaning an Agent’s History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654) · [阅读笔记](../digests/agent-environments/2026/2026-11-26.md)
 - [When Are Parallel Subagents Effective for Coding? An Empirical Study on Repository Construction](https://arxiv.org/abs/2611.33893) · [阅读笔记](../digests/agent-environments/2026/2026-11-27.md)
 - [TimeTravelContainer: A Live Forking Sandbox for Stateful Agent Exploration](https://arxiv.org/abs/2611.32255) · [阅读笔记](../digests/agent-environments/2026/2026-11-27.md)
+- [How we built the agents that built AWS Emulator](https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [Spec2Repo: Benchmarking Repository Construction against Behavioral Specifications](https://openenvision.org/Spec2Repo/) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [Evaluating More with Less: Black-Box Test Selection for AI Agents](https://arxiv.org/abs/2611.34617) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://arxiv.org/abs/2610.33568) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)

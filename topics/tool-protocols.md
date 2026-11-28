@@ -154,3 +154,7 @@
 
 - [Protocol-Independent Adaptive Replay of Application Dialog](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/roleplayer-ndss06.pdf) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
 - [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137) · [阅读笔记](../digests/agent-environments/2026/2026-11-24.md)
+- [How we built the agents that built AWS Emulator](https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [Spec2Repo: Benchmarking Repository Construction against Behavioral Specifications](https://openenvision.org/Spec2Repo/) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [LLM Agent Meets World Model: A Survey](https://www.preprints.org/manuscript/202611.2760) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://arxiv.org/abs/2610.33568) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)

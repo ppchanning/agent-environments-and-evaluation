@@ -137,3 +137,6 @@
 
 - [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](https://arxiv.org/abs/2606.16576) · [阅读笔记](../digests/agent-environments/2026/2026-11-25.md)
 - [TimeTravelContainer: A Live Forking Sandbox for Stateful Agent Exploration](https://arxiv.org/abs/2611.32255) · [阅读笔记](../digests/agent-environments/2026/2026-11-27.md)
+- [How we built the agents that built AWS Emulator](https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [LLM Agent Meets World Model: A Survey](https://www.preprints.org/manuscript/202611.2760) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)
+- [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://arxiv.org/abs/2610.33568) · [阅读笔记](../digests/agent-environments/2026/2026-11-28.md)

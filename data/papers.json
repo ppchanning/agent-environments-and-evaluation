@@ -4362,5 +4362,103 @@
       "digests/agent-environments/2026/2026-11-27.md"
     ],
     "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "url:https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+    "title": "How we built the agents that built AWS Emulator",
+    "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+    "fulltext_url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+    "authors": "Matthew Goldberg",
+    "first_published": "2026-11-11",
+    "verified_version": "AWS official engineering article",
+    "type": "official_engineering_article",
+    "verification": "依据公开原始来源的方法与结果整理",
+    "verified_at": "2026-11-28",
+    "evidence": "AWS 工程团队描述了三组代理的构建循环：在真实云服务上建立多步测试，在本地仿真器上重放，再依据差异修复。队列流程可同时核查状态码、资源和副作用。",
+    "limitations": "初始 438 个接口模型描述接口范围。公开文章没有用独立保留工作流来估计未见组合的保真度。",
+    "read_first": "对照工程文章的队列示例和 [AWS 测试准则](https://docs.aws.amazon.com/emulator/latest/userguide/fidelity.html)，辨认真实云端和本地仿真的职责。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "doi:10.13140/rg.2.2.35899.86567",
+    "title": "Spec2Repo: Benchmarking Repository Construction against Behavioral Specifications",
+    "url": "https://openenvision.org/Spec2Repo/",
+    "fulltext_url": "https://openenvision.org/Spec2Repo/Spec2Repo.pdf",
+    "authors": "Chuan Xiao; Zhengbo Jiao; Yiming Cheng; Juanxi Tian; Weiwei Xu; Bingxiang He; et al.",
+    "doi": "10.13140/rg.2.2.35899.86567",
+    "verified_version": "author-hosted PDF; no numbered version",
+    "type": "technical_report",
+    "verification": "依据公开原始来源的方法与结果整理",
+    "verified_at": "2026-11-28",
+    "evidence": "从行为规范和空目录构建可执行仓库，评测者用隐藏测试通过公开接口验收。作者报告五种语言、150 个任务、1,962 项能力及 16,597 个测试。一项任务的 69/72 测试通过仍对应 0/3 完整能力。",
+    "limitations": "测试覆盖写进规范的行为。未写明规则、独立参考的状态保真和现场运行还有各自的验证要求；首个全文公开时间未核实。",
+    "read_first": "读 §4.3 的 alertmanager 示例，核对逐测试与逐能力的分母。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2611.34617",
+    "title": "Evaluating More with Less: Black-Box Test Selection for AI Agents",
+    "url": "https://arxiv.org/abs/2611.34617",
+    "fulltext_url": "https://arxiv.org/html/2611.34617v1",
+    "authors": "Ali Asgari; Mitchell Olsthoorn; Arie van Deursen; Annibale Panichella",
+    "arxiv": "2611.34617",
+    "first_published": "2026-11-25",
+    "verified_version": "v1",
+    "type": "arxiv_preprint",
+    "verification": "依据公开原始来源的方法与结果整理",
+    "verified_at": "2026-11-28",
+    "evidence": "作者在十套基准的历史逐任务结果上比较两种选题目标：估算总体分数以及优先发现失败。在 SWE-bench Verified 的 500 题中选 100 题时，13 个配置上难度排序检出的失败数中位数为 53，随机法为 27.4。",
+    "limitations": "困难样本的失败比例无法直接估计整体。实验重用已有基准结果，且有部分套件重叠。",
+    "read_first": "对照表 3 和表 4，区分发现故障与总体估计。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "doi:10.20944/preprints202611.2760.v1",
+    "title": "LLM Agent Meets World Model: A Survey",
+    "url": "https://www.preprints.org/manuscript/202611.2760",
+    "fulltext_url": "https://www.preprints.org/frontend/manuscript/ec9f80ddd6e275cdb14df707a79101bf/download_pub",
+    "authors": "Tairan Huang; Huatai Zhu; Qiang Chen; Yili Wang; Zhongze Wu; Hengjie Xie; Wenhao Li; Yi Xu; Hui Liu; Xin Cao; Hongyan Xu; Yichao Cao; Yi Chen; Xiu Su",
+    "doi": "10.20944/preprints202611.2760.v1",
+    "first_published": "2026-11-26",
+    "verified_version": "v1",
+    "type": "survey_preprint",
+    "verification": "依据公开原始来源的方法与结果整理",
+    "verified_at": "2026-11-28",
+    "evidence": "综述按状态、动作转移和观察总结不同世界模型。软件部分将独立状态查询、运行时语言模型生成观察和可执行状态更新程序并列比较。",
+    "limitations": "表格汇总原论文，未按统一任务和预算重跑。其分类适合选读及核对接口，暂不能据此排名。",
+    "read_first": "读 §3.2 表 2 的状态存储和可验证性两列。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
+  },
+  {
+    "id": "arxiv:2610.33568",
+    "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+    "url": "https://arxiv.org/abs/2610.33568",
+    "fulltext_url": "https://arxiv.org/html/2610.33568v1",
+    "authors": "Yihao Hu; Zhihao Wen; Yitong Lin; Siyuan Lu; Pan Wang; Wei Wu; Jiang-Ming Yang; Tao Lin",
+    "arxiv": "2610.33568",
+    "first_published": "2026-10-24",
+    "verified_version": "v1",
+    "type": "arxiv_preprint",
+    "verification": "依据公开原始来源的方法与结果整理",
+    "verified_at": "2026-11-28",
+    "evidence": "从工具环境中执行并筛选交互，按可见信息和动作前提补训练轨迹。两组各使用 14,819 条交互且监督目标 token 数相同，按依赖筛选的一组多覆盖 942 种标准化路径。Tau2 三领域等权成功率由 74.17% 升至 75.83%。",
+    "limitations": "作者每个对照条件只运行一次，另一基准略降。训练轨迹来自既有工具环境，覆盖和学习表现仍需与模拟器行为验证分开。",
+    "read_first": "读附录 G.1，比较同一订单中前一步操作如何限制下一步。",
+    "appearances": [
+      "digests/agent-environments/2026/2026-11-28.md"
+    ],
+    "provenance": "ai-assisted-literature-notes"
   }
 ]
